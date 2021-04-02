@@ -1,0 +1,107 @@
+- title: Mattware
+  url: /docs/download
+  sublinks:
+    - title: Download
+      url: /docs/download
+    - title: Change Log
+      url: /docs/download/change-log
+    - title: Addons
+      url: /docs/add-ons
+# - title: Use
+#   url: /docs/use
+#   sublinks:
+#     - title: Introduction
+#       url: /docs/use
+#     - title: Using the App
+#       url: /docs/use/using-the-app
+#     - title: Spatial Tools
+#       url: /docs/use/spatial-tools
+#     - title: Spatial Programming
+#       url: /docs/use/spatial-programming
+#       sublinks:
+#         - title: Logic Blocks
+#           url: /docs/use/spatial-programming/logic-blocks
+#         - title: Example Programs
+#           url: /docs/use/spatial-programming/example-programs
+#     - title: Connect the Physical World
+#       url: /docs/use/connect-to-the-physical-world/startSystem
+#       sublinks:
+#         - title: Install on Mac
+#           url: /docs/use/connect-to-the-physical-world/install-on-mac
+#         - title: Install on Windows
+#           url: /docs/use/connect-to-the-physical-world/install-on-windows
+#         - title: Install on Raspberry Pi
+#           url: /docs/vuforia-spatial-edge-server/raspberry-pi
+#         - title: Web Interface Manager
+#           url: /docs/use/connect-to-the-physical-world/web-interface-manager
+#         - title: How to Create an Object
+#           url: /docs/use/connect-to-the-physical-world/create-object
+# - title: Develop
+#   url: /docs/develop
+#   sublinks:
+#     - title: Introduction
+#       url: /docs/develop
+#     - title: Add-ons
+#       url: /docs/develop/add-ons
+#     - title: Spatial Tools
+#       url: /docs/develop/spatial-tools
+#       sublinks:
+#         - title: Tutorial
+#           url: /docs/develop/spatial-tools/tutorial
+#         - title: API Reference
+#           url: /docs/develop/spatial-tools/api-reference
+#     - title: Hardware Interfaces
+#       url: /docs/develop/hardware-interfaces
+#       sublinks:
+#         - title: Tutorial
+#           url: /docs/develop/hardware-interfaces/tutorial
+#         - title: API Reference
+#           url: /docs/develop/hardware-interfaces/api-reference
+#     - title: Spatial Nodes
+#       url: /docs/develop/spatial-nodes
+#     - title: Spatial Blocks
+#       url: /docs/develop/spatial-blocks
+# - title: Tutorials
+#   url: /docs/tutorials
+#   sublinks:
+#     - title: How to Create an Object
+#       url: /docs/use/connect-to-the-physical-world/create-object
+#     - title: Attaching Targets to Objects
+#       url: /docs/tutorials/attaching-targets-to-objects
+#     - title: Creating a Simple Tool
+#       url: /docs/develop/spatial-tools/tutorial
+#     - title: Creating Context-Dependent Tools
+#       url: /docs/tutorials/context-dependent-tools
+#     - title: Creating 3D Tools with Three.js
+#       url: /docs/tutorials/three-js-tool-tutorial
+#     - title: Creating 3D Tools with A-Frame
+#       url: /docs/tutorials/aframe-tool-tutorial
+#     - title: Creating Envelope Tools - Part 1
+#       url: /docs/tutorials/envelope-tool-tutorial-part-1
+#     - title: Creating a New Hardware Interface
+#       url: /docs/develop/hardware-interfaces/tutorial
+#     - title: Adding Settings to a Hardware Interface
+#       url: /docs/tutorials/adding-settings-to-hardware-interface
+#     - title: Basic Interfaces Add-on
+#       url: /docs/vuforia-spatial-basic-interfaces-addon
+#       sublinks:
+#         - title: Philips Hue
+#           url: /docs/vuforia-spatial-basic-interfaces-addon/interfaces/philipsHue
+#     - title: Robotic Add-on
+#       url: /docs/vuforia-spatial-robotic-addon
+#       sublinks:
+#         - title: MIR100 Kinetic AR Prototyping
+#           url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/README
+#         - title: Using the Motion Tool
+#           url: /docs/vuforia-spatial-robotic-addon/interfaces/MIR100/tools/motion/motionTool
+#         - title: Lego Boost Kinetic AR Prototyping
+#           url: /docs/vuforia-spatial-robotic-addon/interfaces/lego-boost/README
+# - title: Dive Deeper
+#   url: /docs/dive-deeper
+#   sublinks:
+#     - title: System Architecture
+#       url: /docs/dive-deeper/system-architecture
+#     - title: Data Model
+#       url: /docs/dive-deeper/data-model
+#     - title: Local vs Global Tools
+#       url: /docs/dive-deeper/local-vs-global-tools
