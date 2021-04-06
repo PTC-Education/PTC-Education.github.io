@@ -1,8 +1,5 @@
 # - title: About
 # url: /about
-- title: PTC Education
-  url: https://www.ptc.com/en/education
-  absolute: true
 - title: Technologies
   url: /docs/tech
   sublinks:
