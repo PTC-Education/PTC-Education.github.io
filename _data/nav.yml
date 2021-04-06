@@ -4,10 +4,10 @@
   url: https://www.ptc.com/en/education
   absolute: true
 - title: Technologies
-  url: /
+  url: /docs/tech
   sublinks:
     - title: Product Design
-      url: /docs/designtech
+      url: /docs/tech/design
       sublinks:
         - title: Creo
           url: /docs/designtech/creo
@@ -16,7 +16,7 @@
         - title: Mathcad
           url: /docs/designtech/mathcad
     - title: Digital Twin
-      url: /docs/digitaltwin
+      url: /docs/tech/digitaltwin
 - title: Getting Started
   url: /docs/installs
   sublinks:
@@ -32,10 +32,25 @@
     - title: DX Guides
       url: /docs/integrations/dxguides
       sublinks:
+        - title: Spatial Toolbox on Raspberry Pi with Wifi Hotspot
+          url: https://github.com/PTC-Academic/RaspberryPi-SpatialToolbox-WifiHotspot
         - title: Spatial Toolbox and Kepware
           url: /docs/integrations/dxguides/spatialtoolboxkepware
         - title: Vuforia Studio and ThingWorx
           url: /docs/integrations/dxguides/studiotwx
+- title: Academic Case Studies
+  url: /docs/casestudies
+  sublinks: 
+    - title: Webinar Recordings
+      url: /docs/casestudies/webinars
+    - title: DX Research
+      url: /docs/casestudies/research
+      sublinks:
+        - title: Publications
+          url: /docs/casestudies/research/publications
+    - title: DX in Education
+      url: /docs/casestudies/education
+
 # - title: Use
 #   url: /docs/use
 #   sublinks:
