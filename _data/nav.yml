@@ -1,26 +1,18 @@
 # - title: About
 # url: /about
+- title: Start Here
+  url: /
 - title: Technologies
   url: /docs/tech
   sublinks:
+    # - title: Product Development Process
+    #   url: /docs/tech/process
     - title: Product Design
       url: /docs/tech/design
-      sublinks:
-        - title: Creo
-          url: /docs/designtech/creo
-        - title: Onshape
-          url: /docs/designtech/onshape
-        - title: Mathcad
-          url: /docs/designtech/mathcad
     - title: Digital Twin
-      url: /docs/tech/digitaltwin
-- title: Getting Started
-  url: /docs/installs
-  sublinks:
-    - title: Installing Software
-      url: /docs/installs
-    - title: Learning Resources
-      url: /docs/resources
+      url: /docs/tech/twin
+    - title: Digital Thread
+      url: /docs/tech/thread
 - title: Dive Deeper
   url: /docs/integrations
   sublinks:

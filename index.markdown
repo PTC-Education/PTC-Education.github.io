@@ -3,11 +3,44 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /
 ---
 
-## Digital Transformation in Education
-[Digital Transformation](https://www.ptc.com/en/industry-insights/digital-transformation) is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world.
-
+<section class="section">
+    <div class="container">
+        <h1 class="title header-home">Digital Transformation in Education</h1>
+        <div class="subtitle"><a href="https://www.ptc.com/en/industry-insights/digital-transformation">Digital Transformation</a> is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world. Below is a map that aims to show how the various kinds of technologies work together to connect all of the product development processes.
+        </div>
+        <p align="center"><img src="resources/AP-overview.png" width="650" alt="DX Technologies Map"/></p>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="subtitle">Click on an item below to get started with PTC technologies, learn about various integrations, or see how thought leaders are bringing digital transformation to education.
+        </div>
+    </div>
+    <div class="container">
+        <div class="columns is-vcentered is-centered is-multiline ">
+            <div class="column is-one-third is-vcentered is-centered">
+                <a href="/docs/tech"><p>
+                <img src="resources/IoT-icon.png" alt=""/></p>
+                <div class="subtitle" align="center">Technologies</div>
+                </a>
+            </div>
+            <div class="column is-one-third">
+                <a href="/docs/integrations"><p><img src="resources/Integrations-icon.png" alt=""/></p>
+                <div class="subtitle" align="center">Integrations</div>
+                </a>
+            </div>
+            <div class="column is-one-third">
+                <a href="/docs/casestudies">
+                <p><img src="resources/Academic-icon.png" alt=""/></p>
+                <div class="subtitle" align="center">Case Studies</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section">
     <div class="container">
         <h1 class="title header-home">What is PTC Education?</h1>
@@ -20,6 +53,3 @@ layout: home
         </div>
     </div>
 </section>
-
-## PTC DX Concept Map
-![PTC Academic Digital Transformation (Smart Manufacturing, Industry 4.0) Products Map](resources/AP-overview.png)
