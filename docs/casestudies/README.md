@@ -14,10 +14,9 @@ permalink: /docs/casestudies
 <section class="section">
     <div class="container">
         <h1 class="title header-home">Webinars</h1>
-        <div class="subtitle">Each semeester, we hold a PTC EDU Tech Webinar to highlight the work being done by our education collaborators. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY4ycp_AAJ4CNSGHRcMVVIT9qJ55Z5aFWB85smU-FEjOotdA/viewform">Register for the PTC EDU Tech Webinar series.</a>r />
-        <br />
-        <a href="webinars">Archive of Webinar Recordings</a>
-        </ul>
+        <div class="subtitle">Each semeester, we hold a PTC EDU Tech Webinar to highlight the work being done by our education collaborators. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY4ycp_AAJ4CNSGHRcMVVIT9qJ55Z5aFWB85smU-FEjOotdA/viewform">Register for the PTC EDU Tech Webinar series.</a>
+        </div>
+        <div>Visit the <a href="webinars">archive of Webinar Recordings</a> to watch past PTC EDU Tech Webinars.
         </div>
     </div>
 </section>
