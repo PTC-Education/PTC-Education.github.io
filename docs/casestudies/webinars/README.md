@@ -1,9 +1,45 @@
+---
+layout: doc
+title: PTC EDU Tech Webinar Archive
+permalink: /docs/casestudies/webinars
+---
+
+<section class="section">
+    <div class="container">
+        <h1 class="title header-home">PTC EDU Tech Webinar Archive</h1>
+        <div class="subtitle">The PTC Education Advanced Technology Team works with thought leaders from around the world who are pushing the boundaries of what is possible with digital transformation and Industry 4.0 in research and teaching. Along with a team of student researchers, we work with technical teams around PTC to develop integrations between various technologies and enable academic users to more easily get started connecting and using their digital threads.
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <h1 class="title header-home">List of Past Webinars:</h1>
+        <div>
+            <table>
+                <tr>
+                    <td>Presenter</td>
+                    <td>Topic</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">Chris Rogers, Tufts University</td>
+                    <td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001">Mechanical Engineering professor talks about teaching IoT to first year engineering students</a></td>
+                    <td><a href="https://github.com/PTC-Academic/DX-Resources/tree/master/Curriculum%20Resources/IoT%20Course%20Layout">Layout for First Year IoT Course</a>, includes weekly overview of the semester for first year engineering students learning the Internet of Things.</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</section>
+
+
+
+
+
 # Digital Transformation Curriculum, Case Studies, and Resources
 ## IoT Course
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
 |---|---|
 | [Tufts University's Chris Rogers Webinar](https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001) | Mechanical Engineering professor talks about teaching IoT to first year engineering students |
-| [Layout for First Year IoT Course](https://github.com/PTC-Academic/DX-Resources/tree/master/Curriculum%20Resources/IoT%20Course%20Layout) | Weekly overview of the semester for first year engineering students learning the Internet of Things |
+| [ |
 
 ## Smart Manufacturing
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
