@@ -18,7 +18,7 @@ permalink: /docs/casestudies/webinars
             <table>
                 <thead>
                     <tr>
-                        <th>Presenter</th>
+                        <th width="150">Presenter</th>
                         <th>Topic</th>
                     </tr>
                 </thead>
@@ -38,7 +38,7 @@ permalink: /docs/casestudies/webinars
             <table>
                 <thead>
                     <tr>
-                        <th>Presenter</th>
+                        <th width="150">Presenter</th>
                         <th>Topic</th>
                     </tr>
                 </thead>
@@ -58,7 +58,7 @@ permalink: /docs/casestudies/webinars
             <table>
                 <thead>
                     <tr>
-                        <th>Presenter</th>
+                        <th width="150">Presenter</th>
                         <th>Topic</th>
                     </tr>
                 </thead>
@@ -79,7 +79,7 @@ permalink: /docs/casestudies/webinars
             <table>
                 <thead>
                     <tr>
-                        <th>Presenter</th>
+                        <th width="150">Presenter</th>
                         <th>Topic</th>
                     </tr>
                 </thead>
@@ -96,7 +96,7 @@ permalink: /docs/casestudies/webinars
             <table>
                 <thead>
                     <tr>
-                        <th>Presenter</th>
+                        <th width="150">Presenter</th>
                         <th>Topic</th>
                     </tr>
                 </thead>
@@ -113,7 +113,7 @@ permalink: /docs/casestudies/webinars
             <table>
                 <thead>
                     <tr>
-                        <th>Presenter</th>
+                        <th width="150">Presenter</th>
                         <th>Topic</th>
                     </tr>
                 </thead>
