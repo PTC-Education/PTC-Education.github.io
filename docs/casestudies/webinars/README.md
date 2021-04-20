@@ -64,11 +64,12 @@ permalink: /docs/casestudies/webinars
                 </thead>
                 <tbody>
                     <tr>
-                        <td rowspan="2">Yuri Hovanski, Brigham Young University</td>
-                        <td><a href="https://players.brightcove.net/1532789042001/HknUe20R_default/index.html?videoId=6146274139001">Strategies and Implementation for a Smart Factory Initiative within the University</a></td>
+                        <td>Alison Olechowski, University of Toronto</td>
+                        <td><a href="https://www.youtube.com/watch?v=z35y07ozh3A">Dr. Alison Olechowski presented the findings from a series of experiments which explore new ways of designing collaboratively in CAD. These experiments consider not only design outcomes like quality and speed, but also designer emotion. Further, she shared preliminary results which indicate that collaborative CAD tools can open new opportunities for the way we teach and learn to design with CAD.</a></td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Academic/DX-Resources/tree/master/Curriculum%20Resources/Smart%20Manufacturing%20Supporting%20Documents">A collection of articles on the theories motivating the push for smart manufacturing, from digitizing and connecting machines to visualizing information in augmented reality.</a></td>
+                        <td>Karthik Ramani, Purdue University</td>
+                        <td><a href="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001">Mechanical Engineering professor talks about teaching engineering design to university students by having them build toys.</a></td>
                     </tr> 
                 </tbody>
             </table>
@@ -76,11 +77,6 @@ permalink: /docs/casestudies/webinars
     </div>
 </section>
 
-## Design Education
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [University of Toronto's Alison Olechowski Webinar](https://www.youtube.com/watch?v=z35y07ozh3A) | Dr. Alison Olechowski presented the findings from a series of experiments which explore new ways of designing collaboratively in CAD. These experiments consider not only design outcomes like quality and speed, but also designer emotion. Further, she shared preliminary results which indicate that collaborative CAD tools can open new opportunities for the way we teach and learn to design with CAD.|
-| [Purdue University's Karthik Ramani Webinar](https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001) | Mechanical Engineering professor talks about teaching engineering design to university students by having them build toys|
 
 ## Digital Twin Strategies
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
