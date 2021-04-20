@@ -86,7 +86,7 @@ permalink: /docs/casestudies/webinars
                 <tbody>
                     <tr>
                         <td>Horst Orsolits, UAS Technikum Wien</td>
-                        <td><a href="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001">Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</td>
+                        <td><a href="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001">Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</a></td>
                     </tr>
                 </tbody>
             </table>
@@ -103,7 +103,7 @@ permalink: /docs/casestudies/webinars
                 <tbody>
                     <tr>
                         <td>John Liu, MIT</td>
-                        <td><a href="https://www.youtube.com/watch?v=cD8XsqNefMw">Dr. John Liu, a lecturer and scientist in the Mechanical Engineering department at MIT who leads a group in the Digital Learning Lab, discusses the protential of using AR to teach complex concepts and train the workforce of the future.</td>
+                        <td><a href="https://www.youtube.com/watch?v=cD8XsqNefMw">Dr. John Liu, a lecturer and scientist in the Mechanical Engineering department at MIT who leads a group in the Digital Learning Lab, discusses the protential of using AR to teach complex concepts and train the workforce of the future.</a></td>
                     </tr>
                 </tbody>
             </table>
@@ -120,7 +120,7 @@ permalink: /docs/casestudies/webinars
                 <tbody>
                     <tr>
                         <td>Reality Lab, PTC</td>
-                        <td><a href="https://youtu.be/E_KaqgV_3mA)">Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</td>
+                        <td><a href="https://youtu.be/E_KaqgV_3mA)">Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</a></td>
                     </tr>
                 </tbody>
             </table>
