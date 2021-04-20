@@ -23,6 +23,8 @@ permalink: /docs/casestudies/webinars
                 <tr>
                     <td rowspan="2">Chris Rogers, Tufts University</td>
                     <td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001">Mechanical Engineering professor talks about teaching IoT to first year engineering students</a></td>
+                </tr>
+                <tr>
                     <td><a href="https://github.com/PTC-Academic/DX-Resources/tree/master/Curriculum%20Resources/IoT%20Course%20Layout">Layout for First Year IoT Course</a>, includes weekly overview of the semester for first year engineering students learning the Internet of Things.</td>
                 </tr>
             </table>
