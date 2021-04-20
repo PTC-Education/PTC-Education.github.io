@@ -6,20 +6,20 @@ permalink: /docs/casestudies/webinars
 
 <section class="section">
     <div class="container">
-        <h1 class="title header-home">PTC EDU Tech Webinar Archive</h1>
-        <div class="subtitle">The PTC Education Advanced Technology Team works with thought leaders from around the world who are pushing the boundaries of what is possible with digital transformation and Industry 4.0 in research and teaching. Along with a team of student researchers, we work with technical teams around PTC to develop integrations between various technologies and enable academic users to more easily get started connecting and using their digital threads.
+        <h2>PTC EDU Tech Webinar Archive</h2>
+        <div>The PTC Education Advanced Technology Team works with thought leaders from around the world who are pushing the boundaries of what is possible with digital transformation and Industry 4.0 in research and teaching. Along with a team of student researchers, we work with technical teams around PTC to develop integrations between various technologies and enable academic users to more easily get started connecting and using their digital threads.
         </div>
     </div>
 </section>
 <section class="section">
     <div class="container">
-        <h1 class="title header-home">List of Past Webinars:</h1>
+        <h2>List of Past Webinars:</h2>
         <div>
             <table>
-                <tr>
+                <thead>
                     <td>Presenter</td>
                     <td>Topic</td>
-                </tr>
+                </thead>
                 <tr>
                     <td rowspan="2">Chris Rogers, Tufts University</td>
                     <td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001">Mechanical Engineering professor talks about teaching IoT to first year engineering students</a></td>
