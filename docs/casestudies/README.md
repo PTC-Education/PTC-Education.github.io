@@ -22,7 +22,15 @@ permalink: /docs/casestudies
 </section>
 <section class="section">
     <div class="container">
-        <h2>Research</h2>
+        <h2>DX Research</h2>
+    </div>
+    <div class="container">
+        <h3>DX Publications</h2>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <h2>DX in Education</h2>
     </div>
 </section>
 
