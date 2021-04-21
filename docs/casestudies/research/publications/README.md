@@ -5,7 +5,7 @@ permalink: /docs/casestudies/research/publications
 ---
 
 <section class="section">
-    <div>This section includes articles published by PTC and others related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.
+    <div>This section includes articles published by PTC and others related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.<br /><br />
     </div>
     <div class="container">
         <h2>Augmented Reality (AR) Publications</h2>
