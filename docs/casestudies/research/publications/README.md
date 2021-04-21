@@ -129,28 +129,12 @@ BUYER’S GUIDE</a></td>
                         <td>Manufacturers are making major business improvements using the Internet of Things (IoT). They’re delivering value to customers in new ways and exploring new business models like selling outcomes versus products or shifting to a predictive service model. Some companies are well on their way to this strategic value, while for others it may seem out of reach.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/What%20Is%20the%20Business%20Value%20of%20Digital%20Twin_%20_%20PTC.pdf">What Is the Business Value of Digital Twin Technology?</a></td>
+                        <td>Traditionally a company develops a product, ships it to its customers or through reseller channels and only receives feedback through unreliable customer service portals, surveys or other verbatim mechanisms. What’s lacking in this black-boxed environment are the products actual operational performance and insights.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/accelerating-digitalization-in-manufacturing-industries-primer-for-2018-3850475-344077.pdf">Accelerating Digitalization in Manufacturing Industries</a></td>
+                        <td>Advances in AI, analytics, IoT and 3D printing are transforming the business of manufacturing industries. This research will help CIOs drive the acceleration of new processes, technologies and ecosystems to improve organizational flexibility and agility in an era of digital business.</td>
                     </tr>
                 </tbody>
             </table>
