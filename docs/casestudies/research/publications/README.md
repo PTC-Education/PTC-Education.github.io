@@ -66,8 +66,8 @@ BUYER’S GUIDE</a></td>
                         <td>Teel Plastics Reduces Human Error with IoT Strategy Powered by Kepware</td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/ThingWorx_Industrial_Connectivity-Product-Brief_2018.pdf"></a></td>
-                        <td></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/ThingWorx_Industrial_Connectivity-Product-Brief_2018.pdf">ThingWorx Industrial Connectivity Product Brief</a></td>
+                        <td>ThingWorx Industrial Connectivity connects disparate automation devices to the ThingWorx Industrial Innovation Platform, making it easy for enterprises to quickly derive the benefits of the Internet of Things.</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/kepserverex-brochure.pdf">KEPServerEX Connectivity Platform</a></td>
