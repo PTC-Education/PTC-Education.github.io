@@ -48,7 +48,7 @@ permalink: /docs/tech/design
                 <tbody>
                     <tr>
                         <td><a href="https://www.ptc.com/en/support/help/Creo">Creo Help Centers</a></td>
-                        <td>Help resources for all Creo products and versions, includes [Tutorials](https://support.ptc.com/help/creo/creo_pma/r7.0/usascii/#page/tutorials_pma%2Fonline_help%2Faux_files%2Fpma_tutorials.html%23) for the latest versions.</td>
+                        <td>Help resources for all Creo products and versions, includes <a href="https://support.ptc.com/help/creo/creo_pma/r7.0/usascii/#page/tutorials_pma%2Fonline_help%2Faux_files%2Fpma_tutorials.html%23">Tutorials</a> for the latest versions.</td>
                     </tr>
                     <tr>
                         <td><a href="https://apps.ptc.com/schools/curriculum/DX/MathCAD-Creo-DX.pdf">PTC MathCAD & Creo Parametric Integration Guide</a></td>
