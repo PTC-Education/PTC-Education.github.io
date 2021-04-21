@@ -22,15 +22,14 @@ permalink: /docs/casestudies
 </section>
 <section class="section">
     <div class="container">
-        <h2>DX Research</h2>
-    </div>
-    <div class="container">
-        <h3>DX Publications</h3>
+        <h2>DX Research and Teaching</h2>
+        <div>PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. <a href="https://ptc-education.github.io/docs/casestudies/research">Select outcomes from some of those collaborations are highlighted in this section.</a></div>
     </div>
 </section>
 <section class="section">
     <div class="container">
-        <h2>DX in Education</h2>
+        <h2>DX Publications</h2>
+        <div>This section includes <a href="https://ptc-education.github.io/docs/casestudies/research">articles published by PTC and others</a> related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.</div>
     </div>
 </section>
 
