@@ -13,8 +13,8 @@ permalink: /docs/casestudies/research
     <div class="container">
         <table>
             <thead>
-                <tr colspan="2">
-                    <th>Brigham Young University</th>
+                <tr>
+                    <th colspan="2">Brigham Young University</th>
                 </tr>
             </thead>
             <tbody>
