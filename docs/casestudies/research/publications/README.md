@@ -69,6 +69,11 @@ BUYER’S GUIDE</a></td>
                         <td>ThingWorx Industrial Connectivity connects disparate automation devices to the ThingWorx Industrial Innovation Platform, making it easy for enterprises to quickly derive the benefits of the Internet of Things.</td>
                     </tr>
                     <tr>
+                        <td><a href="ttps://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/ThingWorx_WhitePaper_J9314.pdf">Securing the Architecture and Infrastructure of the IoT Ecosystem</a></td>
+                        <td>If compromised, devices and systems connected via the Internet of Things (IoT) could cause serious harm – medical devices, automobiles, electrical power infrastructure, etc. It is critical that organizations working in IoT create an end-to-end security strategy that protects their devices, applications, architecture, and infrastructure.</td>
+                    </tr>
+                    h
+                    <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/kepserverex-brochure.pdf">KEPServerEX Connectivity Platform</a></td>
                         <td>KEPServerEX is the industry's leading connectivity platform that provides a single source of industrial automation data to all of your applications. The platform design allows users to connect, manage, monitor, and control diverse automation devices and software applications through one intuitive user interface. <a href="https://www.kepware.com/en-us/products/kepserverex/" target="_blank">More details online.</a></td>
                     </tr>
@@ -112,16 +117,16 @@ BUYER’S GUIDE</a></td>
                         <td>Manufacturing service professionals are problem-solvers, code-breakers and translators. In order to fix a machine that is unexpectedly offline, under-performing, out-of-range or otherwise anomalous, service technicians need to be fluent in the machine’s language. And for industrial equipment, that language is real-time, accurate and accessible data.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Real-Time-Alerts_eBook.pdf">How to Improve Operational Performance in Real Time</a></td>
+                        <td>Since the very first industrial-strength machine was switched on for the very first time, plant executives have lied awake asking themselves the same questions: How can I predict and prevent machine downtime? How can I tell which small issues will grow into big problems? How can I integrate communication between machines, departments, and people? How can I increase machine safety and compliance?</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/SPOTLIGHT-IIoT_ACCELERATING-INDUSTRIAL-TRANSFORMATION_Role%20based%20industry%20apps.pdf"> ACCELERATING DIGITAL TRANSFORMATION: Improvement Initiatives and Role-Based Industry Apps Take the Lead</a></td>
+                        <td>Industry 4.0, Smart Manufacturing, and Digital Transformation all referred to by LNS Research as Industrial Transformation, have be- come the dominant topics of boardroom conversation for large and mid-sized industrial companies alike.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Tech-Clarity_Remote-Monitoring-Quickstart_eBook.pdf"> Quick Start Guide: Monitoring Equipment with IoT</a></td>
+                        <td>Manufacturers are making major business improvements using the Internet of Things (IoT). They’re delivering value to customers in new ways and exploring new business models like selling outcomes versus products or shifting to a predictive service model. Some companies are well on their way to this strategic value, while for others it may seem out of reach.</td>
                     </tr>
                     <tr>
                         <td><a href=""></a></td>
