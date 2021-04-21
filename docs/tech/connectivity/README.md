@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Digital Twin Technologies
-permalink: /docs/tech/twin
+permalink: /docs/tech/connectivity
 ---
 
 # Digital Twin (IoT or AR)
