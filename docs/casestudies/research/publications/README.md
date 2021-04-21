@@ -40,6 +40,7 @@ BUYER’S GUIDE</a></td>
                 </tbody>
             </table>
         </div>
+    </div>
     <div class="container">
         <h2>Connectivity Publications</h2>
         <div>
@@ -80,6 +81,7 @@ BUYER’S GUIDE</a></td>
                 </tbody>
             </table>
         </div>
+    </div>
     <div class="container">
         <h2>Other Publications</h2>
         <div>
@@ -118,4 +120,5 @@ BUYER’S GUIDE</a></td>
                 </tbody>
             </table>
         </div>
+    </div>
 </section>
