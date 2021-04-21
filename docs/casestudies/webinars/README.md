@@ -7,10 +7,9 @@ permalink: /docs/casestudies/webinars
 <section class="section">
     <div class="container">
         <h2>PTC EDU Tech Webinar Archive</h2>
-        <div>The PTC Education Advanced Technology Team works with thought leaders from around the world who are pushing the boundaries of what is possible with digital transformation and Industry 4.0 in research and teaching. Along with a team of student researchers, we work with technical teams around PTC to develop integrations between various technologies and enable academic users to more easily get started connecting and using their digital threads.
+        <div>The PTC Education Advanced Technology Team works with thought leaders from around the world who are pushing the boundaries of what is possible with digital transformation and Industry 4.0 in research and teaching. Along with a team of student researchers, we work with technical teams around PTC to develop integrations between various technologies and enable academic users to more easily get started connecting and using their digital threads.<br /><br />
         </div>
     </div>
-    <div></div>
     <div class="container">
         <h2>Internet of Things</h2>
         <div>
