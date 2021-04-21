@@ -54,8 +54,7 @@ BUYER’S GUIDE</a></td>
                 <tbody>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/Hirotec-Launches-Iot-Initiative-With-Kepware.pdf">Automotive Parts Supplier Launches IoT Initiative in Scalable Sprints Powered by PTC IoT Manufacturing Solutions</a></td>
-                        <td>HIROTEC Group Companies is a $1.6 billion corporation with over 60 years of mass production experience and engineering discipline. With 26 facilities in eight countries around the world, HIROTEC is globally recognized as a premier automation manufacturing equipment and parts supplier.
-</td>
+                        <td>HIROTEC Group Companies is a $1.6 billion corporation with over 60 years of mass production experience and engineering discipline. With 26 facilities in eight countries around the world, HIROTEC is globally recognized as a premier automation manufacturing equipment and parts supplier.</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/IO-Link_System_Description_engl_2013.pdf">IO-Link System Description: Technology and Application</a></td>
@@ -71,11 +70,10 @@ BUYER’S GUIDE</a></td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/kepserverex-brochure.pdf">KEPServerEX Connectivity Platform</a></td>
-                        <td>KEPServerEX is the industry's leading connectivity platform that provides a single source of industrial automation data to all of your applications. The platform design allows users to connect, manage, monitor, and control diverse automation devices and software applications through one intuitive user interface.<a href="https://www.kepware.com/en-us/products/kepserverex/" target="_blank">More details online.</a></td>
+                        <td>KEPServerEX is the industry's leading connectivity platform that provides a single source of industrial automation data to all of your applications. The platform design allows users to connect, manage, monitor, and control diverse automation devices and software applications through one intuitive user interface. <a href="https://www.kepware.com/en-us/products/kepserverex/" target="_blank">More details online.</a></td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/rowan-hortonworks-case-study.pdf">Global Offshore Drilling Provider Rowan Companies Increases Efficiencies through IoT Solution
-</a></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/rowan-hortonworks-case-study.pdf">Global Offshore Drilling Provider Rowan Companies Increases Efficiencies through IoT Solution</a></td>
                         <td>Rowan Companies (Rowan) is a global provider of offshore contract drilling services. Its fleet operates in the United States Gulf of Mexico, the United Kingdom and Norwegian sectors of the North Sea, the Middle East, and Trinidad. It includes four ultra-deepwater drillships and 25 jack-up rigs. For more than 90 years, Rowan has provided safe, reliable and efficient drilling services to its clients.</td>
                     </tr>
                 </tbody>
@@ -93,6 +91,38 @@ BUYER’S GUIDE</a></td>
                     </tr>
                 </thead>
                 <tbody>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/3%20Ways%20AR%20Can%20Improve%20New%20Technician%20Skill%20Adoption%20_%20PTC.pdf">3 Ways AR Can Improve New Technician Skill Adoption</a></td>
+                        <td>By 2020, 25% of the American workforce will be approaching retirement. In some industries this is a major concern because these employees will take years of critical expertise into retirement with them. As such, organizations are exploring innovative ways to transfer knowledge from their experienced employees to newer hires.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Gartner%20Magic%20Quadrant%20for%20IIoT%20Platforms.pdf">Magic Quadrant for Industrial IoT Platforms</a></td>
+                        <td>Gartner defines the industrial Internet of Things (IIoT) platform market as a set of integrated software capabilities to improve asset management decision making and operational visibility and control for plants, infrastructure and equipment within asset-intensive industries and environments.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/MAN-Truck-Navigate-Story%20-%20Digital%20Processes.pdf">MAN Truck & Bus Hits the Fast Lane with ThingWorx Navigate</a></td>
+                        <td>MAN Truck was on a digital transformation journey. The manufacturer prides itself on producing individualized products for each of its customers. However, juggling product information through the organization’s various legacy enterprise systems was becoming too complicated to handle given the complex task of customization. What the manufacturer needed was a core PLM “backbone” for its product development – a stable system to manage data with core, foundational functionality – so that the team could continue to develop and manufacture products efficiently.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/PTC_RemoteMonitoring-4-Reasons.pdf">4 Reasons Remote Monitoring Is Your Best Move to Better Service</a></td>
+                        <td>Remote monitoring enables a proactive maintenance approach by providing visibility and insight to equipment performance across the install base. </td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/QuickWins_RemoteMonitoring.pdf">Quick Wins and Long-Term Results with Remote Monitoring</a></td>
+                        <td>Manufacturing service professionals are problem-solvers, code-breakers and translators. In order to fix a machine that is unexpectedly offline, under-performing, out-of-range or otherwise anomalous, service technicians need to be fluent in the machine’s language. And for industrial equipment, that language is real-time, accurate and accessible data.</td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
                     <tr>
                         <td><a href=""></a></td>
                         <td></td>
