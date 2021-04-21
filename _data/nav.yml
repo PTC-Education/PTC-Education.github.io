@@ -32,13 +32,10 @@
   sublinks: 
     - title: Webinars
       url: /docs/casestudies/webinars
-    - title: DX Research
+    - title: DX Research and Teaching
       url: /docs/casestudies/research
-      sublinks:
-        - title: Publications
-          url: /docs/casestudies/research/publications
-    - title: DX in Education
-      url: /docs/casestudies/education
+    - title: Publications
+      url: /docs/casestudies/research/publications
 
 # - title: Use
 #   url: /docs/use
