@@ -11,3 +11,40 @@ permalink: /docs/integrations/dxguides
         </div>
     </div>
 </section>
+<section class="section">
+    <div class="container">
+        <h2>Augmented Reality (AR) Publications</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Title/Link</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Academic/RaspberryPi-SpatialToolbox-WifiHotspot">Spatial Toolbox on Raspberry Pi with Wifi Hotspot</a></td>
+                        <td>image of outcome...</td>
+                    </tr>
+                    <tr>
+                        <td><a href="/docs/integrations/dxguides/spatialtoolboxkepware">Spatial Toolbox and Kepware</a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/AR/Augmented_Reality-A-Winning-Strategy-for-Service.pdf">Augmented Reality: A Winning Strategy for Service </a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="">next link</a></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
