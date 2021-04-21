@@ -5,7 +5,7 @@ permalink: /docs/tech/design
 ---
 
 <section class="section">
-    <h1>Design Technologies</h1>
+    <h2>Design Technologies</h1>
     <div>This page contains links to resources for learning how to use various design technologies for DX and I4.0 applications.
     </div>
     <div class="container">
