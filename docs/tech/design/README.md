@@ -80,13 +80,10 @@ permalink: /docs/tech/design
                         <th>Description</th>
                     </tr>
                 </thead>
+                <tbody>
                     <tr>
                         <td><a href="https://apps.ptc.com/schools/curriculum/DX/MathCAD-Creo-DX.pdf">Example Exercise/Guide</a></td>
                         <td>PTC MathCAD & Creo Parametric Integration Guide</td>
-                    </tr>
-                    <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
                     </tr>
                 </tbody>
             </table>
