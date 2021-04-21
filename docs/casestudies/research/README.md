@@ -20,7 +20,7 @@ permalink: /docs/casestudies/research
             </thead>
             <tbody>
                 <tr>
-                    <td>Outcome title here<a href="#">Link here</a></td>
+                    <td>Outcome title here | <a href="#">Link here</a></td>
                     <td>Details here</td>
                 </tr>
             </tbody>
