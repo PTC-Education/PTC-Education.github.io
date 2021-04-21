@@ -6,7 +6,7 @@ permalink: /docs/casestudies/research
 
 <section class="section">
     <div class="container">
-        <h2>DX Research</h2>
+        <h2>DX Collaborator Research and Teaching</h2>
     </div>
     <div>PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. Some outcomes from some of those collaborations are highlighted here.
     </div>
