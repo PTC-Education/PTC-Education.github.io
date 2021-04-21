@@ -20,13 +20,6 @@
       url: /docs/integrations
     - title: DX Guides
       url: /docs/integrations/dxguides
-      sublinks:
-        - title: Spatial Toolbox on Raspberry Pi with Wifi Hotspot
-          url: https://github.com/PTC-Academic/RaspberryPi-SpatialToolbox-WifiHotspot
-        - title: Spatial Toolbox and Kepware
-          url: /docs/integrations/dxguides/spatialtoolboxkepware
-        - title: Vuforia Studio and ThingWorx
-          url: /docs/integrations/dxguides/studiotwx
 - title: Academic Case Studies
   url: /docs/casestudies
   sublinks: 
