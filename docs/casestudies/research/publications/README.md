@@ -33,8 +33,7 @@ permalink: /docs/casestudies/research/publications
                         <td>Augmented reality (AR) technology is here now, and companies of all shapes and sizes are utilizing it to change the way work gets done and to drive better outcomes for themselves and their clients. IDC believes that service-based organizations should be among the first to embrace this new technology or they could face near-term disruption of their business. </td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/AR/Industrial-Augmented-Reality-Buyers-Guide_Select-the-Right-AR-Tools.pdf">Industrial Augmented Reality
-BUYER’S GUIDE</a></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/AR/Industrial-Augmented-Reality-Buyers-Guide_Select-the-Right-AR-Tools.pdf">Industrial Augmented Reality BUYER’S GUIDE</a></td>
                         <td>A guide to help businesses select the best AR Solution for their needs.</td>
                     </tr>
                 </tbody>
@@ -72,7 +71,6 @@ BUYER’S GUIDE</a></td>
                         <td><a href="ttps://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/ThingWorx_WhitePaper_J9314.pdf">Securing the Architecture and Infrastructure of the IoT Ecosystem</a></td>
                         <td>If compromised, devices and systems connected via the Internet of Things (IoT) could cause serious harm – medical devices, automobiles, electrical power infrastructure, etc. It is critical that organizations working in IoT create an end-to-end security strategy that protects their devices, applications, architecture, and infrastructure.</td>
                     </tr>
-                    h
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/kepserverex-brochure.pdf">KEPServerEX Connectivity Platform</a></td>
                         <td>KEPServerEX is the industry's leading connectivity platform that provides a single source of industrial automation data to all of your applications. The platform design allows users to connect, manage, monitor, and control diverse automation devices and software applications through one intuitive user interface. <a href="https://www.kepware.com/en-us/products/kepserverex/" target="_blank">More details online.</a></td>
