@@ -52,6 +52,54 @@ BUYER’S GUIDE</a></td>
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/Hirotec-Launches-Iot-Initiative-With-Kepware.pdf">Automotive Parts Supplier Launches IoT Initiative in Scalable Sprints Powered by PTC IoT Manufacturing Solutions</a></td>
+                        <td>HIROTEC Group Companies is a $1.6 billion corporation with over 60 years of mass production experience and engineering discipline. With 26 facilities in eight countries around the world, HIROTEC is globally recognized as a premier automation manufacturing equipment and parts supplier.
+</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/IO-Link_System_Description_engl_2013.pdf">IO-Link System Description: Technology and Application</a></td>
+                        <td>IO-Link is the first I/O technology for communi- cating with sensors and actuators to be adopt- ed as an international standard (IEC 61131-9). The goal of the IO-Link Company Community is to develop and market IO-Link technology.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/Teel-Plastics-Reduces-Error-with-Kepware.pdf">Teel Plastics Reduces Human Error with IoT Strategy Powered by Kepware</a></td>
+                        <td>Teel Plastics Reduces Human Error with IoT Strategy Powered by Kepware</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/ThingWorx_Industrial_Connectivity-Product-Brief_2018.pdf"></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/kepserverex-brochure.pdf">KEPServerEX Connectivity Platform</a></td>
+                        <td>KEPServerEX is the industry's leading connectivity platform that provides a single source of industrial automation data to all of your applications. The platform design allows users to connect, manage, monitor, and control diverse automation devices and software applications through one intuitive user interface.<a href="https://www.kepware.com/en-us/products/kepserverex/" target="_blank">More details online.</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/rowan-hortonworks-case-study.pdf">Global Offshore Drilling Provider Rowan Companies Increases Efficiencies through IoT Solution
+</a></td>
+                        <td>Rowan Companies (Rowan) is a global provider of offshore contract drilling services. Its fleet operates in the United States Gulf of Mexico, the United Kingdom and Norwegian sectors of the North Sea, the Middle East, and Trinidad. It includes four ultra-deepwater drillships and 25 jack-up rigs. For more than 90 years, Rowan has provided safe, reliable and efficient drilling services to its clients.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    <div class="container">
+        <h2>Other Publications</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Title/Link</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
                         <td><a href=""></a></td>
                         <td></td>
                     </tr>
@@ -70,5 +118,4 @@ BUYER’S GUIDE</a></td>
                 </tbody>
             </table>
         </div>
-
 </section>
