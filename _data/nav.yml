@@ -7,10 +7,10 @@
   sublinks:
     # - title: Product Development Process
     #   url: /docs/tech/process
-    - title: Product Design
+    - title: Design
       url: /docs/tech/design
-    - title: Digital Twin
-      url: /docs/tech/twin
+    - title: Connectivity
+      url: /docs/tech/coonnectivity
     - title: Digital Thread
       url: /docs/tech/thread
 - title: Dive Deeper
