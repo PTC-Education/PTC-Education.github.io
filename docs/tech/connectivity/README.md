@@ -1,36 +1,136 @@
 ---
 layout: doc
-title: Digital Twin Technologies
+title: Connectivity Technologies
 permalink: /docs/tech/connectivity
 ---
 
-# Digital Twin (IoT or AR)
+<section class="section">
+    <h2>Connectivity Technologies</h2>
+    <div>This page contains links to resources for learning how to use various design technologies for DX and I4.0 applications.<br /><br />
+    </div>
+    <div class="container">
+        <h2>ThingWorx</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/HelloThingWorx.pdf">Hello ThingWorx!</a></td>
+                        <td>A simple Hello World ThingWorx example that shows how to use REST API to make a simple IoT temperature dashboard.  ThingWorx and Vuforia Studio both require knowledge of JavaScript -- <a href="https://www.w3schools.com/js/">Learn JS at W3Schools.com</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/en/resources/learning-paths">ThingWorx Developer Portal - Learning Pathways</a></td>
+                        <td>The PTC Developer Portal contains free resources for learning and building IoT solutions with ThingWorx. Specifically, this course is a good place to start: <a href="https://developer.thingworx.com/en/resources/learning-paths/getting-started-on-thingworx-platform">Getting Started on the ThingWorx Platform</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/en/resources/guides/mfg-apps-hosted-asset-advisor">Monitor Plant Equipment Using Asset Advisor</a></td>
+                        <td>ThingWorx can optionally include some out-of-the-box Manufacutring Apps, to Monitor and Control a manufacturing systems; this learning path is a good starting point.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/en/resources/guides/display-data-charts">How to Display Data in Charts</a></td>
+                        <td>This guide will show you how to graphically display multiple data points in a various charts.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx%2FHelp%2FComposer%2FSecurity%2FUsers%2FUsers.html%23">ThingWorx help on PTC Support</a></td>
+                        <td>The ThingWorx Platform 9 Help Center contains the latest information about the ThingWorx Platform. You will find detailed information about modeling, server-side scripting, and a variety of other topics. Whether you are a developer or system administrator, this Help Center contains topics pertinent to your ThingWorx journey.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FExtensibility%2FTwilio.html%23%26_ga%3D2.70454672.1483803700.1580137650-2099000272.1553708236">How to send alerts over text with Twilio</a></td>
+                        <td>The ThingWorx Twilio extension provides the ability to send SMS text and voice messages from ThingWorx through the Twilio communication platform.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FExtensibility%2FMail.html%23%26_ga%3D2.115040967.1309540450.1579614259-2099000272.1553708236">How to send alerts over email.</a></td>
+                        <td>The ThingWorx Mail extension provides the ability to read and send e-mails from ThingWorx through external SMTP mail servers that are made available to it.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/ModelandDataBestPractices/purgingdata.html">Purging Runtime Data</a></td>
+                        <td>While PTC does not have an official recommendation on how much data to store, since it is heavily dependent on the use case, it is recommended to have a plan in place for any production system to purge the old data for performance reasons.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/ThingWorx-Installation-Guide.pdf">Installing ThingWorx on Windows - Guide</a></td>
+                        <td>PTC Academic Guide for Installing ThingWorx on Windows. For local/on-prem ThingWorx installation administrators.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/Utilizing-ThingWorx-Projects.pdf">Utilizing ThingWorx Projects</a></td>
+                        <td>Learn to use projects to organize, export and import entities in ThingWorx.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/resources/guides/thingworx-raspberry-pi-quickstart">Connect Raspberry Pi to ThingWorx</a></td>
+                        <td>Connect a Raspberry Pi to ThingWorx using the Edge Micro Server (EMS).</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://drive.google.com/drive/folders/1qsV-N3O4sMqzUFs6XQL8vnG4lQ4PpR4_">LabVIEW ThingWorx Integration</a></td>
+                        <td>Professor Chris Rogers from Tufts University created a library of LabVIEW VI's for reading and updating ThingWorx properties from directly in LabVIEW.</td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Other IoT Technolgies</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Academic/DX-Resources/blob/master/Curriculum%20Resources/DX-Exercises/IOT-with-Airtable.md">Learn About IOT Using Airtable</a></td>
+                        <td>How to setup an Airtable database service to connect to Vuforia Spatial Toolbox. Airtablle can be used as a way to store Spatial Toolbox data online, accessible through an API key.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Kepware</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://www.kepware.com/en-us/">Kepware Website</a></td>
+                        <td>Factory-wide Connectivity for access to the right data, at the right time. <a href="https://www.kepware.com/Demo-Downloads/Edge-Thank-You-Page?product=d41a2c0a-e93b-474a-bee3-14c1d27e9428">Download a free demo.</a></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+<section>
 
-## ThingWorx
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Hello ThingWorx!](https://apps.ptc.com/schools/curriculum/DX/HelloThingWorx.pdf) | A simple Hello World ThingWorx example that shows how to use REST API to make a simple IoT temperature dashboard.  ThingWorx and Vuforia Studio both require knowledge of JavaScript. [Learn JS at W3Schools.com](https://www.w3schools.com/js/) |
-| [ThingWorx Developer Portal - Learning Pathways](https://developer.thingworx.com/en/resources/learning-paths) | A great place to start with ThingWorx, the Developer Portal contains tons of free resources for learning and building IoT solutions with ThingWorx. Specifically, this course is a good place to start: [Getting Started on the ThingWorx Platform](https://developer.thingworx.com/en/resources/learning-paths/getting-started-on-thingworx-platform)|
-|[Monitor Plant Equipment Using Asset Advisor](https://developer.thingworx.com/en/resources/guides/mfg-apps-hosted-asset-advisor)|ThingWorx can optionally include some out-of-the-box Manufacutring Apps, to Monitor and Control a manufacturing systems; this learning path is a good starting point.|
-|[How to Display Data in Charts](https://developer.thingworx.com/en/resources/guides/display-data-charts)|This guide will show you how to graphically display multiple data points in a various charts.|
-|[ThingWorx help on PTC Support](https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx%2FHelp%2FComposer%2FSecurity%2FUsers%2FUsers.html%23)|The ThingWorx Platform 9 Help Center contains the latest information about the ThingWorx Platform. You will find detailed information about modeling, server-side scripting, and a variety of other topics. Whether you are a developer or system administrator, this Help Center contains topics pertinent to your ThingWorx journey.|
-|[How to send alerts over text with Twilio](http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FExtensibility%2FTwilio.html%23%26_ga%3D2.70454672.1483803700.1580137650-2099000272.1553708236)|The ThingWorx Twilio extension provides the ability to send SMS text and voice messages from ThingWorx through the Twilio communication platform.|
-|[How to send alerts over email.](http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FExtensibility%2FMail.html%23%26_ga%3D2.115040967.1309540450.1579614259-2099000272.1553708236)|The ThingWorx Mail extension provides the ability to read and send e-mails from ThingWorx through external SMTP mail servers that are made available to it.|
-|[Purging Runtime Data](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/ModelandDataBestPractices/purgingdata.html)|While PTC does not have an official recommendation on how much data to store, since it is heavily dependent on the use case, it is recommended to have a plan in place for any production system to purge the old data for performance reasons.|
-|[Installing ThingWorx on Windows - Guide](https://apps.ptc.com/schools/curriculum/DX/ThingWorx-Installation-Guide.pdf)|PTC Academic Guide for Installing ThingWorx on Windows. For local/on-prem ThingWorx installation administrators.|
-|[Utilizing ThingWorx Projects](https://apps.ptc.com/schools/curriculum/DX/Utilizing-ThingWorx-Projects.pdf)|Learn to use projects to organize, export and import entities in ThingWorx. |
-|[Connect Raspberry Pi to ThingWorx](https://developer.thingworx.com/resources/guides/thingworx-raspberry-pi-quickstart)|Connect a Raspberry Pi to ThingWorx using the Edge Micro Server (EMS).|
-|[LabVIEW ThingWorx Integration](https://drive.google.com/drive/folders/1qsV-N3O4sMqzUFs6XQL8vnG4lQ4PpR4_)|Professor Chris Rogers from Tufts University created a library of LabVIEW VI's for reading and updating ThingWorx properties from directly in LabVIEW.|
-
-## Other IoT Technolgies
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Learn About IOT Using Airtable](https://github.com/PTC-Academic/DX-Resources/blob/master/Curriculum%20Resources/DX-Exercises/IOT-with-Airtable.md) | How to setup an Airtable database service to connect to Vuforia Spatial Toolbox. Airtablle can be used as a way to store Spatial Toolbox data online, accessible through an API key. |
-
-## Kepware
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-|[Kepware Website](https://www.kepware.com/en-us/) | Factory-wide Connectivity for access to the right data, at the right time. [Download a free demo.](https://www.kepware.com/Demo-Downloads/Edge-Thank-You-Page?product=d41a2c0a-e93b-474a-bee3-14c1d27e9428) |
 |[How to Connect Kepware to ThingWorx, Industrial Connections Example](http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FComposer%2FIndustrialConnections%2FIndustrialConnectionsExample.html%23)|Using the Industrial Connections in ThingWorx, you can connect to ThingWorx Kepware Server to model, configure, and bind tags that exist in ThingWorx Kepware |||Server to Things in the ThingWorx model.|
 |[BYU Smart Manufacturing Instructional Video](https://www.youtube.com/watch?v=8w3yWtPCTsk)|Video showcasing how easy it is to make your factory smart with Thingworx and Kepware|
 |[Connect Industrial Devices and Systems](https://developer.thingworx.com/resources/guides/thingworx-kepware-server-guide)|This guide has step-by-step instructions for connecting ThingWorx Kepware Server to ThingWorx Foundation.|
