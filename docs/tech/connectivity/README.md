@@ -204,7 +204,7 @@ permalink: /docs/tech/connectivity
         </div>
     </div>
     <div class="container">
-        <h2>Vuforia Studio</h2>
+        <h2>Vuforia Engine (SDK)</h2>
         <div>
             <table>
                 <thead>
@@ -215,61 +215,92 @@ permalink: /docs/tech/connectivity
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://developer.vuforia.com">Vuforia (SDK) Developer Portal</a></td>
+                        <td>Resources for learning how to leverage Vuforia Engine (SDK).</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/Install_Vuforia.pdf">Vuforia Quick Installation Guide - Windows</a></td>
+                        <td>How to install the Vuforia Engine/SDK in Unity.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/Install_Vuforia_MacOS.pdf">Vuforia Quick Installation Guide - MacOS</a></td>
+                        <td>How to install the Vuforia Engine/SDK in Unity.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/Add%20an%20Image%20Target%20and%20CAD%20File.pdf">Add an Image Target to Your Experience</a></td>
+                        <td>This guide will show you how to Add an Image Target to Your Experience and Import Pre-Existing CAD Files</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Vuforia Spatial Toolbox</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://spatialtoolbox.vuforia.com">Vuforia Spatial Toolbox</a></td>
+                        <td>The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://www.youtube.com/playlist?list=PLhL0fv9JyKMaWhaHmm21J6mgpp841zYYw">Video tutorials</a></td>
+                        <td>Vuforia Spatial Toolbox Tutorials from the Tufts Center for Engineering Education and Outreach (CEEO)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Vuforia Expert Capture</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://www.ptc.com/en/products/vuforia/vuforia-expert-capture">Transform Work Instruction with Vuforia Expert Capture</a></td>
+                        <td>Learn more about expert capture here, or reach out to PTC for a demo.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Vuforia Chalk</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://www.ptc.com/en/products/vuforia/vuforia-chalk">Remote Assistance Powered by Augmented Reality</a></td>
+                        <td>Learn more about Vuforiua Chalk, or reach out to PTC for a demo.</td>
                     </tr>
                     <tr>
-                        <td><a href=""></a></td>
-                        <td></td>
+                        <td><a href="https://www.youtube.com/playlist?list=PLrCBNJga3kdFt0-Ss_O_D1hlh2-Sms02S">Vuforia Chalk - Introduction Series</a></td>
+                        <td>An introduction video series to get started with Vuforia Chalk.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/Chalk_guide.pdf">Installing Vuforia Chalk Guide</a></td>
+                        <td>A written guide that walks a user through intalling Vuforia Chalk.</td>
                     </tr>
                 </tbody>
             </table>
         </div>
     </div>
 <section>
-
-
-|[]()||
-
-## Vuforia Engine (SDK)
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Vuforia (SDK) Developer Portal](https://developer.vuforia.com) | Resources for learning how to leverage Vuforia Engine (SDK). |
-|[Vuforia Quick Installation Guide - Windows](https://apps.ptc.com/schools/curriculum/DX/Install_Vuforia.pdf)|How to install the Vuforia Engine/SDK in Unity.|
-|[Vuforia Quick Installation Guide - MacOS](https://apps.ptc.com/schools/curriculum/DX/Install_Vuforia_MacOS.pdf)|How to install the Vuforia Engine/SDK in Unity.|
-|[Add an Image Target to Your Experience ](https://apps.ptc.com/schools/curriculum/DX/Add%20an%20Image%20Target%20and%20CAD%20File.pdf)|This guide will show you how to Add an Image Target to Your Experience and Import Pre-Existing CAD Files |
-|[From PTC Creo 3.0 to Vuforia 5.5](https://apps.ptc.com/schools/curriculum/DX/Creo_to_Vuforia.pdf)|In this guide you will learn how to Augment your PTC Creo 3.0 models with PTC Vuforia|
-
-## Vuforia Spatial Toolbox
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Vuforia Spatial Toolbox](https://spatialtoolbox.vuforia.com) | The Vuforia Spatial Toolbox and Vuforia Spatial Edge Server make up a shared research platform for exploring spatial computing. |
-|[Video tutorials](https://www.youtube.com/playlist?list=PLhL0fv9JyKMaWhaHmm21J6mgpp841zYYw)|Vuforia Spatial Toolbox Tutorials from the Tufts Center for Engineering Education and Outreach (CEEO)|
-
-## Vuforia Expert Capture
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Transform Work Instruction with Vuforia Expert Capture](https://www.ptc.com/en/products/vuforia/vuforia-expert-capture) | Learn more about expert capture here, or reach out to PTC for a demo. |
-
-## Vuforia Chalk
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Remote Assistance Powered by Augmented Reality](https://www.ptc.com/en/products/vuforia/vuforia-chalk) | Learn more about expert capture here, or reach out to PTC for information.  |
-|[Vuforia Chalk - Introduction Series](https://www.youtube.com/playlist?list=PLrCBNJga3kdFt0-Ss_O_D1hlh2-Sms02S)|An introduction video series to get started with Vuforia Chalk.|
-|[Installing Vuforia Chalk Guide](https://apps.ptc.com/schools/curriculum/DX/Chalk_guide.pdf)|A written guide that walks a user through intalling Vuforia Chalk.|
