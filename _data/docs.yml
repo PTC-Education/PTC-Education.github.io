@@ -3,22 +3,26 @@
 - title: Technologies
   url: /docs/tech
   sublinks:
+    - title: Introduction
+      url: /docs/tech
     - title: Design
       url: /docs/tech/design
     - title: Connectivity
       url: /docs/tech/connectivity
     - title: Digital Thread
       url: /docs/tech/thread
-- title: Dive Deeper
+- title: Integrations
   url: /docs/integrations
   sublinks:
-    - title: Technology Integrations
+    - title: Introduction
       url: /docs/integrations
     - title: DX Guides
       url: /docs/integrations/dxguides
-- title: Academic Case Studies
+- title: Thought Leadership
   url: /docs/casestudies
   sublinks: 
+    - title: Introduction
+      url: /docs/casestudies
     - title: Webinars
       url: /docs/casestudies/webinars
     - title: DX Research and Teaching
