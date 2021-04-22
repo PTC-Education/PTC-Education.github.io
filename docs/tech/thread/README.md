@@ -20,8 +20,8 @@ permalink: /docs/tech/thread
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://learn.onshape.com/learn/learning-path/onshape-fundamentals-data-management">Onshape PDM in the Onshape Learning Center - Data Management</a></td>
-                        <td>In Onshape, PDM is built into the product. </td>
+                        <td><a href="https://learn.onshape.com/learn/learning-path/onshape-fundamentals-data-management">Onshape PDM</a></td>
+                        <td>In Onshape, PDM is built into the product.  Learn more about Data Management in the Onshape Learning Center </td>
                     </tr>
                     <tr>
                         <td><a href="https://www.ptc.com/en/Resource-center">PTC Resource Center</a></td>
