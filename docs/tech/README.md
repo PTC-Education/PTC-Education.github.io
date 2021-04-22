@@ -10,7 +10,9 @@ permalink: /docs/tech
         <div class="h2">A collection of resources about getting started with PTC Digital Transformation technologies in an educational setting. Below is a map that shows how the various technologies work together.
         </div>
     </div>
-    <p align="center"><img src="/docs/tech/DXmapTech.jpg" width="750" alt="DX Technologies Map"/></p>
+    <div class="container">
+        <p align="center"><img src="/docs/tech/DXmapTech.jpg" width="750" alt="DX Technologies Map"/></p>
+    </div>
 </section>
 <section class="section">
     <div class="container">
