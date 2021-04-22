@@ -6,7 +6,7 @@ permalink: /docs/tech/connectivity
 
 <section class="section">
     <h2>Connectivity Technologies</h2>
-    <div>This page contains links to resources for learning how to use various design technologies for DX and I4.0 applications.<br /><br />
+    <div>This page contains links to resources for learning how to integrate and connect DX and I4.0 technologies.<br /><br />
     </div>
     <div class="container">
         <h2>ThingWorx</h2>
@@ -76,7 +76,7 @@ permalink: /docs/tech/connectivity
         </div>
     </div>
     <div class="container">
-        <h2>Other IoT Technolgies</h2>
+        <h2>Other IoT Technologies</h2>
         <div>
             <table>
                 <thead>
@@ -110,6 +110,119 @@ permalink: /docs/tech/connectivity
                         <td>Factory-wide Connectivity for access to the right data, at the right time. <a href="https://www.kepware.com/Demo-Downloads/Edge-Thank-You-Page?product=d41a2c0a-e93b-474a-bee3-14c1d27e9428">Download a free demo.</a></td>
                     </tr>
                     <tr>
+                        <td><a href="http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FComposer%2FIndustrialConnections%2FIndustrialConnectionsExample.html%23">How to Connect Kepware to ThingWorx, Industrial Connections Example</a></td>
+                        <td>Using the Industrial Connections in ThingWorx, you can connect to ThingWorx Kepware Server to model, configure, and bind tags that exist in ThingWorx Kepware |||Server to Things in the ThingWorx model.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.youtube.com/watch?v=8w3yWtPCTsk">BYU Smart Manufacturing Instructional Video</a></td>
+                        <td>Video showcasing how easy it is to make your factory smart with Thingworx and Kepware</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/resources/guides/thingworx-kepware-server-guide">Connect Industrial Devices and Systems</a></td>
+                        <td>This guide has step-by-step instructions for connecting ThingWorx Kepware Server to ThingWorx Foundation.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Other Edge Devices</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://www.kepware.com/en-us/products/kepserverex/drivers/opc-ua-client/">Kepware OPC UA Client</a></td>
+                        <td>For Raspberry Pi and Arduino, an OCP UA Client can be used to connect to ThingWorx. </td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/resources/guides/thingworx-raspberry-pi-quickstart">Connect Raspberry Pi to ThingWorx</a></td>
+                        <td>Raspberry Pi Resources</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/resources/guides/connect-adafruit-feather">Connect an Arduino Developer Board Guide</a></td>
+                        <td>Arduino Resources</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.kepware.com/getattachment/151e8138-b6f5-4e7a-8e01-e6dab30da3d0/LabVIEW_Connectivity_Guide.pdf">KepServerEx and LabVIEW</a></td>
+                        <td> NI Resources</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Vuforia Studio</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/VS-Academic-Install.pdf">Vuforia Studio Academic Installation Guide</a></td>
+                        <td>Installing Vuforia Studio (local AR authoring enviroinment)</td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://support.ptc.com/help/vuforia/studio/en/#page/Studio_Help_Center%2FTutorialWelcome.html%23">Vuforia Studio Tutorials and FAQs</a></td>
+                        <td>Tutorials and FAQs for various Vuforia Studio experience levels.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://developer.thingworx.com/en/resources/learning-paths#stq=vuforia&stp=1">Search results on ThingWorx Developer Portal for "Vuforia"</a></td>
+                        <td>Results include several useful learning materials.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://apps.ptc.com/schools/curriculum/DX/Vuforia-Studio-Model-Hierarchy.pdf">Create a Model Hierarchy</a></td>
+                        <td>This document outlines the steps to create a model hierarchy in Vuforia Studio to more easily animate motion of an entire assembly.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="http://support.ptc.com/help/vuforia/studio/en/#page/Studio_Help_Center%2FBeginnerBindTWXData.html%23">Bind ThingWorx Data to a 3D Widget</a></td>
+                        <td>A short tutorial that shows how to add ThingWorx data to an Experience and bind it to a widget.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.ptc.com/en/support/article/CS268110">How to grant users publish permissions within Vuforia Studio</a></td>
+                        <td>This article contains instructions on how to manage common user permissions tasks in Vuforia Studio.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/VuforiaStudio-AcademicConfiguration.pdf">Configuring Vuforia Studio & ThingWorx For Academic Use Cases</a></td>
+                        <td>This guide outlines the requirements and best practices for leveraging ThingWorx Composer for academic IoT and AR education using ThingWorx and Vuforia Studio.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/Vuforia-Studio-Model-Hierarchy.pdf">How to Create a Model Hierarchy in Vuforia Studio</a></td>
+                        <td>Used to create kinematically constrained assemblies in Vuforia Studio (for example, a 6-axis robot)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2>Vuforia Studio</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><a href=""></a></td>
+                        <td></td>
+                    </tr>
+                    <tr>
                         <td><a href=""></a></td>
                         <td></td>
                     </tr>
@@ -131,34 +244,8 @@ permalink: /docs/tech/connectivity
     </div>
 <section>
 
-|[How to Connect Kepware to ThingWorx, Industrial Connections Example](http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FComposer%2FIndustrialConnections%2FIndustrialConnectionsExample.html%23)|Using the Industrial Connections in ThingWorx, you can connect to ThingWorx Kepware Server to model, configure, and bind tags that exist in ThingWorx Kepware |||Server to Things in the ThingWorx model.|
-|[BYU Smart Manufacturing Instructional Video](https://www.youtube.com/watch?v=8w3yWtPCTsk)|Video showcasing how easy it is to make your factory smart with Thingworx and Kepware|
-|[Connect Industrial Devices and Systems](https://developer.thingworx.com/resources/guides/thingworx-kepware-server-guide)|This guide has step-by-step instructions for connecting ThingWorx Kepware Server to ThingWorx Foundation.|
 
-
-## Other Edge Devices
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [OPC UA Client](https://www.kepware.com/en-us/products/kepserverex/drivers/opc-ua-client/) | For Raspberry Pi and Arduino, Kepware is not used to connect to ThingWorx. If you would like to have Kepware as the connectivity method you would likely need to use this OCP UA Client, but I am less familiar with this architecture: |
-| [Connect Raspberry Pi to ThingWorx](https://developer.thingworx.com/resources/guides/thingworx-raspberry-pi-quickstart) | Raspberry Pi Resources |
- | [Connect an Arduino Developer Board Guide](https://developer.thingworx.com/resources/guides/connect-adafruit-feather) | Arduino Resources |
- | [KepServerEx and LabVIEW](https://www.kepware.com/getattachment/151e8138-b6f5-4e7a-8e01-e6dab30da3d0/LabVIEW_Connectivity_Guide.pdf) | NI Resources |
-
-## Vuforia Studio
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-|[Vuforia Studio Academic Installation Guide](https://apps.ptc.com/schools/curriculum/DX/VS-Academic-Install.pdf)|Installing Vuforia Studio (local AR authoring enviroinment), for Academic Vuforia Studio Users|
-|[Vuforia Studio Tutorials and FAQs](http://support.ptc.com/help/vuforia/studio/en/#page/Studio_Help_Center%2FTutorialWelcome.html%23)|Tutorials and FAQs for various Vuforia Studio experience levels.|
-| [Search results on ThingWorx Developer Portal for "Vuforia"](https://developer.thingworx.com/en/resources/learning-paths#stq=vuforia&stp=1) | The results include several useful learning materials; some specfically included here...| 
-|[Get Started with Vuforia Studio](https://developer.thingworx.com/resources/guides/getting-started-vuforia-studio)| This Getting Started guide is designed to introduce Developer Portal users to Vuforia Studio.|
-|[Create an Augmented Reality (AR) Experience](https://developer.thingworx.com/resources/guides/studio-ar-experience-quickstart)| In this exercise, you'll combine 3D CAD models and 2D Widgets into an Experience that displays on mobile devices. |
-|[Develop an AR Experience Demo](https://developer.thingworx.com/resources/guides/blue-pump-ar-tutorial)| You’ll build a pump demonstration, and we’ll show you how to capture, store, analyze, and visualize data utilizing Vuforia Studio. |
-|[Extend Studio Functionality with Javascript:](https://developer.thingworx.com/resources/guides/extend-studio-javascript)| Explore the benefits of using JavaScript with Studio to extend the capabilities and enhance your AR Experiences |
-| [Create a Model Hierarchy](http://apps.ptc.com/schools/curriculum/DX/Vuforia-Studio-Model-Hierarchy.pdf) | This document outlines the steps to create a model hierarchy in Vuforia Studio to more easily animate motion of an entire assembly |
-|[Bind ThingWorx Data to a 3D Widget](http://support.ptc.com/help/vuforia/studio/en/#page/Studio_Help_Center%2FBeginnerBindTWXData.html%23)|A short tutorial that shows how to add ThingWorx data to an Experience and bind it to a widget.|
-|[How to grant users publish permissions within Vuforia Studio](https://www.ptc.com/en/support/article/CS268110)|This article contains instructions on how to manage common user permissions tasks in Vuforia Studio.|
-|[Configuring Vuforia Studio & ThingWorx For Academic Use Cases](https://apps.ptc.com/schools/curriculum/DX/VuforiaStudio-AcademicConfiguration.pdf)|This guide outlines the requirements and best practices for leveraging ThingWorx Composer for academic IoT and AR education using ThingWorx and Vuforia Studio.|
-|[How to Create a Model Hierarchy in Vuforia Studio](https://apps.ptc.com/schools/curriculum/DX/Vuforia-Studio-Model-Hierarchy.pdf)|Used to create kinematic constrained asseblies in Vuforia Studio (for example, a 6-axis robot)|
+|[]()||
 
 ## Vuforia Engine (SDK)
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
