@@ -10,12 +10,10 @@ permalink: /docs/tech
         <div class="h2">A collection of resources about getting started with PTC Digital Transformation technologies in an educational setting. Below is a map that shows how the various technologies work together.
         </div>
     </div>
-    <p align="center"><img src="/docs/tech/DXmapTech.jpg" width="750" alt="DX Technologies Map"/></p>
-</section>
-<section class="section">
+    <p align="center"><img src="/resources/Adv-Tech-Map.jpg" width="750" alt="DX Technologies Map"/></p>
     <div class="container">
         <div class="h2">We have split up the content into three stages of the development for smart, connected products and processes. Click on an icon below to learn more about design, connectivity, or digital thread technologies. Head over to the <a href="/docs/integrations">"Integrations"</a> page to learn more about the concepts between and around the core technologies.
-        </div>
+    </div>
     </div>
     <div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
