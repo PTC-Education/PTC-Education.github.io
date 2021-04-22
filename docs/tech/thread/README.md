@@ -4,9 +4,31 @@ title: Digital Thread Teachnologies
 permalink: /docs/tech/thread
 ---
 
-# Digital Thread (PDM &amp; PLM)
-## Onshape PDM
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | 
-|---|---|
-| [Onshape Learning Center - Data Management](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-data-management) | In Onshape, PDM is built into the product. |
-| [PTC Resource Center](https://www.ptc.com/en/Resource-center)| Search for the keyword 'twin' to find relevant publications. |
+<section class="section">
+    <h2>Digital Thread Technologies</h2>
+    <div>This page contains links to resources for learning how to integrate and connect DX and I4.0 technologies.<br /><br />
+    </div>
+    <div class="container">
+        <h2>PDM &amp; PLM</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Resource</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://learn.onshape.com/learn/learning-path/onshape-fundamentals-data-management">Onshape PDM in the Onshape Learning Center - Data Management</a></td>
+                        <td>In Onshape, PDM is built into the product. </td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.ptc.com/en/Resource-center">PTC Resource Center</a></td>
+                        <td>Search for the keywords 'PDM' or 'PLM' to find relevant resources.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+<section>
