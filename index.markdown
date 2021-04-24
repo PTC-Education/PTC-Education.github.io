@@ -11,10 +11,10 @@ permalink: /
         <h1 class="title header-home">Digital Transformation in Education</h1>
         <div><a href="https://www.ptc.com/en/industry-insights/digital-transformation">Digital Transformation</a> is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world. Below is a map that aims to show how the various kinds of technologies work together to connect all of the product development processes.
         </div>
-        <p align="center"><img src="resources/Adv-Tech-Map.jpg" width="100%" alt="DX Technologies Map"/></p>
+        <div class="container">
+            <p align="center"><img src="resources/Adv-Tech-Map.jpg" width="100%" alt="DX Technologies Map" margin="50px"/></p>
+        </div>
     </div>
-</section>
-<section class="section">
     <div class="container">
         <div>Click on an item below to get started with PTC technologies, learn about various integrations, or see how thought leaders are bringing digital transformation to education.
         </div>
