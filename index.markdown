@@ -33,9 +33,9 @@ permalink: /
                 </a>
             </div>
             <div class="column is-one-third">
-                <a href="/docs/casestudies">
+                <a href="/docs/thought-leadership">
                 <p><img src="resources/Academic-icon.png" alt=""/></p>
-                <div class="subtitle" style="text-align:center">Case Studies</div>
+                <div class="subtitle" style="text-align:center">Thought Leadership</div>
                 </a>
             </div>
         </div>
