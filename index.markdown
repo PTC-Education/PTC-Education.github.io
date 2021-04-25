@@ -48,7 +48,7 @@ permalink: /
             <iframe src="https://www.youtube.com/embed/YTG9KiD3n7k" frameborder="0" allow="autoplay;"
                     allowfullscreen class="video"
                     style="position: absolute;top: 0; left: 0; width: 100%; height: 100%;">
-                <img src="resources/toolboxVideoPlaceholder.jpg" border="0">
+                <img src="resources/toolboxVideoPlaceholder.jpg" style="border: 0px">
             </iframe>
         </div>
     </div>
