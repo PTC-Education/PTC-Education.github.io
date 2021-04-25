@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: PTC EDU Tech Webinar Archive
-permalink: /docs/casestudies/webinars
+permalink: /docs/thought-leadership/webinars
 ---
 
 <section class="section">

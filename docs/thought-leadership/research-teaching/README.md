@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: DX Research
-permalink: /docs/casestudies/research
+permalink: /docs/thought-leadership/research-teaching
 ---
 
 <section class="section">

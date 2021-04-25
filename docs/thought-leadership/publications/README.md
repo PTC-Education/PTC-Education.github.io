@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: DX Research Publications
-permalink: /docs/casestudies/research/publications
+permalink: /docs/thought-leadership/research/publications
 ---
 
 <section class="section">

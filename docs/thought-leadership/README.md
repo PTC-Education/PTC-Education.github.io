@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Academic Case Studies
-permalink: /docs/casestudies
+title: Thought Leadership
+permalink: /docs/thought-leadership
 ---
 
 <section class="section">
@@ -14,16 +14,16 @@ permalink: /docs/casestudies
         <h2>Webinars</h2>
         <div>Each semester, we hold a PTC EDU Tech Webinar to highlight the work being done by our education collaborators. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY4ycp_AAJ4CNSGHRcMVVIT9qJ55Z5aFWB85smU-FEjOotdA/viewform">Register for the PTC EDU Tech Webinar series.</a>
         </div>
-        <div>Visit the <a href="https://ptc-education.github.io/docs/casestudies/webinars">archive of Webinar Recordings</a> to watch past PTC EDU Tech Webinars.<br /><br />
+        <div>Visit the <a href="https://ptc-education.github.io/docs/thought-leadership/webinars">archive of Webinar Recordings</a> to watch past PTC EDU Tech Webinars.<br /><br />
         </div>
     </div>
     <div class="container">
         <h2>DX Research and Teaching</h2>
-        <div>PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. <a href="https://ptc-education.github.io/docs/casestudies/research">Select outcomes from some of those collaborations are highlighted in this section.</a><br /><br /></div>
+        <div>PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. <a href="https://ptc-education.github.io/docs/thought-leadership/research">Select outcomes from some of those collaborations are highlighted in this section.</a><br /><br /></div>
     </div>
     <div class="container">
         <h2>DX Publications</h2>
-        <div>This section includes <a href="https://ptc-education.github.io/docs/casestudies/research">articles published by PTC and others</a> related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.</div>
+        <div>This section includes <a href="https://ptc-education.github.io/docs/thought-leadership/research">articles published by PTC and others</a> related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.</div>
     </div>
 </section>
 

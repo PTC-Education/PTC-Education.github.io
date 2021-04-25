@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: DX in Education
-permalink: /docs/casestudies/education
+permalink: /docs/thought-leadership/education
 ---
 
 <section class="section">
