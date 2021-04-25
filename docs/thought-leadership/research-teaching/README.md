@@ -51,7 +51,7 @@ permalink: /docs/thought-leadership/research-teaching
             </thead>
             <tbody>
                 <tr>
-                    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/3wkmBDgpb34&t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/3wkmBDgpb34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                     <td>The Tufts University Department of Mechanical Engineering and the Center for Engineering Outreach and Education (CEEO) has produced a wide array of novel educational materials for IoT and AR eduation including Vuforia Spatial Toolbox and Arduino -- many of these systems leverage PTC technologies. <a href="https://www.youtube.com/channel/UCOQGdAaAkNHiLwFxNWMvcpQ" target="_blank">Learn more on the Tufts CEEO YouTube channel</a> and on this Google Site of <a href="https://sites.google.com/tuftsceeo.org/ptc-demos/home" target="_blank">Demos Related to Onshape and Spatial Toolbox</a></td>
                 </tr>
             </tbody>
