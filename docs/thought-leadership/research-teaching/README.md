@@ -22,7 +22,7 @@ permalink: /docs/thought-leadership/research-teaching
             <tbody>
                 <tr>
                     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/8VkR3aVjnAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-                    <td>This video is shows an AR experience at the <b>BYU Smart Factory using Thingworx</b>. The BYU Manufacturing Engineering program have made a number of great demonstrations of how PTC technologies can be integrated into a university program. <a href="https://www.youtube.com/channel/UCTuy3xcrWT4Kx_nmt-jjYxQ">See more videos on the BYU Youtube Channel.</a></td>
+                    <td>This video is shows an AR experience at the <b>BYU Smart Factory using Thingworx</b>. The BYU Manufacturing Engineering program have made a number of great demonstrations of how PTC technologies can be integrated into a university program. <a href="https://www.youtube.com/channel/UCTuy3xcrWT4Kx_nmt-jjYxQ">See more videos on the BYU YouTube Channel.</a></td>
                 </tr>
             </tbody>
         </table>
@@ -31,14 +31,29 @@ permalink: /docs/thought-leadership/research-teaching
         <table>
             <thead>
                 <tr>
-                    <th colspan="2">UAS Technikim Wien</th>
+                    <th colspan="2">UAS Technikum Wien</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/v5EEUI2Mb5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-                    <td>This video is shows an overview of the <b>UAS Teechnikum Wien Digital Factory</b> -- many of these systems leverage PTC technologies. <a href="https://www.technikum-wien.at/en/">Learn more about Fachhochschule Technikum Wien.</a></td>
+                    <td>This video is shows an overview of the <b>UAS Technikum Wien Digital Factory</b> -- many of these systems leverage PTC technologies. <a href="https://www.technikum-wien.at/en/">Learn more about Fachhochschule Technikum Wien.</a></td>
                 </tr>
             </tbody>
         </table>
-    </div
+    </div>
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">Tufts University</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/3wkmBDgpb34&t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                    <td>The Tufts University Department of Mechanical Engineering and the Center for Engineering Outreach and Education (CEEO) has produced a wide array of novel educational materials for IoT ane AR eduation -- many of these systems leverage PTC technologies. <a href="https://www.youtube.com/channel/UCOQGdAaAkNHiLwFxNWMvcpQ">Learn more on the Tufts CEEO YouTube channel÷.</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
