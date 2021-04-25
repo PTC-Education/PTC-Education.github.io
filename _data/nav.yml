@@ -21,16 +21,16 @@
     - title: DX Guides
       url: /docs/integrations/dxguides
 - title: Thought Leadership
-  url: /docs/casestudies
+  url: /docs/thought-leadership
   sublinks: 
     - title: Introduction
-      url: /docs/casestudies
+      url: /docs/v
     - title: Webinars
-      url: /docs/casestudies/webinars
+      url: /docs/thought-leadership/webinars
     - title: DX Research and Teaching
-      url: /docs/casestudies/research
+      url: /docs/thought-leadership/research-teaching
     - title: Publications
-      url: /docs/casestudies/research/publications
+      url: /docs/thought-leadership/research/publications
 
 # - title: Use
 #   url: /docs/use
