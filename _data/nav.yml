@@ -24,13 +24,13 @@
   url: /docs/thought-leadership
   sublinks: 
     - title: Introduction
-      url: /docs/v
+      url: /docs/thought-leadership
     - title: Webinars
       url: /docs/thought-leadership/webinars
     - title: DX Research and Teaching
       url: /docs/thought-leadership/research-teaching
     - title: Publications
-      url: /docs/thought-leadership/research/publications
+      url: /docs/thought-leadership/publications
 
 # - title: Use
 #   url: /docs/use
