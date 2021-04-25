@@ -51,7 +51,7 @@ permalink: /docs/integrations/dxguides
                     </tr>
                     <tr>
                         <td><a href="https://apps.ptc.com/schools/curriculum/DX/HelloThingWorx.pdf">Hello ThingWorx!</a></td>
-                        <td>A simple Hello World ThingWorx example that shows how to connect to remote data with REST API to make a simple IoT temperature dashboard.  ThingWorx and Vuforia Studio both require knowledge of JavaScript -- <a href="https://www.w3schools.com/js/">Learn JS at W3Schools.com</a></td>
+                        <td>A simple Hello World ThingWorx example that shows how to connect to remote data with REST API to make a simple IoT temperature dashboard.  ThingWorx and Vuforia Studio both require knowledge of JavaScript -- <a href="https://www.w3schools.com/js/" target="_blank">Learn JS at W3Schools.com</a></td>
                     </tr>
                     <tr>
                         <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
