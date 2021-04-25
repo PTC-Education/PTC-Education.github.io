@@ -46,9 +46,14 @@ permalink: /docs/integrations/dxguides
                         <td style="text-align:center"><img src="/resources/ArduinoLightSwitch.gif"></td>
                     </tr>
                     <tr>
-                        <td><a href="hhttps://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/VST-add-world-object.md">How to Add a World Object in Vuforia Spatial Toolbox</a></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/VST-add-world-object.md">How to Add a World Object in Vuforia Spatial Toolbox</a></td>
                         <td style="text-align:center"><img src="/resources/world-object.gif"></td>
                     </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/tree/master/Curriculum_Resources/DX-Exercises/ThingWorx%20Image%20Data%20Tables%20from%20Vuforia%20Studio">Storing images taken in the Vuforia View app in a ThingWorx data table</a></td>
+                        <td style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Se20t7kvlJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                    </tr>
+                    
                 </tbody>
             </table>
         </div>
