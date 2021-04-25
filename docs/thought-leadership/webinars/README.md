@@ -26,7 +26,7 @@ permalink: /docs/thought-leadership/webinars
                         <td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001">Dr. Rogers talks about teaching IoT to first year engineering students</a></td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Academic/DX-Resources/tree/master/Curriculum%20Resources/IoT%20Course%20Layout">Layout for First Year IoT Course</a>, includes weekly overview of the semester for first year engineering students learning the Internet of Things.</td>
+                        <td><a href="/resources/IoT-Course-Layout/Course-Layout.pdf">Layout for First Year IoT Course</a>, includes weekly overview of the semester for first year engineering students learning the Internet of Things.</td>
                     </tr>
                 </tbody>
             </table>
