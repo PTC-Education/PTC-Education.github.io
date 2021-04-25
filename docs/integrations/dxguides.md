@@ -55,7 +55,7 @@ permalink: /docs/integrations/dxguides
                     </t>
                     <tr>
                         <td>Universal Robot Augmented Reality Digital Twin, built with Vuforia Studio and ThingWorx, using federated local and cloud-based instances enabling both high-performance and remote data access. More details on Federating instances in this PDF. 
-                        </object> </td>
+                        </td>
                         <td style="text-align:center">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/igaDY4tAkyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                     </tr>
