@@ -46,7 +46,7 @@ permalink: /docs/thought-leadership/webinars
                         <td><a href="https://players.brightcove.net/1532789042001/HknUe20R_default/index.html?videoId=6146274139001">Dr. Hovanski discusses strategies and the implementation of a smart factory initiative within the university</a></td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Academic/DX-Resources/tree/master/Curriculum%20Resources/Smart%20Manufacturing%20Supporting%20Documents">A collection of articles on the theories motivating the push for smart manufacturing, from digitizing and connecting machines to visualizing information in augmented reality.</a></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/tree/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents">A collection of articles on the theories motivating the push for smart manufacturing, from digitizing and connecting machines to visualizing information in augmented reality.</a></td>
                     </tr> 
                 </tbody>
             </table>
