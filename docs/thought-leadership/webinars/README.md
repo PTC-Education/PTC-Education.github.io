@@ -24,7 +24,7 @@ permalink: /docs/thought-leadership/webinars
                     <tr>
                         <td rowspan="2">Chris Rogers, Tufts University</td>
                         <td>
-                        <iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br /> Dr. Chris Rogers talks about teaching IoT to first year engineering students.
                         </td>
                     </tr>
                     <tr>
