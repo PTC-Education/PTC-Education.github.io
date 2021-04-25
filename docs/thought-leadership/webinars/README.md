@@ -23,9 +23,8 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td rowspan="2">Chris Rogers, Tufts University</td>
-                        <!--td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=1532789042001">Dr. Rogers talks about teaching IoT to first year engineering students</a></td-->
                         <td>
-                        <iframe src="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
                         </td>
                     </tr>
                     <tr>
@@ -46,7 +45,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td rowspan="2">Yuri Hovanski, Brigham Young University</td>
-                        <td><a href="https://players.brightcove.net/1532789042001/HknUe20R_default/index.html?videoId=6146274139001">Dr. Hovanski discusses strategies and the implementation of a smart factory initiative within the university</a></td>
+                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/HknUe20R_default/index.html?videoId=6146274139001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> Dr. Hovanski discusses strategies and the implementation of a smart factory initiative within the university</td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/tree/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents">A collection of articles on the theories motivating the push for smart manufacturing, from digitizing and connecting machines to visualizing information in augmented reality.</a></td>
@@ -70,7 +69,7 @@ permalink: /docs/thought-leadership/webinars
                     </tr>
                     <tr>
                         <td>Karthik Ramani, Purdue University</td>
-                        <td><a href="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001">Dr. Ramani talks about teaching engineering design to university students by having them build toys.</a></td>
+                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> Dr. Ramani talks about teaching engineering design to university students by having them build toys.</a></td>
                     </tr> 
                 </tbody>
             </table>
@@ -87,7 +86,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Horst Orsolits, UAS Technikum Wien</td>
-                        <td><a href="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001">Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</a></td>
+                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</a></td>
                     </tr>
                 </tbody>
             </table>
@@ -104,7 +103,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>John Liu, MIT</td>
-                        <td><a href="https://www.youtube.com/watch?v=cD8XsqNefMw">Dr. John Liu, a lecturer and scientist in the Mechanical Engineering department at MIT who leads a group in the Digital Learning Lab, discusses the protential of using AR to teach complex concepts and train the workforce of the future.</a></td>
+                        <td><iframe width="560" height="315" src="https://www.youtube.com/watch?v=cD8XsqNefMw" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> Dr. John Liu, a lecturer and scientist in the Mechanical Engineering department at MIT who leads a group in the Digital Learning Lab, discusses the protential of using AR to teach complex concepts and train the workforce of the future.</a></td>
                     </tr>
                 </tbody>
             </table>
@@ -121,7 +120,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Reality Lab, PTC</td>
-                        <td><a href="https://youtu.be/E_KaqgV_3mA)">Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</a></td>
+                        <td><iframe width="560" height="315" src="https://youtu.be/E_KaqgV_3mA)" allowfullscreen webkitallowfullscreen mozallowfullscreen> Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</a></td>
                     </tr>
                 </tbody>
             </table>
