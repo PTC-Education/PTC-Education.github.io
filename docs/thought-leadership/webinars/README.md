@@ -65,11 +65,11 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Alison Olechowski, University of Toronto</td>
-                        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/z35y07ozh3A" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. Alison Olechowski presents the findings from a series of experiments which explore new ways of designing collaboratively in CAD.</a> These experiments consider not only design outcomes like quality and speed, but also designer emotion. Further, she shared preliminary results which indicate that collaborative CAD tools can open new opportunities for the way we teach and learn to design with CAD.</td>
+                        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/z35y07ozh3A" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. Alison Olechowski presents the findings from a series of experiments which explore new ways of designing collaboratively in CAD. These experiments consider not only design outcomes like quality and speed, but also designer emotion. Further, she shared preliminary results which indicate that collaborative CAD tools can open new opportunities for the way we teach and learn to design with CAD.</td>
                     </tr>
                     <tr>
                         <td>Karthik Ramani, Purdue University</td>
-                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. Ramani talks about teaching engineering design to university students by having them build toys.</a></td>
+                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. Ramani talks about teaching engineering design to university students by having them build toys.</td>
                     </tr> 
                 </tbody>
             </table>
@@ -86,7 +86,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Horst Orsolits, UAS Technikum Wien</td>
-                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</a></td>
+                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</td>
                     </tr>
                 </tbody>
             </table>
@@ -103,7 +103,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>John Liu, MIT</td>
-                        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/cD8XsqNefMw" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. John Liu, a lecturer and scientist in the Mechanical Engineering department at MIT who leads a group in the Digital Learning Lab, discusses the protential of using AR to teach complex concepts and train the workforce of the future.</a></td>
+                        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/cD8XsqNefMw" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. John Liu, a lecturer and scientist in the Mechanical Engineering department at MIT who leads a group in the Digital Learning Lab, discusses the protential of using AR to teach complex concepts and train the workforce of the future.</td>
                     </tr>
                 </tbody>
             </table>
@@ -120,7 +120,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Reality Lab, PTC</td>
-                        <td><iframe width="560" height="315" src="https://youtu.be/embed/E_KaqgV_3mA)" allowfullscreen webkitallowfullscreen mozallowfullscreen> <br />Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</a></td>
+                        <td><iframe width="560" height="315" src="https://youtu.be/embed/E_KaqgV_3mA)" allowfullscreen webkitallowfullscreen mozallowfullscreen> <br />Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</td>
                     </tr>
                 </tbody>
             </table>
