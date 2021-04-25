@@ -7,7 +7,7 @@ permalink: /docs/integrations/dxguides
 <section class="section">
     <div class="container">
         <h2>DX Guides</h2>
-        <div>The PTC Education Advanced Technolgies team collects and produces guides and exercies to introduce students to PTC technologies to help enable them to get up to speed and integrating these powerful tools quickly.
+        <div>The PTC Education Advanced Technolgies team collects and produces guides and exercises to help students understand how to intergrate PTC technologies together and with other I4.0 and smart manufacturing technologies.
         </div>
     </div>
 </section>
