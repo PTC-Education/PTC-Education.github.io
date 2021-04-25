@@ -24,6 +24,14 @@ permalink: /docs/integrations/dxguides
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
+                        <td style="text-align:center"></td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Simple IoT with Airtable</a></td>
+                        <td style="text-align:center">https://github.com/PTC-Education/PTC-Education.github.io/blob/master/resources/IoT-Airtable.png?raw=true</td>
+                    </tr>
+                    <tr>
                         <td><a href="https://github.com/PTC-Academic/RaspberryPi-SpatialToolbox-WifiHotspot">Spatial Toolbox on Raspberry Pi with Wifi Hotspot</a></td>
                         <td style="text-align:center">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/S77pD0f_JGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,12 +42,8 @@ permalink: /docs/integrations/dxguides
                         <td style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LP-xyEFem7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                     </tr>
                     <tr>
-                        <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
-                        <td style="text-align:center"></td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Simple IoT with Airtable</a></td>
-                        <td style="text-align:center">https://github.com/PTC-Education/PTC-Education.github.io/blob/master/resources/IoT-Airtable.png?raw=true</td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/tree/master/Curriculum_Resources/DX-Exercises/Vuforia%20Spatial%20Toolbox%20-%20Arduino%20Hello%20World">Getting Started with Spatial Toolbox on Arduino</a></td>
+                        <td style="text-align:center">https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/Vuforia%20Spatial%20Toolbox%20-%20Arduino%20Hello%20World/ArduinoLightSwitch.gif</td>
                     </tr>
                 </tbody>
             </table>
