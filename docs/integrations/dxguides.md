@@ -38,8 +38,8 @@ permalink: /docs/integrations/dxguides
                         <td style="text-align:center"></td>
                     </tr>
                     <tr>
-                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Sinmple IoT with Airtable</a></td>
-                        <td style="text-align:center"></td>
+                        <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Simple IoT with Airtable</a></td>
+                        <td style="text-align:center">https://github.com/PTC-Education/PTC-Education.github.io/blob/master/resources/IoT-Airtable.png?raw=true</td>
                     </tr>
                 </tbody>
             </table>
