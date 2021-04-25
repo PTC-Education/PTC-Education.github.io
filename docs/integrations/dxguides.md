@@ -6,14 +6,13 @@ permalink: /docs/integrations/dxguides
 
 <section class="section">
     <div class="container">
-        <h2>DX Guides</h2>
-        <div>The PTC Education Advanced Technolgies team collects and produces guides and exercises to help students understand how to intergrate PTC technologies together and with other I4.0 and smart manufacturing technologies.
+        <h2>Digital Transformation (DX) Guides</h2>
+        <div>The PTC Education Advanced Technologies team collects and produces guides and exercises to help students understand how to mix PTC solutions together and with other I4.0 and Smart Manufacturing technologies. A selection of guides that introduce these solutions are included below. 
         </div>
     </div>
 </section>
 <section class="section">
     <div class="container">
-        <h2>Augmented Reality (AR) Publications</h2>
         <div>
             <table>
                 <thead>
