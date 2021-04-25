@@ -23,9 +23,9 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td rowspan="2">Chris Rogers, Tufts University</td>
-                        <!--td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001">Dr. Rogers talks about teaching IoT to first year engineering students</a></td-->
+                        <!--td><a href="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=1532789042001">Dr. Rogers talks about teaching IoT to first year engineering students</a></td-->
                         <td>
-                        <iframe src="https://players.brightcove.net/6131639163001/BkTGbgSq_default/index.html?videoId=6131639163001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+                        <iframe src="https://players.brightcove.net/1532789042001/SJl3bQaEz_default/index.html?videoId=6131639163001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
                         </td>
                     </tr>
                     <tr>
