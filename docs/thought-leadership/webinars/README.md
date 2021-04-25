@@ -120,7 +120,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Reality Lab, PTC</td>
-                        <td><iframe width="560" height="315" src="https://youtu.be/embed/E_KaqgV_3mA)" allowfullscreen webkitallowfullscreen mozallowfullscreen> <br />Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</td>
+                        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/E_KaqgV_3mA" allowfullscreen webkitallowfullscreen mozallowfullscreen> <br />Researchers from the PTC Reality Lab share some of their projects and discuss the open-sourced Spatial Toolbox platform for exploring spatial computing.</td>
                     </tr>
                 </tbody>
             </table>
