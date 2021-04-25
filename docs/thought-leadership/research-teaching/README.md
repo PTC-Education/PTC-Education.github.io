@@ -22,9 +22,23 @@ permalink: /docs/thought-leadership/research-teaching
             <tbody>
                 <tr>
                     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/8VkR3aVjnAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-                    <td>This video is shows an AR experience at the <b>BYU Smart Factory using Thingworx</b>. The BYU Manufacturing Engineering program are thought leaders in Digital Transformation, Industry 4.0 and Smart Manufacturing, and have made a number of great demonstrations of how PTC technologies can be integrated into a universtiy program. <a href="https://www.youtube.com/channel/UCTuy3xcrWT4Kx_nmt-jjYxQ">See more videos on the BYU Youtube Channel.</a></td>
+                    <td>This video is shows an AR experience at the <b>BYU Smart Factory using Thingworx</b>. The BYU Manufacturing Engineering program have made a number of great demonstrations of how PTC technologies can be integrated into a university program. <a href="https://www.youtube.com/channel/UCTuy3xcrWT4Kx_nmt-jjYxQ">See more videos on the BYU Youtube Channel.</a></td>
                 </tr>
             </tbody>
         </table>
     </div>
-</section>
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">UAS Technikim Wien</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><iframe width="560" height="315" src="https://youtu.be/v5EEUI2Mb5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                    <td>This video is shows an overview of the <b>UAS Teechnikum Wien Digital Factory</b> -- many of these systems leverage PTC technologies. <a href="https://www.technikum-wien.at/en/">Learn more about Fachhochschule Technikum Wien.</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
