@@ -17,7 +17,7 @@ permalink: /docs/integrations/dxguides
             <table>
                 <thead>
                     <tr>
-                        <th width="200">Title/Link</th>
+                        <th width="200">Topic</th>
                         <th>Preview</th>
                     </tr>
                 </thead>
