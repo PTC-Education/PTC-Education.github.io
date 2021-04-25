@@ -67,6 +67,19 @@ permalink: /docs/thought-leadership/webinars
                         <td>Alison Olechowski, University of Toronto</td>
                         <td><iframe width="560" height="315" src="https://www.youtube.com/embed/z35y07ozh3A" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. Alison Olechowski presents the findings from a series of experiments which explore new ways of designing collaboratively in CAD. These experiments consider not only design outcomes like quality and speed, but also designer emotion. Further, she shared preliminary results which indicate that collaborative CAD tools can open new opportunities for the way we teach and learn to design with CAD.</td>
                     </tr>
+                </tbody>
+            </table>
+        </div>
+        <h2>Product Design</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Presenter</th>
+                        <th>Topic</th>
+                    </tr>
+                </thead>
+                <tbody>
                     <tr>
                         <td>Karthik Ramani, Purdue University</td>
                         <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6155014476001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Dr. Ramani talks about teaching engineering design to university students by having them build toys.</td>
