@@ -12,7 +12,7 @@ permalink: /
         <div><a href="https://www.ptc.com/en/industry-insights/digital-transformation">Digital Transformation</a> is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world. Below is a map that aims to show how the various kinds of technologies work together to connect all of the product development processes.
         </div>
         <div class="container">
-            <p align="center"><img src="resources/Adv-Tech-Map.jpg" width="100%" alt="DX Technologies Map" margin="50px"/></p>
+            <p style="text-align:center"><img src="resources/Adv-Tech-Map.jpg" width="100%" alt="DX Technologies Map" margin="50px"/></p>
         </div>
     </div>
     <div class="container">
@@ -24,18 +24,18 @@ permalink: /
             <div class="column is-one-third is-vcentered is-centered">
                 <a href="/docs/tech"><p>
                 <img src="resources/IoT-icon.png" alt=""/></p>
-                <div class="subtitle" align="center">Technologies</div>
+                <div class="subtitle" style="text-align:center">Technologies</div>
                 </a>
             </div>
             <div class="column is-one-third">
                 <a href="/docs/integrations"><p><img src="resources/Integrations-icon.png" alt=""/></p>
-                <div class="subtitle" align="center">Integrations</div>
+                <div class="subtitle" style="text-align:center">Integrations</div>
                 </a>
             </div>
             <div class="column is-one-third">
                 <a href="/docs/casestudies">
                 <p><img src="resources/Academic-icon.png" alt=""/></p>
-                <div class="subtitle" align="center">Case Studies</div>
+                <div class="subtitle" style="text-align:center">Case Studies</div>
                 </a>
             </div>
         </div>
