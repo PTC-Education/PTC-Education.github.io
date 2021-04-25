@@ -56,9 +56,9 @@ permalink: /docs/integrations/dxguides
                     <tr>
                         <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
                         <td style="text-align:center"><img src="Resources/VuforiaStudioThingworxDataTable.png"></td>
-                    </t>
+                    </tr>
                     <tr>
-                        <td>Universal Robot Augmented Reality Digital Twin, built with Vuforia Studio and ThingWorx, using federated local and cloud-based instances enabling both high-performance and remote data access. <a href="dxguides/twx-federated.md">More details on Federating instances in this PDF.</a>
+                        <td>Universal Robot Augmented Reality Digital Twin, built with Vuforia Studio and ThingWorx, using federated local and cloud-based instances enabling both high-performance and remote data access. <a href="/docs/integrations/dxguides/twx-federated">More details on Federating instances in this PDF.</a>
                         </td>
                         <td style="text-align:center">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/igaDY4tAkyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
