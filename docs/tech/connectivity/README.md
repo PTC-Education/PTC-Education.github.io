@@ -6,7 +6,7 @@ permalink: /docs/tech/connectivity
 
 <section class="section">
     <h2>Connectivity Technologies</h2>
-    <div>This page contains links to resources for learning how to integrate and connect DX and I4.0 technologies.<br /><br />
+    <div>This page contains links to general PTC resources for learning how to use PTC DX and I4.0 technologies. For examples on how to integrate these technologies together and how to connect them to other systems, see the <a href="/docs/integrations/dxguides/">DX Guides</a> in the <a href="/docs/integrations/">Integrations</a> section.<br /><br />
     </div>
     <div class="container">
         <h2>ThingWorx</h2>
