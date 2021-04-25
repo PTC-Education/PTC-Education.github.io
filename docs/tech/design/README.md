@@ -6,7 +6,7 @@ permalink: /docs/tech/design
 
 <section class="section">
     <h2>Design Technologies</h2>
-    <div>This page contains links to resources for learning how to use various design technologies for DX and I4.0 applications.<br /><br />
+    <div>This page contains links to resources for learning how to use various design technologies for DX and I4.0 applications. These resources are focused on the individual technologies -- to learn more about how to integrate them, visit the <a href="/docs/integrations">integrations</a> section.<br /><br />
     </div>
     <div class="container">
         <h2>Onshape</h2>
