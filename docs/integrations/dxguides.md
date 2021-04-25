@@ -23,10 +23,6 @@ permalink: /docs/integrations/dxguides
                     </tr>
                 </thead>
                 <tbody>
-                    <!--tr>
-                        <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
-                        <td style="text-align:center"></td>
-                    </tr-->
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Simple IoT with Airtable</a></td>
                         <td style="text-align:center"><img src="/resources/IoT-Airtable.png"></td>
@@ -53,7 +49,19 @@ permalink: /docs/integrations/dxguides
                         <td><a href="https://github.com/PTC-Education/DX-Resources/tree/master/Curriculum_Resources/DX-Exercises/ThingWorx%20Image%20Data%20Tables%20from%20Vuforia%20Studio">Storing images taken in the Vuforia View app in a ThingWorx data table</a></td>
                         <td style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Se20t7kvlJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                     </tr>
-                    
+                    <tr>
+                        <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
+                        <td style="text-align:center"></td>
+                    </t>
+                    <tr>
+                        <td><object data="Resources/VuforiaStudioThingworxDataTable.pdf" type="application/pdf" width="900px" height="700px">
+                            <embed src="Resources/VuforiaStudioThingworxDataTable.pdf">
+                                <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Resources/VuforiaStudioThingworxDataTable.pdf">Download PDF</a>.</p>
+                            </embed>
+                        </object></td>
+                        <td style="text-align:center">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/igaDY4tAkyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
