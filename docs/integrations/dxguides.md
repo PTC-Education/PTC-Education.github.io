@@ -47,7 +47,7 @@ permalink: /docs/integrations/dxguides
                     </tr>
                     <tr>
                         <td><a href="hhttps://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/VST-add-world-object.md">How to Add a World Object in Vuforia Spatial Toolbox</a></td>
-                        <td style="text-align:center"><img src="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/gif1.gif"></td>
+                        <td style="text-align:center"><img src="/resources/world-object.gif"></td>
                     </tr>
                 </tbody>
             </table>
