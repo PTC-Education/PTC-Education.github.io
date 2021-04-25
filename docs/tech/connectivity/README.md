@@ -20,10 +20,6 @@ permalink: /docs/tech/connectivity
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="https://apps.ptc.com/schools/curriculum/DX/HelloThingWorx.pdf">Hello ThingWorx!</a></td>
-                        <td>A simple Hello World ThingWorx example that shows how to use REST API to make a simple IoT temperature dashboard.  ThingWorx and Vuforia Studio both require knowledge of JavaScript -- <a href="https://www.w3schools.com/js/">Learn JS at W3Schools.com</a></td>
-                    </tr>
-                    <tr>
                         <td><a href="https://developer.thingworx.com/en/resources/learning-paths">ThingWorx Developer Portal - Learning Pathways</a></td>
                         <td>The PTC Developer Portal contains free resources for learning and building IoT solutions with ThingWorx. Specifically, this course is a good place to start: <a href="https://developer.thingworx.com/en/resources/learning-paths/getting-started-on-thingworx-platform">Getting Started on the ThingWorx Platform</a></td>
                     </tr>
@@ -112,10 +108,6 @@ permalink: /docs/tech/connectivity
                     <tr>
                         <td><a href="http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FComposer%2FIndustrialConnections%2FIndustrialConnectionsExample.html%23">How to Connect Kepware to ThingWorx, Industrial Connections Example</a></td>
                         <td>Using the Industrial Connections in ThingWorx, you can connect to ThingWorx Kepware Server to model, configure, and bind tags that exist in ThingWorx Kepware |||Server to Things in the ThingWorx model.</td>
-                    </tr>
-                    <tr>
-                        <td><a href="https://www.youtube.com/watch?v=8w3yWtPCTsk">BYU Smart Manufacturing Instructional Video</a></td>
-                        <td>Video showcasing how easy it is to make your factory smart with Thingworx and Kepware</td>
                     </tr>
                     <tr>
                         <td><a href="https://developer.thingworx.com/resources/guides/thingworx-kepware-server-guide">Connect Industrial Devices and Systems</a></td>
