@@ -19,31 +19,31 @@ permalink: /docs/integrations/dxguides
                 <thead>
                     <tr>
                         <th width="200">Title/Link</th>
-                        <th>Details</th>
+                        <th>Preview</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td><a href="https://github.com/PTC-Academic/RaspberryPi-SpatialToolbox-WifiHotspot">Spatial Toolbox on Raspberry Pi with Wifi Hotspot</a></td>
-                        <td>
+                        <td style="text-align:center">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/S77pD0f_JGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </td>
                     </tr>
                     <tr>
                         <td><a href="/docs/integrations/dxguides/spatialtoolboxkepware">Spatial Toolbox and Kepware</a></td>
-                        <td></td>
+                        <td style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LP-xyEFem7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/AR/Augmented_Reality-A-Winning-Strategy-for-Service.pdf">Augmented Reality: A Winning Strategy for Service </a></td>
-                        <td></td>
+                        <td style="text-align:center"></td>
                     </tr>
                     <tr>
                         <td><a href="/docs/integrations/dxguides/studiotwx">Vuforia Studio and ThingWorx</a></td>
-                        <td></td>
+                        <td style="text-align:center"></td>
                     </tr>
                     <tr>
                         <td><a href="">next link</a></td>
-                        <td></td>
+                        <td style="text-align:center"></td>
                     </tr>
                 </tbody>
             </table>
