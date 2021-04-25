@@ -29,7 +29,7 @@ permalink: /docs/integrations/dxguides
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Simple IoT with Airtable</a></td>
-                        <td style="text-align:center">https://github.com/PTC-Education/PTC-Education.github.io/blob/master/resources/IoT-Airtable.png?raw=true</td>
+                        <td style="text-align:center"><img src="https://github.com/PTC-Education/PTC-Education.github.io/blob/master/resources/IoT-Airtable.png?raw=true"></td>
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Academic/RaspberryPi-SpatialToolbox-WifiHotspot">Spatial Toolbox on Raspberry Pi with Wifi Hotspot</a></td>
@@ -43,7 +43,7 @@ permalink: /docs/integrations/dxguides
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/tree/master/Curriculum_Resources/DX-Exercises/Vuforia%20Spatial%20Toolbox%20-%20Arduino%20Hello%20World">Getting Started with Spatial Toolbox on Arduino</a></td>
-                        <td style="text-align:center">https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/Vuforia%20Spatial%20Toolbox%20-%20Arduino%20Hello%20World/ArduinoLightSwitch.gif</td>
+                        <td style="text-align:center"><img src="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/Vuforia%20Spatial%20Toolbox%20-%20Arduino%20Hello%20World/ArduinoLightSwitch.gif"></td>
                     </tr>
                 </tbody>
             </table>
