@@ -86,7 +86,7 @@ permalink: /docs/thought-leadership/webinars
                 <tbody>
                     <tr>
                         <td>Horst Orsolits, UAS Technikum Wien</td>
-                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Horst Orsolits discusses strategies for intrating IoT and AR in research and teaching.</td>
+                        <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Horst Orsolits discusses strategies for integrating IoT and AR in research and teaching.</td>
                     </tr>
                 </tbody>
             </table>
