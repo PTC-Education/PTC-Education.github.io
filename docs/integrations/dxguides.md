@@ -54,11 +54,11 @@ permalink: /docs/integrations/dxguides
                         <td style="text-align:center"></td>
                     </t>
                     <tr>
-                        <td><object data="Resources/VuforiaStudioThingworxDataTable.pdf" type="application/pdf" width="900px" height="700px">
+                        <td>Universal Robot Augmented Reality Digital Twin, built with Vuforia Studio and ThingWorx, using federated local and cloud-based instances enabling both high-performance and remote data access. More details on Federating instances in this PDF. <object data="Resources/VuforiaStudioThingworxDataTable.pdf" type="application/pdf" width="900px" height="700px">
                             <embed src="Resources/VuforiaStudioThingworxDataTable.pdf">
                                 <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Resources/VuforiaStudioThingworxDataTable.pdf">Download PDF</a>.</p>
                             </embed>
-                        </object></td>
+                        </object> </td>
                         <td style="text-align:center">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/igaDY4tAkyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                     </tr>
