@@ -19,7 +19,6 @@ permalink: /docs/thought-leadership
     </div>
     <div class="container">
         <h2><a href="https://ptc-education.github.io/docs/thought-leadership/research-teaching"><img src="/docs/thought-leadership/ResearchTeaching.png" width="100px" alt=""/>DX Research and Teaching</a></h2>
-
         <div>PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. <a href="https://ptc-education.github.io/docs/thought-leadership/research-teaching">Select outcomes from some of those collaborations are highlighted in this section.</a><br /><br /></div>
     </div>
     <div class="container">
