@@ -139,5 +139,22 @@ permalink: /docs/thought-leadership/webinars
                 </tbody>
             </table>
         </div>
+        <h2>DX Engineering</h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Presenter</th>
+                        <th>Topic</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>PTC Education Advanced Technology Team</td>
+                        <td><iframe width="560" height="315" src="https://ptc.zoom.us/rec/share/A7u2ClNUrRxXVe2TMGfC8cDUyY6jmVGlTQPoYAVHviMrGEp9Yn2racFtMUVAdxNy.rWqOgzxqfZMPRF_y?startTime=1619441170000" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe><br /><a href="https://ptc.zoom.us/rec/share/A7u2ClNUrRxXVe2TMGfC8cDUyY6jmVGlTQPoYAVHviMrGEp9Yn2racFtMUVAdxNy.rWqOgzxqfZMPRF_y?startTime=1619441170000">The PTC Education Advanced Technology Team shares their latest framework</a> for understanding how Digital Transformation fits in with traditional engineering disciplines and show off some of the integreations they are developing to enable DX Engineers to solve problems with connected technologies.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </section>
