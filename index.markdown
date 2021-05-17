@@ -179,7 +179,7 @@ function showSlides(n) {
 }
 </script>
 
-<h3>Below is a framework for understanding how PTC technologies work together to enable DX Engineers to solve problems with digitally connected technologies.</h3>
+Below is a framework for understanding how PTC technologies work together to enable DX Engineers to solve problems with digitally connected technologies.
         <div class="container">
             <p style="text-align:center"><img src="resources/Adv-Tech-Map.jpg" width="100%" alt="DX Technologies Map" margin="50px"/></p>
         </div>
