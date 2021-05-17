@@ -2,6 +2,8 @@
 # url: /about
 - title: DX in Education
   url: /
+- title: Blog
+  url: /blog
 - title: Technologies
   url: /docs/tech
   sublinks:
@@ -31,7 +33,9 @@
       url: /docs/thought-leadership/research-teaching
     - title: Publications
       url: /docs/thought-leadership/publications
-
+- title: Contact Us
+  url: mailto:edutech@ptc.com
+  absolute: true
 # - title: Use
 #   url: /docs/use
 #   sublinks:
