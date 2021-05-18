@@ -179,7 +179,7 @@ function showSlides(n) {
 }
 </script>
 <div class="container" margin="300px 0px 100px 0px">
-Below is a framework for understanding how PTC technologies work together to enable DX Engineers to solve problems with digitally connected technologies.
+<p margin="300px 0px 100px 0px">Below is a framework for understanding how PTC technologies work together to enable DX Engineers to solve problems with digitally connected technologies. We believe that the core disciplinary work of a digital tranformation engineer is in connectivity - connecting physical machines to the cloud through IoT, connecting digital assets together across the digital thread, and connecting digital information back to the physical world through augmented reality. In addition to being able to use all of the techonlogies within the connectivity categoery, DX engineers must have a strong foundation in CAD and CAE technologies, as well as PLM and data management and analysis technologies.</p>
 </div>
         <div class="container">
             <p style="text-align:center"><img src="resources/Adv-Tech-Map-basic.jpg" width="100%" alt="DX Technologies Map" margin="300px 0px 100px 0px"/></p>
