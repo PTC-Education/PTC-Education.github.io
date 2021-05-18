@@ -49,7 +49,9 @@ permalink: /docs/thought-leadership/research-teaching
                 </tr>
                 <tr>
                     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/v5EEUI2Mb5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-                    <td>This video is shows an overview of the <b>UAS Technikum Wien Digital Factory</b> -- many of these systems leverage PTC technologies. <a href="https://www.technikum-wien.at/en/" target="_blank">Learn more about Fachhochschule Technikum Wien.</a></td>
+                    <td>This video is shows an overview of the <b>UAS Technikum Wien Digital Factory</b> -- many of these systems leverage PTC technologies. <br />
+                    One of the students at UAS Technikum Wien has also <a href="http://jakob.hoerbst.net/en/2021/05/02/arno-english/">designed and 3D Printed his own robot, ARNO<sup>2<sup></a>, and built an AR digital twin using both Vuforia Engine (SDK) and Vuforia Studio. <br />
+                    <a href="https://www.technikum-wien.at/en/" target="_blank">Learn more about Fachhochschule Technikum Wien.</a></td>
                 </tr>
             </tbody>
         </table>
