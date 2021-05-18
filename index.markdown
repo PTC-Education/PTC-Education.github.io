@@ -178,10 +178,11 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
+<div class="container" margin="300px 0px 100px 0px">
 Below is a framework for understanding how PTC technologies work together to enable DX Engineers to solve problems with digitally connected technologies.
+</div>
         <div class="container">
-            <p style="text-align:center"><img src="resources/Adv-Tech-Map.jpg" width="100%" alt="DX Technologies Map" margin="50px"/></p>
+            <p style="text-align:center"><img src="resources/Adv-Tech-Map-basic.jpg" width="100%" alt="DX Technologies Map" margin="300px 0px 100px 0px"/></p>
         </div>
     </div>
     <div class="container">
