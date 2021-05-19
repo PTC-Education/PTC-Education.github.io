@@ -20,7 +20,7 @@ PTC Education hosted the Digital Transformation in Education Summit on May 19th!
 
 <a href="/resources/Kathy Cheng - UToronto.pdf">Some (Team) Assembly Required: An Analysis of Collaborative Computer-Aided Design Assembly - Kathy Cheng, UToronto</a>
 
-<a href="/resources/Milan Dahal - Tufts.pdf">Smart Motors: Trainable Motors for Story Telling: Milan Dahal, Tufts</a>
+<a href="/resources/Milan Dahal - Tufts.pdf">Smart Motors: Trainable Motors for Story Telling - Milan Dahal, Tufts</a>
 
 <a href="/resources/Andrew Eyring - BYU.pdf">Analysis of a Closed-Loop Digital Twin - Andrew Eyring, BYU</a>
 
