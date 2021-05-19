@@ -23,6 +23,10 @@ permalink: /docs/integrations/dxguides
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="https://github.com/PTC-Education/PTC-API-Playground">PTC API Playground</a></td>
+                        <td style="text-align:center"><img src="/resources/ColabScreenshot.png"></td>
+                    </tr>
+                    <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/DX-Exercises/IOT-with-Airtable.md">Simple IoT with Airtable</a></td>
                         <td style="text-align:center"><img src="/resources/IoT-Airtable.png"></td>
                     </tr>
