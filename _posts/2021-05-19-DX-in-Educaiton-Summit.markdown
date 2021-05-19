@@ -14,7 +14,7 @@ PTC Education hosted the Digital Transformation in Education Summit on May 19th!
 </div>
 <br>
 <br>
-<a href="/resources/Jürgen Altenriederer - UAS Wien.pdf">Digital Miniature Factory - Jürgen Altenriederer, UAS Technikum Wien</a>
+<a href="/resources/Jurgen Altenriederer - UAS Wien.pdf">Digital Miniature Factory - Jürgen Altenriederer, UAS Technikum Wien</a>
 
 <a href="/resources/James Chen - UToronto.pdf">Onshape CAD Analytics: A Gold Mine for Studying CAD Designer Behavior - James Chen, UToronto</a>
 
