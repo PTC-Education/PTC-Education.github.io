@@ -2,7 +2,7 @@
 layout: post
 title:  "DX in Education Summit"
 date:   2021-05-18 16:02:48 -0400
-categories: Newsletter
+categories: Events
 ---
 
 <div class="container">
