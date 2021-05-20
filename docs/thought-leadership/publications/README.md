@@ -41,7 +41,7 @@ permalink: /docs/thought-leadership/publications
                     </tr>
                     <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/AR/KMO2021_AR_V3.pdf">An Analysis of an Augmented Reality Application to support Service Staff in Industrial Maintenance</a></td>
-                        <td>An experimental investigation was carried out to explore this field. Two indus- trial maintenance cases with different levels of difficulty were simulated, whereby service staff had to solve these real-life problems. Support from an ex- pert was provided via an AR-application. In addition, the Affinity for Technology Interaction score was assessed in order to identify the target group for AR- applications.</td>
+                        <td>An experimental investigation was carried out to explore this field. Two industrial maintenance cases with different levels of difficulty were simulated, whereby service staff had to solve these real-life problems. Support from an exert was provided via an AR-application. In addition, the Affinity for Technology Interaction score was assessed in order to identify the target group for AR- applications. This work leveraged PTC Vuforia Chalk.</td>
                     </tr>
                 </tbody>
             </table>
