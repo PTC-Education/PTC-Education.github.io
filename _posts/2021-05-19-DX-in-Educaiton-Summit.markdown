@@ -10,7 +10,7 @@ categories: Events
 </div>
 <br>
 <div class="container"><h4>
-PTC Education hosted the Digital Transformation in Education Summit on May 19th! <br><br><a href="https://apps.ptc.com/schools/DXinEDUSummit2021.pdf">Click here</a> to see the full agenda for the event. Recordings of the keynote and panel sessions are below, and <a href="#Posters">click here</a> to see PDF's of all student posters are at the bottom of this page.</h4>
+PTC Education hosted the Digital Transformation in Education Summit on May 19th! <br><br><a href="https://apps.ptc.com/schools/DXinEDUSummit2021.pdf">Click here</a> to see the full agenda for the event. Recordings of the keynote and panel sessions are below, and <a href="#Posters">click here</a> to see PDF's of all student posters at the bottom of this page.</h4>
 </div>
 <section class="section">
     <div class="container">
