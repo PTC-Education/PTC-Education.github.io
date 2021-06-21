@@ -5,7 +5,7 @@ date:   2021-06-17 12:02:48 -0400
 categories: Highlight
 ---
 
-<div class="container"><h2>PTC API Playground</h2>
+<div class="container">
 The <a href="https://github.com/PTC-Education/PTC-API-Playground">PTC API Playground</a> is made to help you get started with using Onshape and ThingWorx REST API's using Python Notebooks hosted in Google Colab. This will allow you to write simple applications and macros that interact with Onshape and/or ThingWorx using the power of Python.
 </div>
 <div class="container">
