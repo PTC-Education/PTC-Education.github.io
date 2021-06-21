@@ -117,9 +117,9 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <a href="/docs/integrations/dxguides"><div class="numbertext">1 / 3</div>
-  <img src="resources/DXguides.gif" style="width:100%">
-  <div class="text">DX Guides</div></a>
+  <a href="/docs/integrations/apiplayground"><div class="numbertext">1 / 3</div>
+  <img src="resources/UR3OnshapeDigitalTwin.gif" style="width:100%">
+  <div class="text">API Playground</div></a>
 </div>
 
 <div class="mySlides fade">
