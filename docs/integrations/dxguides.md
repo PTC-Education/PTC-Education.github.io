@@ -22,6 +22,10 @@ permalink: /docs/integrations/dxguides
                     </tr>
                 </thead>
                 <tbody>
+                    <!-- <tr>
+                        <td><a href="/docs/integrations/dxguides/rpiems">Raspberry Pi Edge Microserver</a></td>
+                        <td style="text-align:center"><img src="./RPi-EdgeMicroserver/rpi_alwaysOn_thngwrx.png"></td>
+                    </tr> -->
                     <tr>
                         <td><a href="https://github.com/PTC-Education/PTC-API-Playground">PTC API Playground</a></td>
                         <td style="text-align:center"><img src="/resources/ColabScreenshot.png"></td>

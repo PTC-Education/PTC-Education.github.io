@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163665919-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-163665919-1');
+  </script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Raspberry Pi Edge Microserver | Digital Transformation in Education</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Raspberry Pi Edge Microserver" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world." />
+<meta property="og:description" content="Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world." />
+<link rel="canonical" href="http://localhost:4000/docs/integrations/dxguides/rpiems" />
+<meta property="og:url" content="http://localhost:4000/docs/integrations/dxguides/rpiems" />
+<meta property="og:site_name" content="Digital Transformation in Education" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Raspberry Pi Edge Microserver" />
+<script type="application/ld+json">
+{"description":"Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world.","url":"http://localhost:4000/docs/integrations/dxguides/rpiems","headline":"Raspberry Pi Edge Microserver","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<meta property="og:image" content="https://ptc-education.github.io/resources/Adv-Tech-Map.jpg">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Digital Transformation in Education" /><script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="https://www.ptc.com/en/education">
+          <img class="navbar-icon" alt="Digital Transformation in Education" src="/resources/ptc_education_KO-gr_logo.png" height="28"/>
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+          
+          
+            
+            
+            
+              
+                <a class="navbar-item active" href="http://localhost:4000/">
+                  DX in Education
+                </a>
+              
+            
+          
+            
+            
+            
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a href="http://localhost:4000/docs/tech" class="navbar-link">Technologies</a>
+                <div class="navbar-dropdown">
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech">
+                        Introduction
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech/design">
+                        Design
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech/connectivity">
+                        Connectivity
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech/thread">
+                        Digital Thread
+                      </a>
+
+                      
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+            
+            
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a href="http://localhost:4000/docs/integrations" class="navbar-link">Integrations</a>
+                <div class="navbar-dropdown">
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations">
+                        Introduction
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations/dxguides">
+                        DX Guides
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations/apiplayground">
+                        API Playground
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations/dxonshape">
+                        DX Onshape
+                      </a>
+
+                      
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+            
+            
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a href="http://localhost:4000/docs/thought-leadership" class="navbar-link">Thought Leadership</a>
+                <div class="navbar-dropdown">
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership">
+                        Introduction
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership/webinars">
+                        Webinars
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership/research-teaching">
+                        DX Research and Teaching
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership/publications">
+                        Publications
+                      </a>
+
+                      
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+            
+            
+              
+                <a class="navbar-item " href="http://localhost:4000/blog">
+                  Blog
+                </a>
+              
+            
+          
+            
+            
+            
+              
+                <a class="navbar-item " href="mailto:edutech@ptc.com">
+                  Contact Us
+                </a>
+              
+            
+          
+        </div>
+      </div>
+    </nav>
+
+<!--
+      <ul class="nav navbar-nav">
+        
+        
+          
+          
+          
+            <li class="active">
+              <a href="http://localhost:4000/">DX in Education</a>
+            </li>
+          
+        
+          
+          
+          
+            <li class="dropdown ">
+              <a href="http://localhost:4000/docs/tech" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Technologies <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech">Introduction</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech/design">Design</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech/connectivity">Connectivity</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech/thread">Digital Thread</a>
+                    </li>
+                  
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+            <li class="dropdown active">
+              <a href="http://localhost:4000/docs/integrations" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Integrations <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations">Introduction</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations/dxguides">DX Guides</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations/apiplayground">API Playground</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations/dxonshape">DX Onshape</a>
+                    </li>
+                  
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+            <li class="dropdown ">
+              <a href="http://localhost:4000/docs/thought-leadership" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Thought Leadership <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership">Introduction</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership/webinars">Webinars</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership/research-teaching">DX Research and Teaching</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership/publications">Publications</a>
+                    </li>
+                  
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+            <li class="">
+              <a href="http://localhost:4000/blog">Blog</a>
+            </li>
+          
+        
+          
+          
+          
+            <li class="">
+              <a href="http://localhost:4000mailto:edutech@ptc.com">Contact Us</a>
+            </li>
+          
+        
+      </ul>
+-->
+    </nav>
+  </div>
+  <script src="/assets/bulma-dropdown.js"></script>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="columns">
+  <div class="column">
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+      <div class="post-content e-content" itemprop="articleBody">
+        <h2 style="text-align:center">RPi-EdgeMicroserver</h2>
+<p style="text-align:center">Repository for Lua Script Resource templates and examples for usage with Python3</p>
+
+<h3 id="table-of-contents">Table of Contents</h3>
+<ul>
+  <li><a href="#properties">Creating Custom Properties</a></li>
+  <li><a href="#services">Creating Custom Services</a></li>
+  <li><a href="#valuestreams">Creating Properties for ValueStreams</a></li>
+  <li><a href="#pythonLua">Interfacing with Custom Python Scripts</a></li>
+  <li><a href="#fileDownload">Downloading Files from File Repositories</a></li>
+</ul>
+
+<h3 id="example-use-cases">Example Use Cases</h3>
+<ul>
+  <li><a href="https://github.com/PTC-Education/RPi-EdgeMicroserver/tree/main/3D%20Printer%20Control%20Hub">3D Printer EMS Control Hub</a></li>
+</ul>
+
+<p>This repository is broken down into LSR (Lua Script Resource) templates for configuring a Raspberry Pi RemoteThing. Below is a screenshot from the Thingworx Developer Portal tutorial outlining the complete communication structure from the Raspberry Pi to the Thingworx server.</p>
+
+<hr />
+<h2 id="high-level-communication-structure">High Level Communication Structure:</h2>
+
+<p>When you start the EMS (Edge MicroServer) on the Raspberry Pi, you are creating your own RemoteThing that is registered
+with your Thingworx instance. This connection over the AlwaysOn protocol will allow users to utlize their GPIO and custom code remote through Thingworx services and properties. The below image is a diagram displaying the connection flow showing the bi-directional communication.</p>
+
+<p><img src="./RPi-EdgeMicroserver/rpi_alwaysOn_thngwrx.png" /></p>
+
+<hr />
+<p><a name="properties"></a></p>
+
+<h2 id="creating-custom-properties">Creating Custom Properties</h2>
+
+<p>This section of the repository outlines the process behind defining custom properties in the Lua Script Resource. It also outlines getting and setting values from properties.</p>
+
+<div class="language-lua highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">-- Base structure for declaring new properties</span>
+<span class="n">properties</span><span class="p">.[</span><span class="n">propertyName</span><span class="p">]</span><span class="o">=</span><span class="p">{</span><span class="n">baseType</span><span class="o">=</span><span class="s2">"[propertyType]"</span><span class="p">,</span> <span class="n">pushType</span><span class="o">=</span><span class="s2">"propertyPushType"</span><span class="p">,</span> <span class="n">value</span><span class="o">=</span><span class="s2">"propertyDefaultValue"</span>
+
+<span class="c1">-- Example property creation</span>
+<span class="n">properties</span><span class="p">.</span><span class="n">cpu_temperature</span><span class="o">=</span><span class="p">{</span><span class="n">baseType</span><span class="o">=</span><span class="s2">"NUMBER"</span><span class="p">,</span> <span class="n">pushType</span><span class="o">=</span><span class="s2">"ALWAYS"</span><span class="p">,</span> <span class="n">value</span><span class="o">=</span><span class="mi">0</span><span class="p">}</span>
+
+<span class="c1">-- Writing to a custom property</span>
+<span class="n">properties</span><span class="p">.[</span><span class="n">propertyName</span><span class="p">].</span><span class="n">value</span> <span class="o">=</span> <span class="n">s</span>
+
+<span class="c1">-- Reading in current property value into variable</span>
+<span class="n">customPropValue</span> <span class="o">=</span> <span class="n">properties</span><span class="p">.[</span><span class="n">propertyName</span><span class="p">].</span><span class="n">value</span>
+</code></pre></div></div>
+
+<p><a name="services"></a></p>
+
+<h2 id="creating-custom-services">Creating Custom Services</h2>
+
+<p>This section of the repository outlines the process behind defining custom services in the Lua Script Resource. It also outlines writing service functions in order to utilize custom service inputs. Click <a href="https://github.com/PTC-Education/RaspberryPi-EMS-Lua-Python/tree/main/Creating%20Custom%20Services">here</a> to get started writing custom properties.</p>
+
+<div class="language-lua highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">-- Base structure for defining new services</span>
+<span class="n">serviceDefinitions</span><span class="p">.[</span><span class="n">serviceName</span><span class="p">](</span>
+  <span class="n">input</span> <span class="p">{</span> <span class="n">name</span><span class="o">=</span><span class="s2">"[inputName]"</span><span class="p">,</span> <span class="n">baseType</span><span class="o">=</span><span class="s2">"[inputType]"</span><span class="p">,</span> <span class="n">description</span><span class="o">=</span><span class="s2">"[inputDescription]"</span> <span class="p">},</span>
+  <span class="n">output</span> <span class="p">{</span> <span class="n">baseType</span><span class="o">=</span><span class="s2">"[outputType]"</span><span class="p">,</span> <span class="n">description</span><span class="o">=</span><span class="s2">"[outputDescription]"</span> <span class="p">},</span>
+  <span class="n">description</span> <span class="p">{</span> <span class="s2">"[serviceDescription]"</span> <span class="p">}</span>
+<span class="p">)</span>
+
+<span class="c1">-- Base structure for implementing service callback functions</span>
+<span class="n">services</span><span class="p">.[</span><span class="n">serviceName</span><span class="p">]</span> <span class="o">=</span> <span class="k">function</span><span class="p">(</span><span class="n">me</span><span class="p">,</span> <span class="n">headers</span><span class="p">,</span> <span class="n">query</span><span class="p">,</span> <span class="n">data</span><span class="p">)</span>
+    <span class="o">***</span> <span class="n">define</span> <span class="n">the</span> <span class="k">function</span> <span class="nf">actions</span> <span class="n">within</span>
+   <span class="k">return</span> <span class="mi">200</span><span class="p">,</span> <span class="kc">true</span> 
+<span class="k">end</span>
+
+<span class="c1">-- How to reference service inputs inside callback functions</span>
+<span class="kd">local</span> <span class="n">serviceInput</span> <span class="o">=</span> <span class="n">data</span><span class="p">.</span><span class="n">inputName</span>
+</code></pre></div></div>
+
+<p><a name="pythonLua"></a></p>
+
+<h2 id="interfacing-with-python-scripts-using-services-and-properties">Interfacing with Python Scripts using Services and Properties</h2>
+<p>This section of the repository outlines interfacing with external Python3 scripts using custom properties and services.</p>
+
+<div class="language-lua highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">-- Use the io library to run the python script</span>
+<span class="kd">local</span> <span class="n">inputCmd</span> <span class="o">=</span> <span class="nb">io.popen</span><span class="p">(</span><span class="s2">"python3 /path/to/file.py"</span><span class="p">)</span>
+
+<span class="c1">-- Read in the std:output from the command prompt</span>
+<span class="kd">local</span> <span class="n">s</span> <span class="o">=</span> <span class="n">inputCmd</span><span class="p">::</span><span class="n">read</span><span class="p">(</span><span class="o">*</span><span class="n">a</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<p><a name="fileDownload"></a></p>
+
+<h2 id="downloading-files-from-file-repositories-to-rpi-ems">Downloading Files from File Repositories to RPi EMS</h2>
+<p>This section covers a high level overview of downloading files using the REST API. Using the FileRepositoryDownloader we can specify the repository and path to the file. By funneling the response of our api call, we can use file i/o to write our downloaded data to a file on our local machine. If you would like to see a more robust example <a href="https://github.com/PTC-Education/RPi-EdgeMicroserver/blob/main/3D%20Printer%20Control%20Hub/downloadFile.py">click here</a></p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="c1"># Request URL Parameters
+</span> <span class="n">host</span> <span class="o">=</span> <span class="n">os</span><span class="p">.</span><span class="n">getenv</span><span class="p">(</span><span class="s">'THINGWORX_HOST'</span><span class="p">)</span>
+ <span class="n">path</span> <span class="o">=</span> <span class="s">"/Thingworx/FileRepositoryDownloader"</span>
+ <span class="n">repositoryQuery</span> <span class="o">=</span> <span class="s">"?download-repository="</span>
+ <span class="n">fileQuery</span> <span class="o">=</span> <span class="s">"&amp;download-path=/"</span>
+ 
+  <span class="c1"># Concatenate Request URL
+</span>  <span class="n">url</span> <span class="o">=</span> <span class="n">host</span> <span class="o">+</span> <span class="n">path</span> <span class="o">+</span> <span class="n">repositoryQuery</span> <span class="o">+</span> <span class="n">fileRepository</span> <span class="o">+</span> <span class="n">fileQuery</span> <span class="o">+</span> <span class="n">fileName</span>
+
+  <span class="k">try</span><span class="p">:</span>
+      <span class="n">r</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">request</span><span class="p">(</span><span class="s">"GET"</span><span class="p">,</span> <span class="n">url</span><span class="p">,</span> <span class="n">headers</span> <span class="o">=</span> <span class="n">headers</span><span class="p">,</span> <span class="n">allow_redirects</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+      <span class="k">if</span> <span class="p">(</span><span class="n">save</span><span class="p">):</span>
+          <span class="nb">file</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">fileName</span><span class="p">,</span> <span class="s">"w"</span><span class="p">)</span>
+          <span class="nb">file</span><span class="p">.</span><span class="n">write</span><span class="p">(</span><span class="n">r</span><span class="p">.</span><span class="n">text</span><span class="p">)</span>
+          <span class="nb">file</span><span class="p">.</span><span class="n">close</span><span class="p">()</span>
+      <span class="k">return</span> <span class="bp">True</span>
+  <span class="k">except</span><span class="p">:</span>
+      <span class="k">return</span> <span class="bp">False</span>
+</code></pre></div></div>
+
+<p><a name="valuestreams"></a></p>
+
+<h2 id="valuestream-properties">Valuestream Properties</h2>
+<p>Creating a property that logs its timestamp as well as value for input into a valuestream</p>
+
+<div class="language-lua highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="c1">-- Function that queries a python script for current printer bed and extruder temps</span>
+
+<span class="k">function</span> <span class="nf">queryHardware</span><span class="p">()</span>
+    
+    <span class="c1">-- Call the Python script</span>
+    <span class="kd">local</span> <span class="n">tempCmd</span> <span class="o">=</span> <span class="nb">io.popen</span><span class="p">(</span><span class="s2">"/usr/bin/python $HOME/RPi-EdgeMicroserver/3D-Printer-Control-Hub/scripts/tempStatus.py"</span><span class="p">)</span>
+    <span class="kd">local</span> <span class="n">s</span> <span class="o">=</span> <span class="n">tempCmd</span><span class="p">:</span><span class="n">read</span><span class="p">(</span><span class="s2">"*a"</span><span class="p">)</span>
+    
+    <span class="c1">-- Parse out the temperature value from the std output string</span>
+    <span class="kd">local</span> <span class="n">d</span> <span class="o">=</span> <span class="nb">string.match</span><span class="p">(</span><span class="n">s</span><span class="p">,</span><span class="s2">"BedTemp=(%d+\.%d+)"</span><span class="p">);</span>
+    
+    <span class="c1">-- Assign the value and time to the property for correct logging </span>
+    <span class="n">properties</span><span class="p">.</span><span class="n">bed_temperature</span><span class="p">.</span><span class="n">value</span> <span class="o">=</span> <span class="n">d</span>
+    <span class="n">properties</span><span class="p">.</span><span class="n">bed_temperature</span><span class="p">.</span><span class="n">time</span> <span class="o">=</span> <span class="n">data</span><span class="p">.</span><span class="n">time</span><span class="p">;</span>
+    
+<span class="k">end</span>
+</code></pre></div></div>
+
+<hr />
+
+      </div>
+
+      <a class="u-url" href="/docs/integrations/dxguides/rpiems" hidden></a>
+    </article>
+  </div>
+  <div class="column is-narrow"><aside class="menu">
+  
+  
+    <p class="menu-label">
+      <a href="http://localhost:4000/">
+        DX in Education
+      </a>
+    </p>
+    
+  
+    <p class="menu-label">
+      <a href="http://localhost:4000/docs/tech">
+        Technologies
+      </a>
+    </p>
+    
+      <ul class="menu-list">
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/tech">
+              Introduction
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/tech/design">
+              Design
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/tech/connectivity">
+              Connectivity
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/tech/thread">
+              Digital Thread
+            </a>
+
+            
+
+          </li>
+        
+      </ul>
+    
+  
+    <p class="menu-label">
+      <a href="http://localhost:4000/docs/integrations">
+        Integrations
+      </a>
+    </p>
+    
+      <ul class="menu-list">
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/integrations">
+              Introduction
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/integrations/dxguides">
+              DX Guides
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/integrations/apiplayground">
+              API Playground
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/integrations/dxonshape">
+              DX Onshape
+            </a>
+
+            
+
+          </li>
+        
+      </ul>
+    
+  
+    <p class="menu-label">
+      <a href="http://localhost:4000/docs/thought-leadership">
+        Thought Leadership
+      </a>
+    </p>
+    
+      <ul class="menu-list">
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/thought-leadership">
+              Introduction
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/thought-leadership/webinars">
+              Webinars
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/thought-leadership/research-teaching">
+              DX Research and Teaching
+            </a>
+
+            
+
+          </li>
+        
+          
+          
+          <li>
+            <a class="" href="http://localhost:4000/docs/thought-leadership/publications">
+              Publications
+            </a>
+
+            
+
+          </li>
+        
+      </ul>
+    
+  
+    <p class="menu-label">
+      <a href="http://localhost:4000/blog">
+        Blog
+      </a>
+    </p>
+    
+  
+</aside>
+</div>
+</div>
+
+      </div>
+    </main><footer class="footer">
+  <div class="columns">
+    <div class="column is-narrow">
+      <a href="mailto:EduTech@ptc.com">Contact</a>
+    </div>
+    <div class="column is-narrow">
+      <a href="https://www.ptc.com/en/documents/policies">Legal</a>
+    </div>
+    <div class="column is-narrow">
+      <a href="https://www.ptc.com/en/documents/policies/privacy">Privacy Policy</a>
+    </div>
+    <div class="column is-narrow">
+      <a href="http://www.ptc.com/careers">Careers</a>
+    </div>
+  </div>
+  <div class="footer-disclaimer">
+    <p>©2021 PTC Inc. All rights reserved. Nothing in these materials is an offer to sell any of the components or devices referenced herein. PTC, Vuforia, Creo, Onshape, ThingWorx, Kepware, Windchill, and Mathcad are trademarks or registered trademarks of PTC Inc. in the United States and other countries. Other products and brand names referenced may be trademarks or registered trademarks of their respective owners.</p>
+  </div>
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163665919-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-163665919-1');
+  </script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Creating Custom Services | Digital Transformation in Education</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Creating Custom Services" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world." />
+<meta property="og:description" content="Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world." />
+<link rel="canonical" href="http://localhost:4000/docs/integrations/dxguides/RPi-EdgeMicroserver/Creating%20Custom%20Services/" />
+<meta property="og:url" content="http://localhost:4000/docs/integrations/dxguides/RPi-EdgeMicroserver/Creating%20Custom%20Services/" />
+<meta property="og:site_name" content="Digital Transformation in Education" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Creating Custom Services" />
+<script type="application/ld+json">
+{"description":"Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world.","url":"http://localhost:4000/docs/integrations/dxguides/RPi-EdgeMicroserver/Creating%20Custom%20Services/","headline":"Creating Custom Services","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<meta property="og:image" content="https://ptc-education.github.io/resources/Adv-Tech-Map.jpg">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Digital Transformation in Education" /><script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="https://www.ptc.com/en/education">
+          <img class="navbar-icon" alt="Digital Transformation in Education" src="/resources/ptc_education_KO-gr_logo.png" height="28"/>
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start">
+          
+          
+            
+            
+            
+              
+                <a class="navbar-item active" href="http://localhost:4000/">
+                  DX in Education
+                </a>
+              
+            
+          
+            
+            
+            
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a href="http://localhost:4000/docs/tech" class="navbar-link">Technologies</a>
+                <div class="navbar-dropdown">
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech">
+                        Introduction
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech/design">
+                        Design
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech/connectivity">
+                        Connectivity
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/tech/thread">
+                        Digital Thread
+                      </a>
+
+                      
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+            
+            
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a href="http://localhost:4000/docs/integrations" class="navbar-link">Integrations</a>
+                <div class="navbar-dropdown">
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations">
+                        Introduction
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations/dxguides">
+                        DX Guides
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations/apiplayground">
+                        API Playground
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/integrations/dxonshape">
+                        DX Onshape
+                      </a>
+
+                      
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+            
+            
+              <div class="navbar-item has-dropdown is-hoverable">
+                <a href="http://localhost:4000/docs/thought-leadership" class="navbar-link">Thought Leadership</a>
+                <div class="navbar-dropdown">
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership">
+                        Introduction
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership/webinars">
+                        Webinars
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership/research-teaching">
+                        DX Research and Teaching
+                      </a>
+
+                      
+                    
+                  
+                    
+                      <a class="navbar-item" href="http://localhost:4000/docs/thought-leadership/publications">
+                        Publications
+                      </a>
+
+                      
+                    
+                  
+                </div>
+              </div>
+            
+          
+            
+            
+            
+              
+                <a class="navbar-item " href="http://localhost:4000/blog">
+                  Blog
+                </a>
+              
+            
+          
+            
+            
+            
+              
+                <a class="navbar-item " href="mailto:edutech@ptc.com">
+                  Contact Us
+                </a>
+              
+            
+          
+        </div>
+      </div>
+    </nav>
+
+<!--
+      <ul class="nav navbar-nav">
+        
+        
+          
+          
+          
+            <li class="active">
+              <a href="http://localhost:4000/">DX in Education</a>
+            </li>
+          
+        
+          
+          
+          
+            <li class="dropdown ">
+              <a href="http://localhost:4000/docs/tech" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Technologies <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech">Introduction</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech/design">Design</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech/connectivity">Connectivity</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/tech/thread">Digital Thread</a>
+                    </li>
+                  
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+            <li class="dropdown active">
+              <a href="http://localhost:4000/docs/integrations" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Integrations <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations">Introduction</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations/dxguides">DX Guides</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations/apiplayground">API Playground</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/integrations/dxonshape">DX Onshape</a>
+                    </li>
+                  
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+            <li class="dropdown ">
+              <a href="http://localhost:4000/docs/thought-leadership" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Thought Leadership <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership">Introduction</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership/webinars">Webinars</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership/research-teaching">DX Research and Teaching</a>
+                    </li>
+                  
+                
+                  
+                    <li>
+                      <a href="http://localhost:4000/docs/thought-leadership/publications">Publications</a>
+                    </li>
+                  
+                
+              </ul>
+            </li>
+          
+        
+          
+          
+          
+            <li class="">
+              <a href="http://localhost:4000/blog">Blog</a>
+            </li>
+          
+        
+          
+          
+          
+            <li class="">
+              <a href="http://localhost:4000mailto:edutech@ptc.com">Contact Us</a>
+            </li>
+          
+        
+      </ul>
+-->
+    </nav>
+  </div>
+  <script src="/assets/bulma-dropdown.js"></script>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Creating Custom Services</h1>
+  </header>
+
+  <div class="post-content">
+    <h2 id="creating-custom-services">Creating Custom Services</h2>
+
+<p>In order to setup custom services in your PiTemplate.lua file, you will need to follow the definition convention.
+Below the definition is outlined, and this will be placed at the top of your template file.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>serviceDefinitions.[serviceName](
+  input { name="[inputName]", baseType="[inputType]", description="[inputDescription]" },
+  output { baseType="[outputType]", description="[outputDescription]" },
+  description { "[serviceDescription]" }
+)
+</code></pre></div></div>
+<h4 id="1-servicename">1. serviceName</h4>
+<p>Name of your custom service on Thingworx</p>
+
+<h4 id="2-inputname">2. inputName</h4>
+<p>Name of your service input property on Thingworx.</p>
+
+<h4 id="3-inputtype">3. inputType</h4>
+<p>Type of your service input property. Examples of possible types: NUMBER, STRING, IMAGE. A full reference of possible types can be found on <a href="https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx%2FHelp%2FComposer%2FThings%2FThingProperties%2FThingProperties.html%23">support.ptc.com</a> under the Property Base Type section. There can be as many inputs as you wish, just copy the input declaration and declare a unique inputName.</p>
+
+<h4 id="4-inputdescription">4. inputDescription</h4>
+<p>Description of the input to the service. This description will appear as a tooltip in Thingworx once the service is live.</p>
+
+<h4 id="5-outputtype">5. outputType</h4>
+<p>Type of your service output property. Examples of possible types: NUMBER, STRING, IMAGE. A full reference of possible types can be found on <a href="https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx%2FHelp%2FComposer%2FThings%2FThingProperties%2FThingProperties.html%23">support.ptc.com</a> under the Property Base Type section. There can be as many inputs as you wish, just copy the input declaration and declare a unique inputName.</p>
+
+<h4 id="6-outputdescription">6. outputDescription</h4>
+<p>Description of the output to the service. This description will appear as a tooltip in Thingworx once the service is live.</p>
+
+<h3 id="example-custom-service-declaration">Example Custom Service Declaration</h3>
+
+<p>Say we are creating a custom service that controls the motion of a 3D printer with two inputs, axis and dist. When creating a RemoteThing with this custom service, we must break down the information we need.</p>
+
+<p>For this case we will define our parameters:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>serviceName = Jog
+serviceDescription = Service that jogs 3d printer toolhead by specifying axis and distance of movement
+
+inputName1 = axis
+inputType1 = STRING
+inputDescription1 = movement axis (x,y,z)
+
+inputName2 = dist
+inputType2 = NUMBER
+inputDescription2 = relative jog distance (mm)
+
+outputType = BOOLEAN
+outputDescription = ""
+</code></pre></div></div>
+<p>Plugging our parameters into the base declaration,</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>serviceDefinitions.Jog(
+  input { name="axis", baseType="STRING", description="movement axis (x,y,z)" },
+  input { name="dist, baseType="NUMBER", description="relative jog distance (mm)" },
+  output { baseType="NUMBER", description="" },
+  description { "Service that jogs 3d printer toolhead by specifying axis and distance of movement" }
+)
+</code></pre></div></div>
+<p>You have just defined your first custom service!</p>
+
+<h2 id="creating-a-service-function">Creating a Service Function</h2>
+<p>Once you have defined your service you need to write a function that utilizes your inputs in order to do an action.</p>
+
+<p>The skeleton structure for creating a service function is outlined below.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>services.Jog = function(me, headers, query, data)
+    *** define the function actions within
+   return 200, true 
+end
+</code></pre></div></div>
+<p>We can define and use our input parameters by calling them as part of our function’s data</p>
+
+<h3 id="reading-in-input-data">Reading in Input data</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// axis value passed into service call in Thingworx
+local axis = data.axis
+
+// dist value passed into service call in Thingworx
+local dist = data.axis
+</code></pre></div></div>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="footer">
+  <div class="columns">
+    <div class="column is-narrow">
+      <a href="mailto:EduTech@ptc.com">Contact</a>
+    </div>
+    <div class="column is-narrow">
+      <a href="https://www.ptc.com/en/documents/policies">Legal</a>
+    </div>
+    <div class="column is-narrow">
+      <a href="https://www.ptc.com/en/documents/policies/privacy">Privacy Policy</a>
+    </div>
+    <div class="column is-narrow">
+      <a href="http://www.ptc.com/careers">Careers</a>
+    </div>
+  </div>
+  <div class="footer-disclaimer">
+    <p>©2021 PTC Inc. All rights reserved. Nothing in these materials is an offer to sell any of the components or devices referenced herein. PTC, Vuforia, Creo, Onshape, ThingWorx, Kepware, Windchill, and Mathcad are trademarks or registered trademarks of PTC Inc. in the United States and other countries. Other products and brand names referenced may be trademarks or registered trademarks of their respective owners.</p>
+  </div>
+</footer>
+</body>
+
+</html>

@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: DX Guides
+title: API Playground
 permalink: /docs/integrations/apiplayground
 ---
 

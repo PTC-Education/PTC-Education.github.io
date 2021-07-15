@@ -20,6 +20,8 @@
       url: /docs/integrations/dxguides
     - title: API Playground
       url: /docs/integrations/apiplayground
+    - title: DX Onshape
+      url: /docs/integrations/dxonshape
 - title: Thought Leadership
   url: /docs/thought-leadership
   sublinks: 
