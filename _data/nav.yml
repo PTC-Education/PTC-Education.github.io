@@ -24,9 +24,6 @@
       url: /docs/integrations/apiplayground
     - title: DX Onshape
       url: /docs/integrations/dxonshape
-      sublinks:
-        - title: Airtable
-          url: /docs/integrations/dxonshape/airtable
 - title: Thought Leadership
   url: /docs/thought-leadership
   sublinks: 
