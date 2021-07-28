@@ -36,22 +36,6 @@
     
      {
        
-          "title"    : "IoT Course Layout",
-          "category" : "",
-          "tags"     : "",
-          "url"      : "/docs/thought-leadership/webinars/resources",
-          "date"     : "",
-          "description"     : "Dr. Chris Rogers or Tufts University, First Year IoT Course, includes weekly overview of the semester for first year engineering students learning the Internet of Things.",
-          "content": "Dr. Chris Rogers or Tufts University, First Year IoT CourseIncludes weekly overview of the semester for first year engineering students learning the Internet of Things.            This browser does not support PDFs. Please download the PDF to view it: Download PDF.    &amp;lt;/embed&amp;gt;"
-       
-     } ,
-    
-     {
-       
-     } ,
-    
-     {
-       
           "title"    : "DX Onshape",
           "category" : "",
           "tags"     : "",
@@ -63,14 +47,6 @@
      } ,
     
      {
-       
-          "title"    : "PTC API Playground",
-          "category" : "",
-          "tags"     : "",
-          "url"      : "/docs/integrations/apiplayground",
-          "date"     : "",
-          "description"     : "The PTC API Playground is made to help you get started with using Onshape and ThingWorx REST API's using Python Notebooks hosted in Google Colab. This will allow you to write simple applications and macros that interact with Onshape and/or ThingWorx using the power of Python.",
-          "content": "PTC API PlaygroundThe PTC API Playground is made to help you get started with using Onshape and ThingWorx REST API&#39;s using Python Notebooks hosted in Google Colab. This will allow you to write simple applications and macros that interact with Onshape and/or ThingWorx using the power of Python.            Onshape API PlaygroundClick here to see the main library for using Onshape&#39;s REST API, and see the video below for a tutorial on how to get started.ThingWorx API PlaygroundClick here to see the main library for using ThingWorx&#39;s REST API."
        
      } ,
     
@@ -95,6 +71,18 @@
           "date"     : "",
           "description"     : "PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. Some outcomes from some of those collaborations are highlighted here.s",
           "content": "            DX Collaborator Research and Teaching        PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. Some outcomes from some of those collaborations are highlighted here.                                                                Design                                                                                                A student researcher at Tufts University used the Onshape to Robot exporter service to create a digital twin of a LEGO Robot created in Onshape. He was able to develop and tune a control system with Gazebo&#39;s physics engine, then apply the controller to the physical robot. Click here to learn more about the project.                                                                        Mativated by education research into how students learn during open-ended design projects, the Tufts University Center for Engineering Ecucation and Outreach developed a website with lots of design challenges to inspire teachers to bring more project based learning into their classrooms. Click here to check out their website. One of these challenges also inspired a research collaboration with University of Toronto&#39;s Ready Lab.                                                                                                    Connectivity                                                                                                This video is shows an AR experience at the BYU Smart Factory using Thingworx. The BYU Manufacturing Engineering program have made a number of great demonstrations of how PTC technologies can be integrated into a university program. See more videos on the BYU YouTube Channel.                                                                        The Tufts University Department of Mechanical Engineering and the Center for Engineering Outreach and Education (CEEO) has produced a wide array of novel educational materials for IoT and AR eduation including Vuforia Spatial Toolbox and Arduino -- many of these systems leverage PTC technologies. Learn more on the Tufts CEEO YouTube channel and on this Google Site of Demos Related to Onshape and Spatial Toolbox                                                                        This video is shows an overview of the UAS Technikum Wien Digital Factory -- many of these systems leverage PTC technologies.                     One of the students at UAS Technikum Wien has also designed and 3D Printed his own robot, ARNO2, and built an AR digital twin using both Vuforia Engine (SDK) and Vuforia Studio.                     Learn more about Fachhochschule Technikum Wien.                                                                                                    Digital Thread                                                                                                Researchers at the University of Wisconsin Milwaukee have been exploring how connected robots can be used in telehealth and rehabilitation applications. One of their projects involved using the Ansys Twin Builder to model and improve the performance of their robot arm using data from ThingWorx. Click here to learn more about the project.                                        "
+       
+     } ,
+    
+     {
+       
+          "title"    : "IoT Course Layout",
+          "category" : "",
+          "tags"     : "",
+          "url"      : "/docs/thought-leadership/webinars/resources",
+          "date"     : "",
+          "description"     : "Dr. Chris Rogers or Tufts University, First Year IoT Course, includes weekly overview of the semester for first year engineering students learning the Internet of Things.",
+          "content": "Dr. Chris Rogers or Tufts University, First Year IoT CourseIncludes weekly overview of the semester for first year engineering students learning the Internet of Things.            This browser does not support PDFs. Please download the PDF to view it: Download PDF.    &amp;lt;/embed&amp;gt;"
        
      } ,
     
@@ -179,6 +167,18 @@
           "date"     : "",
           "description"     : "A collection of resources about getting started with PTC Digital Transformation technologies in an educational setting.",
           "content": "            PTC Education DX Technologies        A collection of resources about getting started with PTC Digital Transformation technologies in an educational setting. Below is a map that shows how the various technologies work together.                            We have split up the content into three stages of the development for smart, connected products and processes. Click on an icon below to learn more about design, connectivity, or digital thread technologies. Head over to the &quot;Integrations&quot; page to learn more about the concepts between and around the core technologies.                                                                                Design                                                                        Connectivity                                                                                        Digital Thread                                        "
+       
+     } ,
+    
+     {
+       
+          "title"    : "PTC API Playground",
+          "category" : "",
+          "tags"     : "",
+          "url"      : "/docs/integrations/apiplayground",
+          "date"     : "",
+          "description"     : "The PTC API Playground is made to help you get started with using Onshape and ThingWorx REST API's using Python Notebooks hosted in Google Colab. This will allow you to write simple applications and macros that interact with Onshape and/or ThingWorx using the power of Python.",
+          "content": "PTC API PlaygroundThe PTC API Playground is made to help you get started with using Onshape and ThingWorx REST API&#39;s using Python Notebooks hosted in Google Colab. This will allow you to write simple applications and macros that interact with Onshape and/or ThingWorx using the power of Python.            Onshape API PlaygroundClick here to see the main library for using Onshape&#39;s REST API, and see the video below for a tutorial on how to get started.ThingWorx API PlaygroundClick here to see the main library for using ThingWorx&#39;s REST API."
        
      } ,
     
