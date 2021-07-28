@@ -11,7 +11,7 @@ description: A selection of guides to help students understand how to mix PTC so
         <div>
         <table style="border-style:none">
             <tr>
-                <td>The PTC Education Advanced Technologies team collects and produces guides and exercises to help students understand how to mix PTC solutions together and with other I4.0 and Smart Manufacturing technologies. A selection of guides that introduce these solutions are included below. More videos of integrations can be found in the <a href="https://youtube.com/playlist?list=PLWwoHnBNZRNBpyKmN9_GW4GSJNAR-4mHs" target="_blank">DX in Education YouTube channel</a>.</td>
+                <td>PTC Education collects and produces guides and exercises to help students understand how to mix PTC solutions together and with other I4.0 and Smart Manufacturing technologies. A selection of guides that introduce these solutions are included below. More videos of integrations can be found in the <a href="https://youtube.com/playlist?list=PLWwoHnBNZRNBpyKmN9_GW4GSJNAR-4mHs" target="_blank">DX in Education YouTube channel</a>.</td>
             </tr>
         </table>
         </div>
