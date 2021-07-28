@@ -30,7 +30,7 @@ description: Webinars that feature thought leaders from around the world who are
                         </td>
                     </tr>
                     <tr>
-                        <td><a href="/docs/thought-leadership/webinars/resources/IoT-Course-Layout/Course-Layout.pdf">Layout for First Year IoT Course</a>, includes weekly overview of the semester for first year engineering students learning the Internet of Things.</td>
+                        <td><a href="/docs/thought-leadership/webinars/resources/IoT-Course-Layout.md">Layout for First Year IoT Course</a>, includes weekly overview of the semester for first year engineering students learning the Internet of Things.</td>
                     </tr>
                 </tbody>
             </table>
