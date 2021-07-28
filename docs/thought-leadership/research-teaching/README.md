@@ -2,6 +2,7 @@
 layout: doc
 title: DX Research
 permalink: /docs/thought-leadership/research-teaching
+description: PTC Education aims to encourage thought leadership through strong collaborations with University and STEM instrucdtors who are doing cutting edge Digital Transformation and Industry 4.0 research and teaching. Some outcomes from some of those collaborations are highlighted here.s
 ---
 
 <section class="section">

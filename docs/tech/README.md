@@ -2,6 +2,7 @@
 layout: doc
 title: Technologies
 permalink: /docs/tech
+description: A collection of resources about getting started with PTC Digital Transformation technologies in an educational setting.
 ---
 
 <section class="section">

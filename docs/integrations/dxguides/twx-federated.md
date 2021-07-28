@@ -2,6 +2,7 @@
 layout: doc
 title: Federated ThingWorx Instances
 permalink: /docs/integrations/dxguides/twx-federated
+description: How to federate (connect) a local, on-prem ThingWorx instance with a Cloud Instance
 ---
 
 ## Federated ThingWorx Instances

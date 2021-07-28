@@ -2,6 +2,7 @@
 layout: doc
 title: DX Research Publications
 permalink: /docs/thought-leadership/publications
+description: Articles published by PTC and others related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.
 ---
 
 <section class="section">

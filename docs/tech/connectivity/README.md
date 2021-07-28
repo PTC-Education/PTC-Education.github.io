@@ -2,6 +2,7 @@
 layout: doc
 title: Connectivity Technologies
 permalink: /docs/tech/connectivity
+description: Links to general PTC resources for learning how to use PTC DX and I4.0 technologies.
 ---
 
 <section class="section">

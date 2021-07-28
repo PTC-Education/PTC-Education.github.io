@@ -2,6 +2,7 @@
 layout: doc
 title: Technology Integrations
 permalink: /docs/integrations
+description: Resources about PTC and parter technologies and insights that focus on the integration of DX technologies
 ---
 
 <section class="section">

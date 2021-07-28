@@ -2,6 +2,7 @@
 layout: doc
 title: Digital Thread Teachnologies
 permalink: /docs/tech/thread
+description: A high level overview of PTC Education Digital Thread Resources.
 ---
 
 <section class="section">

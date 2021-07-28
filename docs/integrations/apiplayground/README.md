@@ -1,7 +1,8 @@
 ---
 layout: doc
-title: API Playground
+title: PTC API Playground
 permalink: /docs/integrations/apiplayground
+description: The PTC API Playground is made to help you get started with using Onshape and ThingWorx REST API's using Python Notebooks hosted in Google Colab. This will allow you to write simple applications and macros that interact with Onshape and/or ThingWorx using the power of Python.
 ---
 
 <div class="container"><h2>PTC API Playground</h2>

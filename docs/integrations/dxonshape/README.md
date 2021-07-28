@@ -2,10 +2,11 @@
 layout: doc
 title: DX Onshape
 permalink: /docs/integrations/dxonshape
+description: This page shares ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the Onshape API Snippets Library in Google Colab or Jupyter Notebooks.
 ---
 
 <div class="container"><h2>DX Onshape</h2>
-This page is meant to share ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the <a href="https://colab.research.google.com/github/PTC-Education/PTC-API-Playground/blob/main/Onshape_API_Snippets.ipynb">Onshape API Snippets Library</a> in Google Colab or Jupyter Notebooks.
+This page shares ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the <a href="https://colab.research.google.com/github/PTC-Education/PTC-API-Playground/blob/main/Onshape_API_Snippets.ipynb">Onshape API Snippets Library</a> in Google Colab or Jupyter Notebooks.
 </div>
 <div class="container">
             <p style="text-align:center"><img src="/docs/integrations/dxonshape/dxOnshapeMap.jpg" width="100%" alt="DX Onshape Technology Map" margin="300px 0px 100px 0px"/></p>

@@ -2,6 +2,7 @@
 layout: doc
 title: Design Technologies
 permalink: /docs/tech/design
+description: Links to resources for learning how to use various design technologies for DX and I4.0 applications.
 ---
 
 <section class="section">

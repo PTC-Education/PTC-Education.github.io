@@ -10,19 +10,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>DX in Education | Digital Transformation in Education</title>
+<title>Search Results | Digital Transformation in Education</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="DX in Education" />
+<meta property="og:title" content="Search Results" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world." />
 <meta property="og:description" content="Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world." />
-<link rel="canonical" href="http://localhost:4000/docs/thought-leadership/education" />
-<meta property="og:url" content="http://localhost:4000/docs/thought-leadership/education" />
+<link rel="canonical" href="http://localhost:4000/search" />
+<meta property="og:url" content="http://localhost:4000/search" />
 <meta property="og:site_name" content="Digital Transformation in Education" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="DX in Education" />
+<meta property="twitter:title" content="Search Results" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/docs/thought-leadership/education","headline":"DX in Education","description":"Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/search","headline":"Search Results","description":"Digital Transformation is a strategy being used by industry to solve problems with smart, connected technologies. PTC Education works to bring these industry ready technologies to researchers and teachers around the world.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <meta property="og:image" content="https://ptc-education.github.io/resources/Adv-Tech-Map.jpg">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
@@ -200,8 +200,18 @@
             
             
               
-                <a class="navbar-item " href="mailto:edutech@ptc.com">
+                <a class="navbar-item " href="http://localhost:4000mailto:edutech@ptc.com">
                   Contact Us
+                </a>
+              
+            
+          
+            
+            
+            
+              
+                <a class="navbar-item active" href="/search">
+                  Search
                 </a>
               
             
@@ -295,7 +305,7 @@
           
           
           
-            <li class="dropdown active">
+            <li class="dropdown ">
               <a href="http://localhost:4000/docs/thought-leadership" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Thought Leadership <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 
@@ -343,12 +353,21 @@
             </li>
           
         
+          
+          
+          
+            <li class="active">
+              <a href="http://localhost:4000/search">Search</a>
+            </li>
+          
+        
       </ul>
 -->
     </nav>
   </div>
   <script src="/assets/bulma-dropdown.js"></script>
 </header>
+
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="columns">
@@ -356,14 +375,44 @@
     <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
       <div class="post-content e-content" itemprop="articleBody">
         <section class="section">
-    <div class="container">
-        <h2>DX in Education</h2>
+    <div id="search-input-container">
+      Search DX in Education: <input type="search" id="search-input" placeholder="" />
+      <br /><br />
+    </div>
+    <div id="search-results-container">
+      <ul id="results-container"></ul>
     </div>
 </section>
+<script src="/js/simple-jekyll-search.min.js"></script>
+
+<script>
+function GetQueryString(name)
+{
+     var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)");
+     var r = window.location.search.substr(1).match(reg);
+     if(r!=null)return  unescape(r[2]); return null;
+}
+var mykeyword = GetQueryString("keyword");
+var sbox = document.getElementById('search-input');
+var status = false;
+if(mykeyword !=null && mykeyword.toString().length>1){
+     sbox.value = mykeyword;
+}
+var sjs = SimpleJekyllSearch({
+     searchInput: sbox,
+     resultsContainer: document.getElementById('results-container'),
+     json: '/search.json',
+     searchResultTemplate: '<li><br /><a href="http://localhost:4000{url}">{title}</a><br />{description}<br /><br /></li>',
+});
+$(window).bind("load", function () {
+     sjs.search(mykeyword);
+})
+</script>
+
 
       </div>
 
-      <a class="u-url" href="/docs/thought-leadership/education" hidden></a>
+      <a class="u-url" href="/search" hidden></a>
     </article>
   </div>
   <div class="column is-narrow"><aside class="menu">
@@ -549,7 +598,7 @@
     
   
 </aside>
-</div>
+<section id="search-results" style="display: none;"> </section></div>
 </div>
 
       </div>

@@ -2,6 +2,7 @@
 layout: doc
 title: Spatial Toolbox and Kepware
 permalink: /docs/integrations/dxguides/spatialtoolboxkepware
+description:  How to connect Allen-Bradley PLCs to Vuforia Spatial Toolbox with Kepware
 ---
 
 ## Connect Allen-Bradley PLCs to Vuforia Spatial Toolbox with Kepware

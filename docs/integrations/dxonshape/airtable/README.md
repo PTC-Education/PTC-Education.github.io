@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: DX Onshape
+title: # leave title blank to exclude from search results
 permalink: /docs/integrations/dxonshape/airtable
 ---
 

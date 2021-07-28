@@ -2,6 +2,7 @@
 layout: doc
 title: PTC EDU Tech Webinar Archive
 permalink: /docs/thought-leadership/webinars
+description: Webinars that feature thought leaders from around the world who are pushing the boundaries of what is possible with digital transformation and Industry 4.0 in research and teaching.
 ---
 
 <section class="section">

@@ -2,6 +2,7 @@
 layout: doc
 title: DX Guides
 permalink: /docs/integrations/dxguides
+description: A selection of guides to help students understand how to mix PTC solutions together and with other I4.0 and Smart Manufacturing technologies.
 ---
 
 <section class="section">

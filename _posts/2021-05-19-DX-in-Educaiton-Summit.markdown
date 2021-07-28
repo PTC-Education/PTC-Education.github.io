@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "DX in Education Summit"
-date:   2021-05-19 16:02:48 -0400
+date:   2021-05-19
 categories: Events
+description: Details from the PTC Education hosted the Digital Transformation in Education Summit on May 19th, 2021.
 ---
 
 <div class="container">

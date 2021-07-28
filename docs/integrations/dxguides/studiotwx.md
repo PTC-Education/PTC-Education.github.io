@@ -2,6 +2,7 @@
 layout: doc
 title: Vuforia Studio and ThingWorx
 permalink: /docs/integrations/dxguides/studiotwx
+description:  How to Integrate Vuforia Studio and ThingWorx
 ---
 
 ## Integrating Vuforia Studio and ThingWorx

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "PTC API Playground"
-date:   2021-06-17 12:02:48 -0400
+title:  # leaving blank to not include in results since updated page exists
+date:   2021-06-17
 categories: Highlight
+description: The PTC API Playground can help you get started with using Onshape and ThingWorx REST API's using Python Notebooks hosted in Google Colab.
 ---
 
 <div class="container">
