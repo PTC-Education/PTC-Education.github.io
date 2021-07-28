@@ -36,6 +36,22 @@
     
      {
        
+          "title"    : "IoT Course Layout",
+          "category" : "",
+          "tags"     : "",
+          "url"      : "/docs/thought-leadership/webinars/resources",
+          "date"     : "",
+          "description"     : "Dr. Chris Rogers or Tufts University, First Year IoT Course, includes weekly overview of the semester for first year engineering students learning the Internet of Things.",
+          "content": "Dr. Chris Rogers or Tufts University, First Year IoT CourseIncludes weekly overview of the semester for first year engineering students learning the Internet of Things.            This browser does not support PDFs. Please download the PDF to view it: Download PDF.    &amp;lt;/embed&amp;gt;"
+       
+     } ,
+    
+     {
+       
+     } ,
+    
+     {
+       
           "title"    : "DX Onshape",
           "category" : "",
           "tags"     : "",
@@ -43,10 +59,6 @@
           "date"     : "",
           "description"     : "This page shares ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the Onshape API Snippets Library in Google Colab or Jupyter Notebooks.",
           "content": "DX OnshapeThis page shares ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the Onshape API Snippets Library in Google Colab or Jupyter Notebooks.            Local SetupIn order to communicate with edge devices through python notebooks, you will need to run the notebook on a local runtime. This means you can either run the notebook direclty in Jupyter Notebooks, or you can follow these instructions to run the notebook through Colab on your local runtime.Serial ConnectionsBelow are examples using serial connections to edge devices plugged into your computer.Microbit Onshape Digital TwinAL5D PLTW Robot Arm Onshape Digital Twin"
-       
-     } ,
-    
-     {
        
      } ,
     
