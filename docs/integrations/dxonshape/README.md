@@ -11,6 +11,9 @@ This page shares ways that Onshape can be used for more than traditional mechani
 <div class="container">
             <p style="text-align:center"><img src="/docs/integrations/dxonshape/dxOnshapeMap.jpg" width="100%" alt="DX Onshape Technology Map" margin="300px 0px 100px 0px"/></p>
 </div>
+<br>
+<h3>Onshape API Setup</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJ-vz1op80M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="container"><h3>Local Setup</h3>
 In order to communicate with edge devices through python notebooks, you will need to run the notebook on a local runtime. This means you can either run the notebook direclty in <a href="https://jupyter.org/install">Jupyter Notebooks</a>, or you can <a href="https://research.google.com/colaboratory/local-runtimes.html">follow these instructions</a> to run the notebook through Colab on your local runtime.
 </div>
