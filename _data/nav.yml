@@ -13,17 +13,19 @@
       url: /docs/tech/connectivity
     - title: Digital Thread
       url: /docs/tech/thread
-- title: Integrations
-  url: /docs/integrations
+- title: Solutions
+  url: /docs/solutions
   sublinks:
     - title: Introduction
-      url: /docs/integrations
-    - title: DX Guides
-      url: /docs/integrations/dxguides
-    - title: API Playground
-      url: /docs/integrations/apiplayground
-    - title: DX Onshape
-      url: /docs/integrations/dxonshape
+      url: /docs/solutions
+    - title: Digital Twins
+      url: /docs/solutions/onshapedx
+    - title: Robotics & Mechatronics
+      url: /docs/solutions/robotics
+    - title: Manufacturing
+      url: /docs/solutions/manufacturing
+    - title: IoT & AR
+      url: /docs/solutions/iot
 - title: Thought Leadership
   url: /docs/thought-leadership
   sublinks: 
