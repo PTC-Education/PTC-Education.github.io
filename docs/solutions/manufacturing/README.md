@@ -39,7 +39,7 @@ This page is for sharing example lab excersizes and lesson plans for teaching st
             </div>
             <div class="column is-one-half is-vcentered is-centered">
                 <a href="/docs/solutions/dxguides/spatialtoolboxkepware"><p style="text-align:center">
-                <iframe width="80%" src="https://www.youtube.com/embed/LP-xyEFem7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                <iframe width="80%" height="220" src="https://www.youtube.com/embed/LP-xyEFem7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
                 <div class="subtitle" style="text-align:center">Spatial Toolbox and Kepware to Allen-Bradley PLC</div>
                 </a>
             </div>
