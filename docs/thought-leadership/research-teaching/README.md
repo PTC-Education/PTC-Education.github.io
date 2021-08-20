@@ -22,6 +22,10 @@ description: PTC Education aims to encourage thought leadership through strong c
             </thead>
             <tbody>
                 <tr>
+                    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/bc6da2IiNFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+                    <td>Researchers at the University of Massachusetts have been exploring how augmented reality can assist in their design processes. <a href="https://www.youtube.com/channel/UCpZj50_zHCJNU7qRuM3TwFQ">Click here</a> to check out their youtube chanel with demo videos using Vuforia Studio.</td>
+                </tr>
+                <tr>
                     <td><a href="https://apps.ptc.com/schools/OwenGervaisNewletterHighlight.pdf"><img src="/docs/thought-leadership/research-teaching/OwenGervaisNewletterHighlight.jpg" width="100%" alt=""/></a></td>
                     <td>A student researcher at Tufts University used the Onshape to Robot exporter service to create a digital twin of a LEGO Robot created in Onshape. He was able to develop and tune a control system with Gazebo's physics engine, then apply the controller to the physical robot. <a href="https://apps.ptc.com/schools/OwenGervaisNewletterHighlight.pdf">Click here to learn more about the project.</a></td>
                 </tr>
