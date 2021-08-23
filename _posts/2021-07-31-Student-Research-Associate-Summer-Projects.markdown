@@ -27,15 +27,15 @@ The University Research Team at PTC Education had the pleasure of hosting a numb
         </tr>
         <tr>
             <td>This activity guides students through a full process of collecting data to train a machine learning model, then deploying the model for an automated sorting task using a Universal Robotics colaborative robot arm. <a href="https://github.com/PTC-Education/UR3-Analytics">Click here to learn more.</a></td>
-            <td style="text-align:center"><img src="/docs/solutions/UR3-Analytics-flow.png" width="50%" alt=""/></td>
+            <td style="text-align:center"><a href="https://github.com/PTC-Education/UR3-Analytics"><img src="/docs/solutions/UR3-Analytics-flow.png" width="50%" alt=""/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/PTC-Education/Gaze-Tracking-Demos">Click here</a> to see a library of examples on how to use the gaze vector in Vuforia Studio.</td>
-            <td style="text-align:center"><p class="is-centered"><img src="/docs/solutions/PutThatThere.gif" width="70%" alt=""/></p></td>
+            <td style="text-align:center"><p class="is-centered"><a href="https://github.com/PTC-Education/Gaze-Tracking-Demos"><img src="/docs/solutions/PutThatThere.gif" width="70%" alt=""/></a></p></td>
         </tr>
         <tr>
             <td><a href="https://github.com/PTC-Education/VuforiaStudioTemplates">Click here</a> to see Vuforia Studio templates for creating AR work instructions and computer vision applications.</td>
-            <td style="text-align:center"><p style="text-align:center"><img src="/docs/solutions/VuforiaStudioTemplate.png" width="40%" alt=""/></p></td>
+            <td style="text-align:center"><p style="text-align:center"><a href="https://github.com/PTC-Education/VuforiaStudioTemplates"><img src="/docs/solutions/VuforiaStudioTemplate.png" width="40%" alt=""/></a></p></td>
         </tr>
     </tbody>
 </table>
