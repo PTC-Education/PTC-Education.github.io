@@ -16,4 +16,4 @@ The <a href="https://github.com/PTC-Education/PTC-API-Playground">PTC API Playgr
 </div>
 <br>
 
-<h4>Check out the latest instructions for <a href="https://ptc-education.github.io/docs/integrations/apiplayground">getting started with the API Playground at this page</a></h4>
+<h4>Check out the latest instructions for <a href="https://ptc-education.github.io/docs/solutions/apiplayground">getting started with the API Playground at this page</a></h4>
