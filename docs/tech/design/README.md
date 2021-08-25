@@ -26,7 +26,7 @@ description: Links to resources for learning how to use various design technolog
                     </tr>
                     <tr>
                         <td><a href="https://learn.onshape.com">Onshape Learning Center</a></td>
-                        <td>Start with the Learning Pathways in the Self-Paced Courses section for lots of great learning content. For specific searches, see the [Onshape Help Center](https://cad.onshape.com/help) or, for even more specific questions, search the [Onshape Forum](https://forum.onshape.com).</td>
+                        <td>Start with the Learning Pathways in the Self-Paced Courses section for lots of great learning content. For specific searches, see the <a href="https://cad.onshape.com/help">Onshape Help Center</a> or, for even more specific questions, search the <a href="https://forum.onshape.com">Onshape Forum.</a></td>
                     </tr>
                     <tr>
                         <td><a href="https://sites.google.com/view/onshape-challenges/home">Onshape Challenges</a></td>
