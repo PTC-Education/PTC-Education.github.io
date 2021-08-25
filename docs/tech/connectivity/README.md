@@ -38,7 +38,7 @@ description: Links to general PTC resources for learning how to use PTC DX and I
                     </tr>
                     <tr>
                         <td><a href="https://www.youtube.com/playlist?list=PLX-3o2YhV9V6ANhjYTAuaUXQLADH5qZpL">ThingWorx YouTube Channel Dev Portal Videos</a></td>
-                        <td>Helpful video guides for ThingWorx from the Developer Portal and other sources can be found on the <a href-="https://www.youtube.com/c/ThingWorx/playlists">ThingWorx YouTube Channel</a></td>
+                        <td>Helpful video guides for ThingWorx from the Developer Portal and other sources can be found on the <a href="https://www.youtube.com/c/ThingWorx/playlists">ThingWorx YouTube Channel</a></td>
                     </tr>
                     <tr>
                         <td><a href="http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FExtensibility%2FTwilio.html%23%26_ga%3D2.70454672.1483803700.1580137650-2099000272.1553708236">How to send alerts over text with Twilio</a></td>
