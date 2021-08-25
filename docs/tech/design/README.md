@@ -49,7 +49,7 @@ description: Links to resources for learning how to use various design technolog
                 <tbody>
                     <tr>
                         <td><a href="https://www.ptc.com/en/support/help/Creo">Creo Help Centers</a></td>
-                        <td>Help resources for all Creo products and versions, includes <a href="https://support.ptc.com/help/creo/creo_pma/r7.0/usascii/#page/tutorials_pma%2Fonline_help%2Faux_files%2Fpma_tutorials.html%23">Tutorials</a> for the latest versions.</td>
+                        <td>Help resources for all Creo products and versions, includes <a href="https://support.ptc.com/help/creo/creo_pma/r7.0/usascii/#page/tutorials_pma%2Fonline_help%2Faux_files%2Fpma_tutorials.html%23">Tutorials</a> for the latest versions. For example, there is a section that cover an introduction and overview of <a href="https://support.ptc.com/help/creo/creo_pma/r7.0/usascii/#page/generative_design/online_help/aux_files/generative_design.html#">Generative Design</a>.</td>
                     </tr>
                     <tr>
                         <td><a href="https://apps.ptc.com/schools/curriculum/DX/MathCAD-Creo-DX.pdf">PTC MathCAD & Creo Parametric Integration Guide</a></td>

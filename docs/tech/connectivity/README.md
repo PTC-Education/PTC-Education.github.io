@@ -34,7 +34,11 @@ description: Links to general PTC resources for learning how to use PTC DX and I
                     </tr>
                     <tr>
                         <td><a href="https://support.ptc.com/help/thingworx/platform/r9/en/index.html#page/ThingWorx%2FHelp%2FComposer%2FSecurity%2FUsers%2FUsers.html%23">ThingWorx help on PTC Support</a></td>
-                        <td>The ThingWorx Platform 9 Help Center contains the latest information about the ThingWorx Platform. You will find detailed information about modeling, server-side scripting, and a variety of other topics. Whether you are a developer or system administrator, this Help Center contains topics pertinent to your ThingWorx journey.</td>
+                        <td>The ThingWorx Platform 9 Help Center contains the latest information about the ThingWorx Platform. You will find detailed information about modeling, server-side scripting, and a variety of other topics. Whether you are a developer or system administrator, this Help Center contains topics pertinent to your ThingWorx journey. </td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.youtube.com/playlist?list=PLX-3o2YhV9V6ANhjYTAuaUXQLADH5qZpL">ThingWorx YouTube Channel Dev Portal Videos</a></td>
+                        <td>Helpful video guides for ThingWorx from the Developer Portal and other sources can be found on the <a href-="https://www.youtube.com/c/ThingWorx/playlists">ThingWorx YouTube Channel</a></td>
                     </tr>
                     <tr>
                         <td><a href="http://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/#page/ThingWorx%2FHelp%2FExtensibility%2FTwilio.html%23%26_ga%3D2.70454672.1483803700.1580137650-2099000272.1553708236">How to send alerts over text with Twilio</a></td>
