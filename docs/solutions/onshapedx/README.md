@@ -6,8 +6,8 @@ description: This page shares ways that Onshape can be used for more than tradit
 ---
 
 <div class="container"><h2>Digital Twins</h2>
-PTC defines a <b>digital twin</b> as any digital representation of a physical thing -- this can be a ThingWorx dashboard, or an immersive Augmented Reality eperience that reflects the state of a physical artifact or process. <br /><br />  
-This page shares ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the <a href="https://colab.research.google.com/github/PTC-Education/PTC-API-Playground/blob/main/Onshape_API_Snippets.ipynb">Onshape API Snippets Library</a> in Google Colab or Jupyter Notebooks.
+PTC defines a <b>Digital Twin</b> as any digital representation of a physical thing -- this can be a ThingWorx dashboard, or an immersive Augmented Reality eperience that reflects the state of a physical artifact or process. <br /><br />  
+This page shares ways that Onshape can be used for more than traditional mechanical design -- as a Digital Twin platform. Most of this work uses the <a href="https://colab.research.google.com/github/PTC-Education/PTC-API-Playground/blob/main/Onshape_API_Snippets.ipynb">Onshape API Snippets Library</a> in Google Colab or Jupyter Notebooks.
 </div>
 <div class="container">
             <p style="text-align:center"><img src="/docs/solutions/onshapedx/dxOnshapeMap.jpg" width="100%" alt="DX Onshape Technology Map" margin="300px 0px 100px 0px"/></p>
