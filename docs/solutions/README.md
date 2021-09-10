@@ -43,7 +43,7 @@ description: Resources about PTC and parter technologies and insights that focus
         <div>The real power of digital transformation comes when the various pieces of the product development process are connected to each other. Below you can learn more about how PTC leverages various technologies to create real-world examples of Digital Transformation.
         </div>
         <div class="container">
-            <p style="text-align:center"><img src="resources/Adv-Tech-Map-basic.jpg" width="100%" alt="DX Technologies Map" margin="300px 0px 100px 0px"/></p>
+            <p style="text-align:center"><img src="../resources/Adv-Tech-Map-basic.jpg" width="100%" alt="DX Technologies Map" margin="300px 0px 100px 0px"/></p>
         </div>
     </div>
 </section>
