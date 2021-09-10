@@ -1,12 +1,12 @@
 ---
 layout: doc
-title: Technology Integrations
+title: Digital Transformation Curriculum Framework
 permalink: /docs/solutions
 description: Resources about PTC and parter technologies and insights that focus on the integration of DX technologies
 ---
 <div class="container">
     <h2>Digital Transformation Curriculum Framework</h2>
-    <h5><div>We have organized a set of exersizes and sample lesson plans created by PTC Education and our collaborating partners into the following categories and subject areas. Click on one topics below to learn more.
+    <h5><div>We have organized a set of exercizes and sample lesson plans created by PTC Education and our collaborating partners into the following categories and subject areas. Click on one topics below to learn more.
     </div></h5>
     <div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
