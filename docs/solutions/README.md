@@ -1,11 +1,11 @@
 ---
 layout: doc
-title: Digital Transformation Solution Framework
+title: Digital Transformation Solutions
 permalink: /docs/solutions
 description: Resources about PTC and parter technologies and insights that focus on the integration of DX technologies
 ---
 <div class="container">
-    <h2>Digital Transformation Solution Framework</h2>
+    <h2>Digital Transformation Solutions</h2>
     <h5><div>We have organized a set of exercizes and sample lesson plans created by PTC Education and our collaborating partners into the following categories and subject areas. Click on one topics below to learn more.
     </div></h5>
     <div class="container">
