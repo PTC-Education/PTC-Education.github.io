@@ -40,7 +40,7 @@ description: Resources about PTC and parter technologies and insights that focus
 <section class="section">
     <div class="container">
         <h2>Industrial Solutions - Integrating Process Technologies</h2>
-        <div>The real power of digital transformation comes when the various pieces of the product development process are connected to each other. Below you can find resources about PTC and parter technologies and insights that focus on the integration of DX technologies, and you can <a href="/docs/integrations/dxguides">click here to see DX guides</a> developed by PTC Education on low barrier ways to build connected solutions.
+        <div>The real power of digital transformation comes when the various pieces of the product development process are connected to each other. Below you can learn more about how PTC leverages various technologies to create real-world examples of Digital Transformation.
         </div>
     </div>
 </section>
