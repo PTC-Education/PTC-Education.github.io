@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Robotics
+title: Robotics &amp; Mechatronics
 permalink: /docs/solutions/robotics
 description: This page shares ways that Onshape can be used for more than traditional mechanical design. Most of this work uses the Onshape API Snippets Library in Google Colab or Jupyter Notebooks.
 ---
@@ -129,7 +129,7 @@ This page documents how PTC technologies can be used to teach robotics to studen
         </thead>
         <tbody>
             <tr>
-                <td><a href="https://github.com/PTC-Education/UR3-Analytics">UR3 Analytics</a></td>
+                <td><a href="https://github.com/PTC-Education/UR3-Analytics">UR3 Analytics</a><br />This example demonstrates the usage of Thingworx Analytics to determine the weight of an object that a UR3 robot is holding.</td>
                 <td style="text-align:center"><img src="UR3-Analytics-flow.png" width="100%" alt=""/></td>
             </tr>
         </tbody>
