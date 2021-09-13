@@ -21,6 +21,10 @@ description: Articles published by PTC and others related to the topics of Digit
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034621001622">Exploring augmented reality for worker assistance versus training</a></td>
+                        <td>This paper aims at advancing the fundamental understanding of the affordances of Augmented Reality (AR) as a workplace-based learning and training technology in supporting manual or semi-automated manufacturing tasks that involve both complex manipulation and reasoning.</td>
+                    </tr>
+                    <tr>
                         <td><a href="https://peer.asee.org/scaling-hands-on-learning-principles-in-manufacturing-through-augmented-reality-disassembly-and-inspection-of-a-consumer-product">Scaling Hands-On Learning Principles in Manufacturing through Augmented Reality Disassembly and Inspection of a Consumer Product</a></td>
                         <td>This paper details the development of an application with Vuforia Engine that guides students through a process of disassembling a manufactured device in Augmented Reality to give them a hands-on experience in exploring how a tablet device was manufactured.</td>
                     </tr>
