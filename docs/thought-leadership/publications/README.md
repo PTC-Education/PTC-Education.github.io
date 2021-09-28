@@ -68,6 +68,10 @@ description: Articles published by PTC and others related to the topics of Digit
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="https://www.researchgate.net/publication/349959284_Case_Study_for_an_Operation-based_Topology_Optimization_Using_the_Digital_Twin_Approach">Case Study for an Operation-based Topology Optimization Using the Digital Twin Approach</a></td>
+                        <td>Fahmi Bellalouna from Karlsruhe University of Applied Sciences developed a digital twin in Creo for optimizing the topology of an arbor press using FEA analyses along with realtime data from sensors on the physical device connected through IoT to the Creo model.</td>
+                    </tr>
+                    <tr>
                         <td><a href="https://github.com/PTC-Education/DX-Resources/blob/master/Curriculum_Resources/Smart%20Manufacturing%20Supporting%20Documents/Connectivity/Hirotec-Launches-Iot-Initiative-With-Kepware.pdf">Automotive Parts Supplier Launches IoT Initiative in Scalable Sprints Powered by PTC IoT Manufacturing Solutions</a></td>
                         <td>HIROTEC Group Companies is a $1.6 billion corporation with over 60 years of mass production experience and engineering discipline. With 26 facilities in eight countries around the world, HIROTEC is globally recognized as a premier automation manufacturing equipment and parts supplier.</td>
                     </tr>

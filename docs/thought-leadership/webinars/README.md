@@ -103,6 +103,10 @@ description: Webinars that feature thought leaders from around the world who are
                         <td>Horst Orsolits, UAS Technikum Wien</td>
                         <td><iframe width="560" height="315" src="https://players.brightcove.net/1532789042001/default_default/index.html?videoId=6142604345001" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />Horst Orsolits discusses strategies for integrating IoT and AR in research and teaching.</td>
                     </tr>
+                    <tr>
+                        <td>Matt Mueller & Peter Zink, PTC Education</td>
+                        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/8lkTnEMVCPI" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe> <br />The team from PTC Education shows some ways that Onshape can be used to do more than just computer aided design.</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
