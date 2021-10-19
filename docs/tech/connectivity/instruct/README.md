@@ -7,6 +7,9 @@ description: Instructions on getting started with Vuforai Instruct and Expert Ca
 
 <div class="container"><h2>Vuforia Instruct and Expert Capture</h2>
 <a href="https://www.ptc.com/en/products/vuforia/vuforia-instruct">Vuforia Instruct</a> is a product that allows you to very easily create CAD based work instructions. It works well with Vuforia Expert Capture, as you can guide workers around a 3D model target and deliver first-hand perspective of a procedure in the place around the model where it was carried out.
+<br>
+<br>
+<h4><a href="https://support.ptc.com/help/vuforia/editor/en/#page/vuforia_editor%2Fwelcome.html">Click here</a> to see the Vuforia Instruct and Vuforia Expert Capture Help Center</h4>
 </div>
 
 <div class="container"><h3>Getting Started</h3>
