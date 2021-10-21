@@ -15,7 +15,7 @@ description: Instructions on getting started with Vuforia Instruct and Expert Ca
 <div class="container"><h3>Getting Started</h3>
 <ol>
     <li><h4>Logging In</h4>
-    Start by going to <a href="https://go.studio.vuforia.com/portal/" target="_blank">the Vuforia portal</a>. You should see links to a number of different resources related to authoring, using, and analyzing augmented reality experiences. To start creating an experience, click "sign in" next to Vuforia Editor, which should take you to <a href="https://go.studio.vuforia.com/editor" target="_blank">the Vuforia Editor Login Page</a>. If you have been added to an instance of Vuforia Instruct, you should be able to sign in with that email and password.<br />
+    Start by going to <a href="https://go.studio.vuforia.com/portal/" target="_blank">the Vuforia portal</a>. You should see links to a number of different resources related to authoring, using, and analyzing augmented reality experiences. To start creating an experience, click "sign in" next to Vuforia Editor, which should take you to <a href="https://go.studio.vuforia.com/editor" target="_blank">the Vuforia Editor Login Page</a>. If you have been added to an instance of Vuforia Instruct, you should be able to sign in with that email and password.<br /><br />
     </li>
     <li><h4>Creating a First Experience</h4>
     <img src="/docs/tech/connectivity/instruct/instruct create new procedure.png" width="300"><br />
