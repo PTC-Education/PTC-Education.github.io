@@ -18,16 +18,16 @@ description: Instructions on getting started with Vuforia Instruct and Expert Ca
     Start by going to <a href="https://go.studio.vuforia.com/portal/" target="_blank">the Vuforia portal</a>. You should see links to a number of different resources related to authoring, using, and analyzing augmented reality experiences. To start creating an experience, click "sign in" next to Vuforia Editor, which should take you to <a href="https://go.studio.vuforia.com/editor" target="_blank">the Vuforia Editor Login Page</a>. If you have been added to an instance of Vuforia Instruct, you should be able to sign in with that email and password.<br />
     </li>
     <li><h4>Creating a First Experience</h4>
-    <img src="/docs/tech/connectivity/instruct/instruct create new procedure.png" width="300"><br>
-    From the top left you can click "Create" and "New Procedure". Give the procedure a name and click "Create" (don't worry about uploading a capture yet).<br /> 
+    <img src="/docs/tech/connectivity/instruct/instruct create new procedure.png" width="300"><br />
+    From the top left you can click "Create" and "New Procedure". Give the procedure a name and click "Create" (don't worry about uploading a capture yet).<br /><br />
     </li>
     <li><h4>Uploading a CAD Model</h4>
     <img src="/docs/tech/connectivity/instruct/upload cad model.png" width="300"><br /><br />
-    Upload a CAD model by clicking the plus in the top left, select import assets, and 3D. This link contains a list of <a href="https://support.ptc.com/help/vuforia/editor/en/#page/vuforia_editor%2Fassets_models.html">supported file formats.</a><br />
+    Upload a CAD model by clicking the plus in the top left, select import assets, and 3D. This link contains a list of <a href="https://support.ptc.com/help/vuforia/editor/en/#page/vuforia_editor%2Fassets_models.html">supported file formats.</a><br /><br />
     </li>
     <li><h4>Adding CAD to Procedure</h4>
     <img src="/docs/tech/connectivity/instruct/add 3d to procedure.png" width="300"><br /><br />
-    To create CAD-based work instructions, you can click "Add 3D to Procedure" at the top and add the CAD model that you've just uploaded. Once you import the model, you should see the 3D editor in the middle with the procedure steps on the right.<br />
+    To create CAD-based work instructions, you can click "Add 3D to Procedure" at the top and add the CAD model that you've just uploaded. Once you import the model, you should see the 3D editor in the middle with the procedure steps on the right.<br /><br />
     </li>
     <li><h4>Add Steps to Procedure</h4>
     <img src="/docs/tech/connectivity/instruct/adding steps.gif" width="300"><br />
