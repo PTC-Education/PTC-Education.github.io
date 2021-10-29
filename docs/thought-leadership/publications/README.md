@@ -21,11 +21,11 @@ description: Articles published by PTC and others related to the topics of Digit
                 </thead>
                 <tbody>
                     <tr>
-                        <td><a href="resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a></td>
+                        <td><a href="/resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a></td>
                         <td>A Master's Thesis from uToronto looking to better understand design behavior using the Onshape Enterprise Analytics audit trail data from a novel experiment.</td>
                     </tr>
                     <tr>
-                        <td><a href="resources/CupVerLevGreRoz-ICL21.pdf">Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</a></td>
+                        <td><a href="/resources/CupVerLevGreRoz-ICL21.pdf">Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</a></td>
                         <td>Researchers from Technion University present a novel workshop lead for a course for teachers on teaching engineering. Data from Onshape Enterprise Analytics is used to better understand how students were collaborating remotely on designs in Onshape.</td>
                     </tr>
                     <tr>
