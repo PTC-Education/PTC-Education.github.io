@@ -10,7 +10,54 @@ description: Articles published by PTC and others related to the topics of Digit
     <div>This section includes articles published by PTC and others related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.<br /><br />
     </div>
     <div class="container">
-        <h2>Augmented Reality (AR) Publications</h2>
+        <h2><a id="OnshapeResearch1">Onshape Publiations</a></h2>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th width="200">Title/Link</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a></td>
+                        <td>A Master's Thesis from uToronto looking to better understand design behavior using the Onshape Enterprise Analytics audit trail data from a novel experiment.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="resources/CupVerLevGreRoz-ICL21.pdf">Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</a></td>
+                        <td>Researchers from Technion University present a novel workshop lead for a course for teachers on teaching engineering. Data from Onshape Enterprise Analytics is used to better understand how students were collaborating remotely on designs in Onshape.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://arxiv.org/abs/2105.12238">AutoMate: A Dataset and Learning Approach for Automatic Mating of CAD Assemblies</a></td>
+                        <td><a id="OnshapeResearch2"></a>Researchers present a novel framework for automatically predicting where 3D models should be mated together using parametric boundary representation.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://arxiv.org/abs/2105.12238">AutoMate: A Dataset and Learning Approach for Automatic Mating of CAD Assemblies</a></td>
+                        <td>Researchers present a novel framework for automatically predicting where 3D models should be mated together using parametric boundary representation.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://arxiv.org/abs/2105.02769">Computer-Aided Design as Language</a></td>
+                        <td>Researchers use Onshape's REST API to analyze the features that define 3D models and develop an approach for using deep learning techniques developed for understanding natural language for understanding how designers use CAD features.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://arxiv.org/abs/2105.09492">DeepCAD: A Deep Generative Network for Computer-Aided Design Models</a></td>
+                        <td>Researchers use Onshape's REST API and FeatureScript to generate a libaray of 178,238 CAD models to be used for training a network with applications in shape autoencoding and random shape generation.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://arxiv.org/abs/2007.08506">SketchGraphs: A Large-Scale Dataset for Modeling Relational Geometry in Computer-Aided Design</a></td>
+                        <td>Researchers use sketches from Onshape to understand how entities and constraints work together to form the basis of parametric models.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://arxiv.org/abs/2007.08506">ABC: A Big CAD Model Dataset For Geometric Deep Learning</a></td>
+                        <td>Researchers release a library of 1 million 3D models from Onshape to create a dataset meant for use in geometric deep learning applications.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="container">
+        <h2><a id="AR1">Augmented Reality (AR) Publications</a></h2>
         <div>
             <table>
                 <thead>
@@ -57,7 +104,7 @@ description: Articles published by PTC and others related to the topics of Digit
         </div>
     </div>
     <div class="container">
-        <h2>Connectivity Publications</h2>
+        <h2><a id="Connectivity1">Connectivity Publications</a></h2>
         <div>
             <table>
                 <thead>
