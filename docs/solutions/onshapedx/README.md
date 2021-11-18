@@ -14,13 +14,17 @@ This page shares ways that Onshape can be used for more than traditional mechani
 </div>
 <h4>Click below to jump to a section of the framework</h4>
 <p><ol>
-<li><a href="#Connect">Connect</a></li>
+<li><a href="#Visualize">Visualize</a></li>
 <li><a href="#Analyze">Analyze</a></li>
 <li><a href="#Monitor">Monitor</a></li>
 <li><a href="#Control">Control</a></li>
-<!-- <li><a href="#Automate">Automate</a></li>
-<li><a href="#Optimize">Optimize</a></li>    -->
 </ol></p>
+
+<h3>Hello World - Onshape GIF Generator</h3>
+This activity was developed as a fun way of showing the capabilities of the Onshape REST API. You can <a href="https://colab.research.google.com/github/PTC-Education/PTC-API-Playground/blob/main/Onshape_GIF_Generator.ipynb">check out the Colab Notebook here</a> and follow along with the video below.
+<iframe width="600" height="350" src="https://www.youtube.com/embed/5QCpUdMQbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<be>
 <h3>Getting Started</h3>
 <div class="container">
         <div class="columns is-vcentered is-centered is-multiline ">
@@ -35,8 +39,8 @@ This page shares ways that Onshape can be used for more than traditional mechani
         </div>
 </div>
 <br>
-<a name="Connect"></a>
-<div class="container"><h2>Connect</h2>
+<a name="Visualize"></a>
+<div class="container"><h2>Visualize</h2>
 Once you've created app keys for Onshape and gotten started with the Python client, you can start making simple applications with pyhthon that use Onshape as a visualizer.
 <br>
 <br>

@@ -10,7 +10,7 @@ description: Articles published by PTC and others related to the topics of Digit
     <div>This section includes articles published by PTC and others related to the topics of Digital Transformation and Industry 4.0, including IIoT, AR and smart manufacturing.<br /><br />
     </div>
     <div class="container">
-        <h2><a id="OnshapeResearch1">Onshape Publiations</a></h2>
+        <h2><a id="OnshapeResearch1">Onshape Publications</a></h2>
         <div>
             <table>
                 <thead>
@@ -27,6 +27,14 @@ description: Articles published by PTC and others related to the topics of Digit
                     <tr>
                         <td><a href="/resources/CupVerLevGreRoz-ICL21.pdf">Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</a></td>
                         <td>Researchers from Technion University present a novel workshop lead for a course for teachers on teaching engineering. Data from Onshape Enterprise Analytics is used to better understand how students were collaborating remotely on designs in Onshape.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="/resources/Cheng, Olechowski - 2021 - Some (Team) Assembly Required An Analysis of Collaborative Computer-Aided Design Assembly.pdf">Some (Team) Assembly Required An Analysis of Collaborative Computer-Aided Design Assembly</a></td>
+                        <td>Researchers from the University of Toronto Ready Lab conducted a study to explore whether participants could assemble pre-modeled parts quicker in a team or as an individual. They analyzed the communication patterns, workflow, task allocation, and challenges to understand the dynamics of a synchronous multi-user CAD assembly procedure.</td>
+                    </tr>
+                    <tr>
+                        <td><a href="/resources/Leonardo, Olechowski - 2021 - Identifying Computer-Aided Design Action Types from Professional User Analytics Data.pdf">Identifying Computer-Aided Design Action Types from Professional User Analytics Data</a></td>
+                        <td>Researchers from the University of Toronto Ready Lab analyzed data from an industry parter's product development process. They looked at eight professional designers actions and grouped their actions with a heirarchical clusting methodology to better understand different user roles.</td>
                     </tr>
                     <tr>
                         <td><a href="https://arxiv.org/abs/2105.12238">AutoMate: A Dataset and Learning Approach for Automatic Mating of CAD Assemblies</a></td>
