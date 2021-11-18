@@ -21,6 +21,10 @@ description: Articles published by PTC and others related to the topics of Digit
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="/resources/Multi-User Computer Aided Design Collaborative Learning Framework.pdf">Multi-User Computer Aided Design Collaborative Learning Framework</a></td>
+                        <td>Researchers at the Ready Lab from uToronto, in collaboration with Tufts University and PTC Education, developed a framework for understanding how students work together in Onshape. They propose various classificaiton systems and validate the framework with data from a case study where students of different expertise were grouped to perform a collaborative, open-ended design challenge.</td>
+                    </tr>
+                    <tr>
                         <td><a href="/resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a></td>
                         <td>A Master's Thesis from uToronto looking to better understand design behavior using the Onshape Enterprise Analytics audit trail data from a novel experiment.</td>
                     </tr>
