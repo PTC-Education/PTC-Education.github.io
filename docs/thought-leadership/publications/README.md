@@ -21,7 +21,7 @@ description: Articles published by PTC and others related to the topics of Digit
                         https://doi.org/10.1016/j.aei.2021.101446.</li>
                     </ul>
                 </li>
-                <li style="font-size: 24px"><a href="ß/resources/CupVerLevGreRoz-ICL21.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a>
+                <li style="font-size: 24px"><a href="/resources/CupVerLevGreRoz-ICL21.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a>
                     <ul style="list-style-type:circle">
                     <li style="font-size: 14px">James Chen,<i>
                         Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</i>,
