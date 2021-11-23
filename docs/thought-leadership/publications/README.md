@@ -21,7 +21,7 @@ description: Articles published by PTC and others related to the topics of Digit
                         https://doi.org/10.1016/j.aei.2021.101446.</li>
                     </ul>
                 </li>
-                <li style="font-size: 24px"><a href="/resources/CupVerLevGreRoz-ICL21.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a>
+                <li style="font-size: 24px"><a href="/resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a>
                     <ul style="list-style-type:circle">
                     <li style="font-size: 14px">James Chen,<i>
                         Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</i>,
@@ -30,7 +30,7 @@ description: Articles published by PTC and others related to the topics of Digit
                         2021.</li>
                     </ul>
                 </li>
-                <li style="font-size: 24px"><a href="/resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</a>
+                <li style="font-size: 24px"><a href="/resources/CupVerLevGreRoz-ICL21.pdf">Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</a>
                     <ul style="list-style-type:circle">
                     <li style="font-size: 14px"><div class="csl-entry">Cuperman, D., Verner, I. M., Levin, L., Greenholts, M., &#38; Rosen, U., <i>Focusing a Technology Teacher Education Course on Collaborative Cloud-Based Design with Onshape</i>, International Conference on Interactive Collaborative Learning, 2021.</div></li>
                     </ul>
