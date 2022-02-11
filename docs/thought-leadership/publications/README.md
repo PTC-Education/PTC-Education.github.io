@@ -6,7 +6,7 @@ description: Articles published by PTC and others related to the topics of Digit
 ---
 
 <section class="section">
-        <h2><a id="OnshapeResearch1" style="color:black">Onshape Publications on User Data</a></h2>
+        <h2><a id="OnshapeResearch1" style="color:black">Design Process Research Using Onshape</a></h2>
         <div>
             <ul style="list-style-type:disc">
                 <li style="font-size: 24px"><a href="https://www.sciencedirect.com/science/article/pii/S1474034621001981?via%3Dihub">Multi-User Computer Aided Design Collaborative Learning Framework</a>
@@ -19,6 +19,16 @@ description: Articles published by PTC and others related to the topics of Digit
                         101446,
                         ISSN 1474-0346,
                         https://doi.org/10.1016/j.aei.2021.101446.</li>
+                    </ul>
+                </li>
+                <li style="font-size: 24px"><a href="http://cad-journal.net/files/vol_19/CAD_19(2)_2022_320-335.pdf">Identifying Indicators for the Use of Virtual Prototypes in Distributed Design Activities</a>
+                    <ul style="list-style-type:circle">
+                    <li style="font-size: 14px">Nikola Horvat, Niccolò Becattini, Tomislav Martinec, Stanko Škec,
+                        <i>Identifying Indicators for the Use of Virtual Prototypes in Distributed Design Activities</i>,
+                        Computer Aided Design and Applications,
+                        Volume 19, Number 2,
+                        2022,
+                        10.14733/cadaps.2022.320-335.</li>
                     </ul>
                 </li>
                 <li style="font-size: 24px"><a href="/resources/Chen_James_Y_202111_MASc_Thesis_0921.pdf">Development of a Novel Computer-Aided Design Experiment Protocol for Studying Designer Behaviours</a>
