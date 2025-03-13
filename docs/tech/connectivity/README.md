@@ -286,7 +286,7 @@ description: Links to general PTC resources for learning how to use PTC DX and I
                 <tbody>
                     <tr>
                         <td><a href="https://www.ptc.com/en/products/vuforia/vuforia-chalk">Remote Assistance Powered by Augmented Reality</a></td>
-                        <td>Learn more about Vuforiua Chalk, or reach out to PTC for a demo.</td>
+                        <td>Learn more about Vuforia Chalk, or reach out to PTC for a demo.</td>
                     </tr>
                     <tr>
                         <td><a href="https://www.youtube.com/playlist?list=PLrCBNJga3kdFt0-Ss_O_D1hlh2-Sms02S">Vuforia Chalk - Introduction Series</a></td>
