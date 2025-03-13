@@ -37,13 +37,13 @@
       url: /docs/thought-leadership/research-teaching
     - title: Publications
       url: /docs/thought-leadership/publications
-- title: Blog
-  url: /blog
-- title: Contact Us
-  url: mailto:edutech@ptc.com
-- title: Search
-  url: /search
-  absolute: true
+#- title: Blog
+#  url: /blog
+#- title: Contact Us
+#  url: mailto:edutech@ptc.com
+#- title: Search
+#  url: /search
+#  absolute: true
 # - title: Use
 #   url: /docs/use
 #   sublinks:
