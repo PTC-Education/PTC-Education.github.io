@@ -31,8 +31,8 @@
   sublinks: 
     - title: Introduction
       url: /docs/thought-leadership
-#    - title: Webinars
-#      url: /docs/thought-leadership/webinars
+    - title: Webinars
+      url: /docs/thought-leadership/webinars
     - title: DX Research and Teaching
       url: /docs/thought-leadership/research-teaching
     - title: Publications
