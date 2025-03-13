@@ -22,9 +22,9 @@
       url: /docs/solutions/robotics
     - title: Manufacturing
       url: /docs/solutions/manufacturing
-      sublinks:
-        - title: Candy Sorter
-          url: /docs/solutions/manufacturing/candysorter
+#      sublinks:
+#        - title: Candy Sorter
+#          url: /docs/solutions/manufacturing/candysorter
     - title: IoT & AR
       url: /docs/solutions/iot
 - title: Thought Leadership
