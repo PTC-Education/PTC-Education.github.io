@@ -13,9 +13,9 @@ description: Resources from thought leaders from around the world who are pushin
     </div>
     <div class="container">
         <h2><a href="https://ptc-education.github.io/docs/thought-leadership/webinars"><img src="/docs/thought-leadership/Webinars.png" width="100px" alt=""/>Webinars</a></h2>
-        <div>Each semester, we hold a PTC EDU Tech Webinar to highlight the work being done by our education collaborators. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY4ycp_AAJ4CNSGHRcMVVIT9qJ55Z5aFWB85smU-FEjOotdA/viewform">Register for the PTC EDU Tech Webinar series.</a>
-        </div>
-        <div>Visit the <a href="https://ptc-education.github.io/docs/thought-leadership/webinars">archive of Webinar Recordings</a> to watch past PTC EDU Tech Webinars.<br /><br />
+        <!--div>Each semester, we hold a PTC EDU Tech Webinar to highlight the work being done by our education collaborators. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY4ycp_AAJ4CNSGHRcMVVIT9qJ55Z5aFWB85smU-FEjOotdA/viewform">Register for the PTC EDU Tech Webinar series.</a>
+        </div-->
+        <div>Visit the <a href="https://ptc-education.github.io/docs/thought-leadership/webinars">archive of Webinar Recordings</a> to watch past PTC Education Webinars.<br /><br />
         </div>
     </div>
     <div class="container">
