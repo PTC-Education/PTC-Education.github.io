@@ -273,7 +273,7 @@ description: Links to general PTC resources for learning how to use PTC DX and I
             </table>
         </div>
     </div>
-    <div class="container">
+    <!--div class="container">
         <h2>Vuforia Chalk</h2>
         <div>
             <table>
@@ -299,5 +299,5 @@ description: Links to general PTC resources for learning how to use PTC DX and I
                 </tbody>
             </table>
         </div>
-    </div>
+    </div-->
 <section>
