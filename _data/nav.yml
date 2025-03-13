@@ -11,8 +11,8 @@
       url: /docs/tech/design
     - title: Connectivity
       url: /docs/tech/connectivity
-    - title: Digital Thread
-      url: /docs/tech/thread
+#    - title: Digital Thread
+#      url: /docs/tech/thread
 - title: Solutions
   url: /docs/solutions
   sublinks:
